@@ -1,0 +1,760 @@
+=== PDF PAGE 1 ===
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+ 
+Pamukkale Üniversitesi Mühendislik Bilimleri Dergisi 
+ Pamukkale University Journal of Engineering Sciences 
+ 
+783 
+ 
+Filament inceliği ve disk tipinin DTY polyester ipliklerin fiziksel ve 
+mekanik özelliklerine etkilerinin incelenmesi  
+Investigation of the effects of filament fineness and disc type on yarn 
+physical and mechanical properties of DTY polyester yarns  
+Gülbin FİDAN1* , Yasemin KORKMAZ2 , Halil İbrahim ÇELİK3  
+1El Sanatları Bölümü, Naci Topçuoğlu Meslek Yüksekokulu, Gaziantep Üniversitesi, Gaziantep, Türkiye. 
+[REDACTED_EMAIL] 
+2Tekstil Mühendisliği Bölümü, Mühendislik-Mimarlık Fak., Kahramanmaraş Sütçü İmam Üniversitesi, Kahramanmaraş, Türkiye. 
+[REDACTED_EMAIL] 
+3Tekstil Mühendisliği Bölümü, Mühendislik Fakültesi, Gaziantep Üniversitesi, Gaziantep, Türkiye. 
+[REDACTED_EMAIL] 
+Geliş Tarihi/Received: 14.01.2022 
+Kabul Tarihi/Accepted: 30.01.2023 
+Düzeltme Tarihi/Revision: 26.01.2023 doi: 10.5505/pajes.2023.03271 
+Araştırma Makalesi/Research Article 
+ 
+Öz  Abstract 
+Polyester lifi, halı endüstrisinde ATY (Hava Jetli Tekstüre İplik), DTY 
+(Çekimli Tekstüre İplik), BCF (Hacimli Sonsuz Filament) gibi farklı 
+formlarda halı ipliği olarak kullanım alanı bulmuştur. Filament inceliği, 
+iplik kopma mukavemetine ve kopma uzamasın a etki eden önemli bir 
+parametredir. Farklı filament incelikleri ile üretilen hav ipliklerinin 
+kopma mukavemeti, kopma uzaması, kıvrım kısalması, sıcakta çekme 
+özellikleri ile bu hav ipliklerinden üretilen halıların rezilyans 
+özelliklerinin farklı olması b eklenmektedir. Filament inceliğinin yanı 
+sıra, farklı yapılardaki poliüretan ve seramik disklerin kullanımı, DTY 
+iplik özelliklerini etkiler. Üretim sırasında uygun disk seçimi bu nedenle 
+önem arz etmektedir. Bu çalışmada, üç farklı filament sayılarında ve  
+farklı disklerle üretilen DTY polyester hav ipliklerinin fiziksel özellikleri 
+incelenmiştir.  DTY hav iplikleri, 1200 denye doğrusal yoğunlukta, 3.13, 
+2.08, 1.56 dpf filament inceliklerinde üretilmiştir. İplik numunelerine 
+poliüretan ve seramik olarak iki  farklı disk tipinde yalancı büküm 
+tekstüre işlemi uygulanmıştır. DTY hav iplik numunelerine kopma 
+mukavemeti, kopma uzaması, kıvrım kısalması ve sıcakta çekme testleri 
+uygulanmıştır. Sonuçlar istatistiksel olarak analiz edilip filament 
+inceliğinin ve disk tipinin, iplik fiziksel özellikleri üzerine anlamlı etkiye 
+sahip olup olmadığı belirlenmiştir. Filament inceliğinin kopma 
+mukavemeti üzerinde anlamlı etkisi olmazken kopma uzaması, kıvrım 
+kısalması ve sıcakta çekme üzerinde anlamlı bir etkisi olduğu 
+görülmüştür. Disk tipinin ise kopma mukavemeti, kopma uzaması, 
+kıvrım kısalması üzerinde anlamlı etkisi varken, sıcakta çekme 
+sonuçları üzerine etkisinin olmadığı sonucuna varılmıştır. 
+ Polyester fiber has found usage as carpet yarn in different forms such as 
+ATY (Air Textured Yarn), DTY (Drawn Textured Yarn), BCF (Bulked 
+Continuous Filament). Filament fineness is an important parameter 
+which affects the yarn properties. In this context, it is expected that pile 
+yarns produced with different filament finenesses will have different 
+breaking strength, breaking elongation, crimp contraction, and 
+shrinkage properties, so carpets produced from these yarns will have 
+different resilience property. In addition, usage of polyurethane and 
+ceramic discs which have different  characteristic, affect DTY yarn 
+properties. In this study, physical properties of DTY polyester pile yarns 
+produced with different filament numbers and different discs were 
+investigated. 1200 denier DTY pile yarns were produced by combining 
+filaments with 3.13, 2.08, 1.56 dpf filament fineness. Yarn production 
+was carried out by false twist texturing method with polyurethane and 
+ceramic discs. DTY pile yarn samples were subjected to breaking 
+strength, breaking elongation, crimp contraction and shrinkage tests. It 
+was observed that filament fineness had no significant effect on 
+breaking strength but had significant effect on breaking elongation, 
+crimp contraction and shrinkage tests. Also, disc type had significant 
+effect on breaking strength, breaking elongation, crimp contraction and 
+it did not have significant effect on shrinkage test. 
+Anahtar kelimeler: DTY, Polyester, Filament inceliği, Disk tipi, H av 
+ipliği. 
+ Keywords: DTY, Polyester, Filament fineness, Disc type, Pile yarn. 
+1 Giriş 
+Tekstil endüstrisinde en fazla kullanılan sentetik lif olan 
+polyester, günlük konfeksiyon ürünlerinden teknik tekstillere 
+kadar çok geniş bir kullanım alanına sahiptir. Halı 
+endüstrisinde zemin çözgüsü, dolgu çözgüsü ve hav çözgüsü 
+olarak, saf veya farklı liflerle karışımı halinde kullanımı tercih 
+edilebilmektedir. Halı ipliğinde, genel olarak ATY (Air Textured 
+Yarn), DTY (Draw Texture d Yarn), BCF (Bulked Continuous 
+Filament) gibi farklı formlarda kullanılmaktadır. Halı hav ipliği 
+olarak yaygın biçimde kullanılan BCF -polipropilene göre daha 
+ince filament şeklinde üretimi mümkün olmaktadır. Polyester 
+                                                           
+*Yazışılan yazar/Corresponding author 
+hav iplikleri ile üretilen halılarda görülen yumuşak tuşe ve daha 
+parlak renkler, polipropilen hav iplikleri ile üretilen halılara 
+göre üstünlük sağlamaktadır. Polyesterin yüksek mukavemetli 
+yapısı da, polipropilene göre artan bir kullanım trendi 
+yakalamasını sağlamıştır. 
+İplik mekanik, terma l ve geçirgenlik özelliklerinin lif inceliği, 
+kesitteki lif sayısı, lif mukavemeti, lif kesit şekli, iplik doğrusal 
+yoğunluğu gibi fiziksel özelliklerden ve üretim 
+parametrelerinden doğrudan etkilendiği bilinmektedir. 
+Sentetik ipliklerde, tekstüre olarak a dlandırılan mekanik ve 
+termal işlemler sonunda, iplik elastikiyeti, hacimliliği ve kıvrım 
+özelliklerinde değişiklikler meydana gelmektedir. Bu 
+
+
+=== PDF PAGE 2 ===
+ 
+ 
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+G. Fidan, Y. Korkmaz, H.İ. Çelik 
+ 
+784 
+ 
+değişimler iplik yapısı yanında, bu ipliklerden üretilen 
+kumaşların da yapı ve performans özeliklerine etki etmektedir. 
+Literatürde filament inceliğinin, iplik ve kumaş özelliklerine 
+etkileri üzerine birçok çalışma mevcuttur [1]-[9]. Özkan 
+çalışmasında filament sayısının, kesit şeklinin ve lineer 
+yoğunluğunun POY ve tekstüre iplik özellikleri üzerinde etkisi 
+olduğu sonucuna varmıştır [1]. Özkan ve Babaarslan yaptıkları 
+çalışmada iplik kesitindeki filament sayısının tekstüre iplik 
+özellikleri üzerine etkisini araştırmışlardır. Çalışma sonunda 
+iplik kesitinde artan filament sayısının, iplik kopma 
+mukavemeti, kopma uzama sı, kıvrım kısalması ve sıcakta 
+çekme özellikleri üzerinde istatistiksel olarak anlamlı etkiye 
+sahip olduğu sonucuna varmışlardır [2].  Aydoğdu ve Yılmaz, üç 
+farklı iplik inceliğinde üretilen dual -core ipliklerin iplik 
+(düzgünsüzlük, ince yer, kalın yer, n eps, tüylülük, kopma 
+mukavemeti, kopma uzaması) ve kumaş (mukavemet ve eğilme 
+rijitliği) özelliklerine etkisini incelemişlerdir. İplik inceliğinin, 
+iplik ve kumaş özellikleri üzerinde önemli bir etkiye sahip 
+olduğu sonucuna varmışlardır [3]. Varshney ve diğ. polyester lif 
+inceliğinin ve kesit şeklinin iplik özelliklerine etkisini 
+araştırmışlardır. Farklı kesit ve inceliğe sahip lifler, farklı 
+büküm seviyelerinde eğrilmiştir. Lif doğrusal yoğunluğundaki 
+artışla, Young  modülünün yanı sıra, ipliklerdeki eğilme 
+rijitliğinin arttığını belirtmişlerdir [4]. AL -ansary çalışmasında 
+farklı filament inceliğindeki polyester atkı ipliklerinin, dokuma 
+kumaş özellikleri üzerindeki etkisini araştırmıştır. Bu 
+bağlamda 34, 48, 108, 144  ve 208 filament sayılarında, 150 
+denye polyester iplik üretimi gerçekleştirmiştir. Üretilen 
+polyester kumaş özelliklerinin, iplik kesitindeki filament 
+sayısından önemli derecede etkilendiği sonucuna ulaşmıştır. Bu 
+sonuçlar doğrultusunda iplik kesitindeki filament sayısı 
+arttıkça, kumaş kalınlığı, kopma mukavemeti, kopma uzaması 
+ve kırışma (crease recovery) artarken, kumaş hava geçirgenliği, 
+aşınma sonrasında ağırlık kaybı ve yırtılma mukavemetinde 
+azalma olduğunu tespit etmiştir [5]. Akıncı ve diğ. aynı doğrusal 
+yoğunlukta, farklı filament inceliklerinde üretilen 
+mikrofilament dokuma kumaşlarda geçirgenlik özelliklerini 
+incelemişlerdir [6]. Kaynak ve Babaarslan farklı filament 
+incelikleri ile üretilen mikrolif örgü kumaşların performans 
+özelliklerini araştı rmışlardır [7]. Babaarslan ve diğ. yaptıkları 
+çalışmada, farklı filament sayılarında multifilament polyester 
+iplikler kullanarak denim kumaş üretmişler ve bu kumaşların 
+performans özelliklerini incelemişlerdir [8]. Zarrebini ve diğ.  
+farklı hızlarda üretile n polipropilen liflerin fiziksel özellikleri 
+üzerinde lif inceliğinin etkisini araştırmışlardır [9]. Önceki 
+çalışmalar incelendiğinde, tekstüre parametrelerinin iplik 
+özellikleri üzerine etkilerinin incelendiği çalışmaların 
+bulunduğu görülmektedir [10 ]-[13]. Çirkin yaptığı çalışmada, 
+iplik hızı, çekim oranı (D/R), disk kombinasyonu gibi yalancı 
+büküm tekstüre parametrelerinde yapılan değişikliklerin, iplik 
+özelliklerinde farklılıklara neden olduğunu belirlemiştir [10]. 
+Stojanovic ve diğ.  yalancı büküm tekst üre parametrelerinin 
+polyester iplik yapısı üzerindeki etkisini araştırmışlardır. 
+Tekstüre hızı ve fırın sıcaklığının, iplik yapısı ve kıvrım 
+kısalması özelliklerini etkileyen önemli parametreler olduğu 
+sonucuna ulaşmışlardır [11]. Özat yaptığı çalışmada, lif enine 
+kesit şeklinin ve fırın sıcaklığının, üretilen iplik ve kumaş 
+özellikleri üzerinde etkisinin olduğu sonucuna ulaşmıştır [12]. 
+Yıldırım ve diğ. çekim oranı, D/Y oranı gibi tekstüre iplik üretim 
+parametrelerinin iplik kıvrım, dayanım ve kristallik 
+özelliklerine olan etkilerini incelemişlerdir. Yaptıkları çalışma 
+sonucunda çekim ve D/Y parametrelerinin kristallik yüzdesi 
+üzerinde önemli bir etkisinin olmadığı, ancak dayanım ve 
+kıvrım özelliklerinde etkilerinin olduğu sonucuna varmışlardır 
+[13]. 
+Bu ça lışmada, farklı filament inceliklerinde üretilen DTY 
+polyester ipliklerine farklı disk tipleri kullanılarak tekstüre 
+işlemi uygulanmıştır. Yapılan istatistiksel analizler ile filament 
+inceliğinin ve tekstüre disk tipinin iplik kopma mukavemeti, 
+kopma uzaması, kıvrım kısalması ve sıcakta çekme özelliklerine 
+olan etkileri incelenmiştir.  
+2 Materyal ve metot 
+Yapılan çalışma kapsamında üretilen DTY hav ipliklerinin 
+özellikleri Tablo 1’de  gösterilmiştir. DTY iplik üretimi, 300 
+denye doğrusal yoğunlukta, 96, 144 ve 192 filament sayısına 
+sahip 4 POY (Partially Oriented Yarn) ipliğinin birleştirilmesi 
+şeklinde gerçekleşmiştir. Tekstüre işlemi 1 -6-1 
+kombinasyonunda, poliüretan ve seramik olmak üzere iki farklı 
+friksiyon disk tipi kullanılarak gerçekleştirilmiş ve diğer üretim 
+parametreleri sabit tutulmuştur. Polyester DTY iplik üretimleri 
+KORTEKS Mensucat Sanayi ve Tic. AŞ. (KORTEKS) firmasında 
+gerçekleştirilmiştir. 
+Elde edilen iplik numunelerinin kıvrım kısalması, sıcakta 
+çekme, kopma uz aması ve kopma mukavemeti performans 
+özellikleri test edilmiştir. Tüm numuneler testler 
+uygulanmadan önce ISO 139 Standartlarına uygun olarak 20 °C 
+± 2 ve %65 ± 2 bağıl nem ortamında kondüsyonlanmıştır [14]. 
+İklimlendirme için numuneler en az 12 sa . bekletilmiştir. 
+Testler Korteks Mensucat San. ve Tic. AŞ. laboratuvarında 
+gerçekleştirilmiştir. 
+ 
+ 
+Tablo 1. DTY polyester iplik özellikleri. 
+Table 1. DTY polyester yarn properties. 
+Numune 
+Kodu 
+POY Doğrusal 
+Yoğunluğu 
+(denye) 
+POY 
+Filament 
+Sayısı 
+DTY Doğrusal 
+Yoğunluğu (denye) 
+DTY Filament 
+Sayısı 
+DTY filament inceliği 
+(dpf) 
+Disk Tipi 
+PU-313 300 96 1200 384 3.13 poliüretan 
+SE-313 300 96 1200 384 3.13 seramik 
+PU-208 300 144 1200 576 2.08 poliüretan 
+SE-208 300 144 1200 576 2.08 seramik 
+PU-156 300 192 1200 768 1.56 poliüretan 
+SE-156 300 192 1200 768 1.56 seramik 
+ 
+
+=== PDF PAGE 3 ===
+ 
+ 
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+G. Fidan, Y. Korkmaz, H.İ. Çelik 
+ 
+785 
+ 
+ 
+Kıvrım kısalması değerlerinin ölçümü için, filament iplikler 
+öncelikle kıvrım oluşumu ve sabitlenmesi amacıyla 120  °C’de 
+10 d k. bekletilmiştir. Fırından çıkan ipliklerin standart 
+laboratuvar şartlarında (ISO 139; 20 °C±2 ve %65±2 bağıl nem) 
+12 sa . bekletilmesi sonrasında, Texturmat ME cihazı 
+kullanılarak ipliklerin sırayla 500 g (2 cN/Tex) ağırlık altında 
+‘Lg’ uzunlukları ve 2.5  g (0.01 cN/Tex) ağırlık altında ‘Lz’ 
+uzunlukları ölçülmüştür. Her numuneden DIN 53840 -2 (1983) 
+standardı doğrultusunda 2 ölçüm alınarak test yapılmıştır [15]. 
+Test sonucunda, kıvrım kısalması aşağıda görülen formül 
+doğrultusunda (1) hesaplanmıştır.  
+Kıvrım Kısalması =  
+𝐿𝑔 − 𝐿𝑧
+𝐿𝑔
+𝑥 100 (1) 
+İplik numunelerinin sıcakta çekme yüzdeleri ISO 18067 (2015) 
+standardına göre Texturmat ME cihazı ile belirlenmiştir [16]. 
+Sıcakta çekme; tekstüre  ipliklerin kaynar suda ıslatılıp 
+kurutulmasından veya yüksek sıcaklığa maruz bırakılmasından 
+sonra, boydaki çekmesi olarak ifade edilir. Bu çalışmada iplik 
+numuneleri, her bobinden ikişer numune alınmak suretiyle 
+etüvde 190 °C’de kuru havaya maruz bırakılm ıştır. 
+Numunelerin, sıcak havayla muamele öncesi ve sonrası 
+uzunlukları ölçülmüş ve aşağıda verilen formül doğrultusunda 
+(2) % sıcakta çekme dereceleri belirlenmiştir [17]. 
+Sıcakta Çekme (%)  =  
+𝑙𝑔1−𝑙𝑔2
+𝑙𝑔1
+ 𝑥 100 (2) 
+Burada; 
+lg1: İlk uzunluk (cm), 
+lg2: Isıl işlem sonrası uzunluktur (cm). 
+İplik numunelerinin kopma mukavemeti ve kopma uzaması 
+değerleri ISO 2062 (2009) standardına göre ölçülmüştür [18]. 
+İpliklerin kopma mukavemeti ve kopma uzaması testleri, 
+Statimat ME cihazında gerçekleştirilmiştir. İ statistiksel analiz 
+için SPSS 21.0 programı kullanılarak ANOVA analizi (varyans 
+analizi) yapılmıştır. Tüm sonuçlar %95 güven aralığında 
+değerlendirilmiştir. 
+3 Bulgular ve tartışma 
+3.1 İplik kopma mukavemeti test sonuçları  
+Şekil 1’de iplik kopma mukavemeti test sonuçları 
+görülmektedir. Sonuçlar disk tipinin farklılığı açısından 
+değerlendirildiğinde, poliüretan diskler ile üretilen DTY 
+ipliklerinin seramik diskle üretilenlere göre daha yüksek 
+kopma mukavemeti değerlerine sahip oldukları görülmektedir. 
+Bu durum seramik disklerin poliüretan disklere göre daha sert 
+yüzey özelliğine sahip olmaları ile açıklanabilir. Yüzey 
+sertliğinden dolayı seramik diskler filament ipliğe zarar 
+verebilmekte ve sonuç olarak iplik kopma mukavemetinde ve 
+kopma uzamasında azalmaya neden o lmaktadır [12]. 
+Poliüretan diskler daha yumuşak bir yüzeye sahip olduğu için 
+tekstüre işlemi sırasında iplik yüzeyine zarar vermediği 
+düşünülmektedir. Ancak, yüksek filament sayılarında ve kalın 
+iplik üretiminde poliüretan disk yapısı daha hızlı deforme 
+olduğu için kullanım süreleri kısa olmaktadır. Sonuçlar, 
+filament inceliği açısından değerlendirildiğinde, numuneler 
+arasında önemli bir fark görülmemektedir. Ayrıca, filament 
+inceliğine göre değişen herhangi bir trend belirlenmemiştir. 
+ 
+Şekil 1. DTY iplik kopma mukavemeti test sonuçları. 
+Figure 1. DTY yarn breaking strength test results. 
+İplik kopma mukavemeti için uygulanan iki yönlü ANOVA test 
+sonuçları Tablo 2’de verilmektedir. 
+Sonuçlar doğrultusunda anlamlılık değeri p=0.090>0.05 
+olduğundan, filament  inceliğinin iplik kopma mukavemeti 
+üzerinde, istatistiksel olarak anlamlı bir etkisinin olmadığı 
+görülmektedir. Üretim sırasında kullanılan disk tipinin ise 
+anlamlılık değeri p= 0.000 olduğundan iplik kopma 
+mukavemeti üzerinde istatistiksel olarak anlamlı  bir etkisi 
+olduğu belirlenmiştir. Filament inceliği ve disk tipinin birlikte 
+etkisi incelendiğinde, anlamlılık değeri p=0.076> 0.05 
+olduğundan, sonuçlar üzerinde istatistiksel olarak anlamlı bir 
+etkisi olmadığı tespit edilmiştir. 
+ 
+Tablo 2. İplik kopma mukavemeti için iki yönlü ANOVA sonuçları. 
+Table 2. Two-way ANOVA results for yarn breaking strength. 
+Bağımlı Değişken: İplik Kopma Mukavemeti 
+Kaynak Tip IV Kareler Toplamı df Kareler Ortalaması F Sig. Etki Düzeyi 
+Düzeltilmiş Model 1.143a 5 0.229 33.745 0.000 0.875 
+Kesişim 297.675 1 297.675 43948.081 0.000 0.999 
+Filament inceliği 0.036 2 0.018 2.662 0.090 0.182 
+Disk tipi 1.068 1 1.068 157.656 0.000 0.868 
+Filament inceliği * disk 
+tipi 
+0.039 2 0.019 2.874 0.076 0.193 
+Hata 0.163 24 0.007    
+Toplam 298.980 30     
+Düzeltilmiş Toplam 1.305 29     
+a. R²= 0.875 (Düzeltilmiş R²= 0.850). 
+ 
+ 
+
+
+=== PDF PAGE 4 ===
+ 
+ 
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+G. Fidan, Y. Korkmaz, H.İ. Çelik 
+ 
+786 
+ 
+ 
+3.2 İplik kopma uzaması test sonuçları 
+İplik kopma uzaması test sonuçları Şekil 2’de görülmektedir. 
+Kopma mukavemeti sonuçlarında olduğu gibi, poliüretan 
+disklerle seramik diskler arasında fark görülmektedir. Tüm 
+filament incelikleri için poliüretan disklerde daha yüksek 
+kopma uzaması değerleri elde edilirken seramik f riksiyon 
+diskleri ile tekstüre edilen numunelerde daha düşük kopma 
+uzaması değerleri elde edilmiştir. Bu durum, kopma 
+mukavemeti sonuçlarında olduğu gibi seramik disklerin sert 
+yüzeylerinin filamentleri deforme etmesi ile açıklanabilir [12]. 
+ 
+Şekil 2. DTY iplik kopma uzaması test sonuçları. 
+Figure 2. DTY yarn breaking elongation test results. 
+Kopma uzaması sonuçları filament inceliği açısından 
+karşılaştırıldığında, kalın filamentlerle üretilen DTY iplik 
+numunelerinin daha iyi kopma uzaması sonuçlarına sah ip 
+olduğu görülmektedir. Bu durum tekstüre işlemi sırasında, iplik 
+kesitindeki filament sayısı fazla olan ince filamentli ipliklerde, 
+filamentlerin daha fazla sürtünme etkisine maruz kalarak 
+yapılarında bir miktar zayıflamaya neden olmasına 
+bağlanmaktadır [2].  
+Şekil 3’te farklı filament inceliklerinde üretilen PU-313, SE-313, 
+PU-208, SE -208, PU -156 ve SE -156 iplik numunelerinin 
+mikroskop altındaki kesit görünümleri verilmektedir. Daha 
+ince filamentlerden üretilen ve kesitinde daha fazla filament 
+bulunan PU -156 ve SE -156 iplik numunelerinde, filamentler 
+arasında daha az boşluk bulunduğu ve birbirlerine yakınlığı 
+sebebi ile sürtünme eğiliminin daha yüksek olacağı 
+görülmektedir. 
+Tablo 3’te iplik kopma uzaması için yapılan iki yönlü ANOVA 
+test sonuçları görülmektedir. Sonuçlar incelendiğinde filament 
+inceliğinin ve disk tipinin kopma uzaması üzerinde istatistiksel 
+olarak anlamlı (p=0.000) etkiye sahip olduğu görülmektedir. 
+İplik kopma uzaması üzerinde filament inceliğinin ve disk 
+tipinin birlikte etkisi incelend iğinde (p = 0.342 > 0.05) 
+istatistiksel olarak anlamlı bir ilişki tespit edilmemiştir. 
+ 
+Şekil 3. Farklı filament sayılarında üretilen iplik 
+numunelerinin mikroskop görüntüleri (x10). 
+Figure 3. Microscope views of yarn samples produced with 
+different filament numbers (x10). 
+3.3 İplik kıvrım kısalması test sonuçları 
+Aynı filament  inceliğine sahip numunelerin poliüretan ve 
+seramik disklerden üretilen test sonuçları incelendiğinde, 
+poliüretan disklerle üretilen DTY iplik numunelerinin kıvrım 
+kısalması sonuçlarının, kopma mukavemeti ve kopma uzaması 
+sonuçlarında olduğu gibi daha yüks ek olduğu görülmektedir. 
+Poliüretan disklerle gerçekleştirilen tekstüre iplik üretimlerde 
+hacimli iplik yapıları elde edilmektedir [12]. Kıvrım kısalması, 
+iplik hacimliliğini etkilemekte ve daha yüksek kıvrım kısalması, 
+daha fazla iplik hacimliliği anlamına gelmektedir [2]. Poliüretan 
+disk yapısı ve yüksek kopma uzaması değerleri nedeniyle bu 
+iplik numunelerinde yüksek kıvrım kısalması değerleri elde 
+edilmiştir (Şekil 4). 
+DTY iplik test sonuçları filament  inceliği açısından 
+değerlendirildiğinde, her iki disk tipinde de ince filamentli 
+numunelerde, kıvrım kısalmasının daha düşük olduğu 
+görülmektedir. Elde edilen bu sonuçlar Özkan ve Babaarslan’ın 
+sonuçlarıyla örtüşmektedir [2]. İnce filamentlerle üretilen iplik 
+yapılarının daha kompakt bir yapıda olması kıvrım kısalması 
+değerlerinin düşmesine ve iplik hacimliliğin in azalmasına 
+neden olmaktadır. Daha kalın filamentlerle üretilen DTY 
+iplikler daha hacimli bir yapıya sahip olmaktadır. İnce 
+filamentlerden üretilen ipliklerde daha sıkı bir yapının olması 
+liflere hareket alanı bırakmamaktadır. 
+ 
+Tablo 3. İplik kopma uzaması için iki yönlü ANOVA sonuçları. 
+Table 3. Two-way ANOVA results for yarn breaking elongation. 
+Bağımlı Değişken: İplik Kopma Uzaması 
+Kaynak Tip IV Kareler Toplamı df Kareler Ortalaması F Sig. Etki Düzeyi 
+Düzeltilmiş Model 686.979a 5 137.396 96.776 0.000 0.953 
+Kesişim 12841.455 1 12841.455 9044.966 0.000 0.997 
+Filament inceliği 450.383 2 225.192 158.615 0.000 0.930 
+Disk tipi 233.411 1 233.411 164.405 0.000 0.873 
+Filament inceliği * disk tipi 3.184 2 1.592 1.121 0.342 0.085 
+Hata 34.074 24 1.420    
+Toplam 13562.508 30     
+Düzeltilmiş Toplam 721.052 29     
+a. R² = 0.953 (Düzeltilmiş R²= 0.943). 
+ 
+
+
+=== PDF PAGE 5 ===
+ 
+ 
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+G. Fidan, Y. Korkmaz, H.İ. Çelik 
+ 
+787 
+ 
+ 
+ 
+Şekil 4. DTY iplik % kıvrım kısalması test sonuçları. 
+Figure 4. DTY yarn % crimp contraction test results. 
+Tablo 4’te verilen iki yönlü ANOVA sonuçlarına incelendiğinde, 
+filament inceliğinin ve disk tipinin istatistiksel olarak anlamlı 
+(p=0.000< 0.05) bir etkisi olduğu görülmektedir. Her iki 
+parametrenin birlikte etkisi incelendiğinde ise yine kıvrım 
+kısalması üzerinde anlamlı (p = 0.001 < 0.05) bir etki 
+görülmektedir.   
+3.4 İplik sıcakta çekme test sonuçları 
+Şekil 5’te DTY iplik numunelerinin sıcakta çekme test sonuçları 
+görülmektedir. İplik kopma mukavemeti, kopma uzaması ve 
+kıvrım kısalması test sonuçlarının aksine sıcakta çekme 
+sonuçlarında belirgin bir trend görülmemektedir. Poliüretan ve 
+seramik disk tipleri ile üretilen DTY iplik numuneleri arasında, 
+önemli bir fark görülmemektedir. Filament inceliği açısından 
+sonuçlar değerlendirildiğinde,  3.13 ve 2.08 dpf inceliğindeki 
+filamentlerle üretilen DTY iplik numunelerinin her iki dis k 
+tipinde sıcakta çekme performanslarının aynı olduğu 
+görülmektedir. Bu durumla birlikte, 1.56 dpf filament inceliğine 
+sahip numunelerde sıcakta çekme oranlarının biraz daha fazla 
+olduğu görülmektedir. 
+ 
+Şekil 5. DTY iplik sıcakta çekme test sonuçları. 
+Figure 5. DTY yarn % shrinkage test results. 
+Tablo 5’te sıcakta çekme testi için yapılan iki yönlü ANOVA test 
+sonuçları görülmektedir. Sonuçlar doğrultusunda, filament 
+inceliği ile sıcakta çekme sonuçları arasında istatistiksel olarak 
+anlamlı (p = 0.000) bir ilişki olduğu görülmektedir. Disk tipinin 
+ise sıcakta çekme üzerinde istatistiksel olarak anlamlı bir etkisi 
+bulunmamaktadır (p = 0.055 > 0.05). Filament inceliği ve disk 
+tipi bağımsız değişkenlerin birlikte etkisi incelendiğinde ise 
+(p=0.000) istatistiksel olarak anlamlı bir ilişki bulunmaktadır. 
+Hav iplik numunelerine uygulanan testlerin birbirleri 
+arasındaki etkileşimin incelenebilmesi adına yapılan 
+korelasyon analizi sonuçları Tablo  6’da görülmektedir. 
+Korelasyon analizi sonuçları incelendiğinde, kopma  
+mukavemeti ve kopma uzaması sonuçları arasında pozitif ve 
+anlamlı bir ilişki olduğu görülmektedir. Kopma mukavemeti 
+sonuçları arttıkça kopma uzaması sonuçları artmaktadır 
+(r=0,522; p=0,003). Aynı şekilde, kopma mukavemeti ve 
+kıvrım kısalması sonuçları ara sında da pozitif ve anlamlı bir 
+ilişki vardır (r=0,519; p=0,027). Ancak kopma mukavemeti ve 
+sıcakta çekme sonuçları arasında anlamlı bir ilişki 
+bulunmamaktadır (r=0,208; p=0,408). Yapılan iplik testleri 
+içerisinde en güçlü ilişki kopma uzaması ve kıvrım kı salması 
+sonuçları arasında görülmektedir ve aralarında pozitif ve 
+anlamlı bir ilişki bulunmaktadır (r= 0,928, p=0,000).  Kopma 
+uzaması ve sıcakta çekme sonuçları arasında ise negatif ve 
+anlamlı bir ilişki bulunmaktadır (r=-0,661, p=0,003) ve kopma 
+uzaması değerleri arttıkça sıcakta çekme oranları düşmektedir. 
+Kıvrım kısalması sonuçları ile sıcakta çekme sonuçları arasında 
+negatif ve anlamlı bir ilişki görülmektedir ve kıvrım kısalması 
+değerleri arttıkça sıcakta çekme değerleri azalmaktadır  
+(r=-0,545; p=0,019).  
+4 Sonuçlar 
+İplik kesitindeki filament sayısı iplik özelliklerine etki eden en 
+önemli faktörlerden birisidir. Aynı doğrusal yoğunlukta, farklı 
+filament sayıları ile üretilen ipliklerin farklı davranışlar 
+göstermesi beklenir. Ayrıca tekstüre iplik üretiminde kullanılan 
+diskler iplik yapısına direk etki ettiğinden farklı disk tipleri ile 
+üretilen tekstüre ipliklerin özelliklerinde de farklılar 
+olmaktadır. Bu çalışmada, farklı filament inceliklerinde ve farklı 
+disk tipleri ile üretilen DTY ipliklerin fizikse l ö zellikleri 
+karşılaştırılmıştır. İplik kesitindeki lif sayısının artması ile iplik 
+kopma mukavemetinde ve kopma uzamasında artış beklenen 
+bir durumdur. Ancak literatürde de görüldüğü gibi [2] bu 
+çalışmada da beklenenin aksine bir durum söz konusudur. 
+Aynı doğrusal yoğunlukta ve farklı filament inceliklerinde 
+üretilen iplik numuneleri arasında kopma mukavemeti 
+açısından önemli bir fark görülmemiştir. Bu durumun yanı sıra 
+filamentler inceldikçe kopma uzamalarında azalma meydana 
+gelmiştir. Kopma mukavemet i ve kopma uzamasında elde 
+edilen sonuçlar doğrultusunda, tekstüre ipliklerde kesitteki 
+filament sayısının artması sonucunda filamentler arasındaki 
+artan sürtünme kuvvetlerinin iplik yapısında bir miktar 
+zayıflamaya neden olduğu sonuna varılmıştır. Kıvrım kısalması 
+iplik hacimliliğini ifade etmektedir ve yüksek kıvrım kısalması 
+değerleri iplik hacimliliğinin fazla olduğu anlamına 
+gelmektedir. Yapılan çalışmada, önceki çalışma sonuçlarıyla 
+paralel olarak, filamentler inceldikçe kıvrım kısalması 
+değerlerinin düştüğü tespit edilmiştir [2]. İnce filamentlerle 
+gerçekleştirilen iplik üretimlerinde elde edilen düşük kopma 
+uzaması değerlerinin yanında bu ipliklerin daha sıkı ve 
+kompakt bir yapıya sahip olması filamentlere hareket alanı 
+bırakmamış ve daha az hacimli bir yapının oluşmasına neden 
+olmuştur. Sonuç olarak kalın filamentlerle üretilen DTY 
+ipliklerinde daha hacimli bir iplik yapısı söz konusudur. İplik 
+numunelerinin sıcakta çekme sonuçları incelendiğinde 3.13 ve 
+2.08 dpf inceliğe sahip filamentlerle üretilen  DTY iplik 
+numuneleri arasında önemli bir fark görülmemektedir. Ancak , 
+1.56 dpf filamentler ile üretilen numunelerin sıcakta çekme 
+değerlerini daha yüksektir. 
+ 
+
+
+=== PDF PAGE 6 ===
+ 
+ 
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+G. Fidan, Y. Korkmaz, H.İ. Çelik 
+ 
+788 
+ 
+ 
+Tablo 4. Kıvrım kısalması testi için iki yönlü ANOVA sonuçları. 
+Table 4. Two-way ANOVA results for yarn crimp contraction. 
+Bağımlı Değişken: Kıvrım Kısalması 
+Kaynak Tip IV Kareler Toplamı df Kareler Ortalaması F Sig. Etki Düzeyi 
+Düzeltilmiş Model 546.918a 5 109.384 212.659 0.000 0.989 
+Kesişim 18702.425 1 18702.425 36360.495 0.000 1.000 
+Filament inceliği 374.207 2 187.104 363.759 0.000 0.984 
+Disk tipi 160.384 1 160.384 311.812 0.000 0.963 
+Filament inceliği * disk tipi 12.327 2 6.163 11.982 0.001 0.666 
+Hata 6.172 12 0.514    
+Toplam 19255.515 18     
+Düzeltilmiş Toplam 553.090 17     
+a. R² = 0.989 (Düzeltilmiş R²= 0.984). 
+Tablo 5. Sıcakta çekme testi için iki yönlü ANOVA sonuçları 
+Table 5. Two-way ANOVA results for yarn shrinkage. 
+Bağımlı Değişken: Sıcakta Çekme 
+Kaynak Tip IV Kareler Toplamı df Kareler Ortalaması F Sig. Etki Düzeyi 
+Düzeltilmiş Model 2.851a 5 0.570 128.300 0.000 0.982 
+Kesişim 1054.936 1 1054.936 237360.500 0.000 1.000 
+Filament inceliği 2.671 2 1.336 300.500 0.000 0.980 
+Disk tipi 0.020 1 0.020 4.500 0.055 0.273 
+Filament inceliği * disk tipi 0.160 2 0.080 18.000 0.000 0.750 
+Hata 0.053 12 0.004    
+Toplam 1057.840 18     
+Düzeltilmiş Toplam 2.904 17     
+a. R² = 0.982 (Düzeltilmiş R²= 0.974). 
+Tablo 6. İplik testleri sonuçları arasındaki korelasyon analizi. 
+Table 6. Correlation analysis between yarn test results. 
+  Kopma mukavemeti Kopma uzaması Kıvrım kısalması Sıcakta çekme 
+Kopma mukavemeti Pearson 
+Korelasyonu 
+1,0 0,522** 0,519* 0,208 
+Sig.  0,003 0,027 0,408 
+Kopma uzaması 
+Pearson 
+Korelasyonu 
+0,522** 1,0 0,928** -0,661** 
+Sig.  0,003  0,000 0,003 
+Kıvrım kısalması 
+Pearson 
+Korelasyonu 
+0,519* 0,928** 1,0 -0,545* 
+Sig.  0,027 0,000  0,019 
+Sıcakta çekme Pearson 
+Korelasyonu 
+0,208 -0,661** -0,545* 1,0 
+Sig.  0,408 0,003 0,019  
+*: Korelasyon 0,05 seviyesinde anlamlıdır. **: Korelasyon 0,01 seviyesinde anlamlıdır. 
+ 
+Aynı filament inceliğinde poliüretan ve seramik diskler 
+kullanılarak üretilen iplik numunelerinin test sonuçlarına göre, 
+literatürle uyumlu olarak [12], poliüretan di sk tipi ile üretilen 
+numunelerin kopma mukavemeti, kopma uzaması ve kıvrım 
+kısalması (%) değerleri daha yüksektir. Bu sonuç seramik 
+disklerin iplik yapısına verdiği zarardan ileri gelmektedir. Disk 
+yapısı ve test sonuçlarından elde edilen yüksek kopma uzaması 
+değerleri nedeniyle poliüretan disklerle üretilen DTY iplik 
+numunelerinin, daha hacimli bir yapıya sahip olduğu sonucuna 
+varılmaktadır. Sıcakta çekme sonuçları disk tipi açısından 
+değerlendirildiğinde sonuçlar arasında önemli bir fark 
+görülmemektedir. Halı hav ipliklerinin hacimli bir yapıya sahip 
+olması beklenmektedir. Yapılan deneysel çalışmada, en hacimli 
+iplik yapısı, poliüretan diskler kullanılarak üretilen kalın 
+filamentli ipliklerle elde edilmiştir. Bu ipliklerin halı hav ipliği 
+olarak tercih edilebileceği sonucuna varılmıştır. 
+5 Conclusions 
+Number of filaments in the yarn structure is one of the 
+important factor that impacts the yarn features. Yarns 
+produced with the same linear density and different filament 
+numbers are expected to show different behaviours.  Also, since 
+the discs used in the production of textured yarn directly affect 
+the yarn structure, there are differences in the properties of the 
+textured yarns produced with different disc types. In this study, 
+physical properties of DTY polyester yarns produced with 
+different filament fineness and disc types are researched. 
+Increase in yarn breaking strength and breaking elongation is 
+expected w ith the increase of number of fibers in the yarn 
+cross-section. However, for breaking strength results, contrary 
+to expected in this study, no significant difference is observed 
+between the yarn samples produced at the same linear density 
+and different fil ament thickness. In addition to this situation, 
+breaking elongation results decrease as the filaments get finer. 
+Increasing with number of filaments in the cross -section and 
+increased friction between the filaments in textured yarns 
+cause these results. Crimp contraction means yarn bulkier and 
+so higher crimp contraction value results higher bulkier in the 
+yarn. In the study, it is deduced that the crimp contraction 
+values decrease as the filaments get finer. More compact yarn 
+
+=== PDF PAGE 7 ===
+ 
+ 
+ 
+ 
+Pamukkale Univ Muh Bilim Derg, 29(7), 783-789, 2023 
+G. Fidan, Y. Korkmaz, H.İ. Çelik 
+ 
+789 
+ 
+structure and lower breaking e longation values obtained from 
+yarns produced with finer filaments has caused this situation.  
+As a result, DTY yarns produced with coarser filaments have 
+more bulkier structure. When the shrinkage results of the yarn 
+samples are examined, there are no sign ificant difference 
+between DTY yarn samples produced with filaments with a 
+fineness of 3.13 and 2.08 dpf. However, the shrinkage values of 
+the samples produced with 1.56 dpf filaments are higher than 
+the others.  
+According to the test results of the yarn samples produced with 
+polyurethane and ceramic discs with same filament fineness; 
+breaking strength, breaking elongation and crimp contraction 
+values of the samples produced with the polyurethane disc type 
+are higher than those of ceramic disc. This is a pr obable result 
+of damaging effect of ceramic discs to the yarn structure. It is 
+concluded that, DTY yarn samples produced with polyurethane 
+discs have more bulkier structure due to the disc type and 
+higher breaking elongation values. According to shrinkage 
+results, there is no significant difference between yarn samples 
+produced by different disc types. 
+Carpet pile yarns are expected to have a bulky structure. 
+According to the experimental study, bulkier yarn structure is 
+obtained in the yarn samples produce d by polyurethane discs 
+and with coarser filaments. It is concluded that these yarns can 
+be preferred as carpet pile yarn.  
+6 Teşekkür 
+Bu çalışma, Kahramanmaraş Sütçü İmam Üniversitesi, Bilimsel 
+Araştırma Projeleri Birimi tarafından desteklenen 2019/1-18 D 
+[D6] No.lu araştırma projesi kapsamında gerçekleştirilmiştir. 
+Ayrıca, g erçekleştirilen çalışma için yazarlar KORTEKS AŞ, 
+Bursa, Türkiye şirketine ve çalışanlarına teşekkür eder. 
+7 Yazar katkı beyanı 
+Gerçekleştirilen çalışmada Gülbin FİDAN  fikrin oluşması, 
+tasarımın yapılması, literatür taraması ve kullanılan 
+malzemelerin temin edilmesi başlıklarında; Halil İbrahim 
+ÇELİK, elde edilen sonuçların değerlendirilmesi ve sonuçların 
+incelenmesi başlıklarında; Yasemin KORKMAZ yazım denetimi 
+ve içerik açısından makaleni n kontrol edilmesi ba şlıklarında 
+katkı sunmuşlardır. 
+8 Etik kurul onayı ve çıkar çatışması beyanı 
+Hazırlanan makalede etik kurul izni alınmasına gerek yoktur. 
+Hazırlanan makalede herhangi bir kişi/kurum ile çıkar 
+çatışması bulunmamaktadır. 
+9 Kaynaklar 
+[1] Özkan S.  Filament Kesit Şeklinin, Sayısının ve Lineer 
+Yoğunluğunun POY ve Tekstüre İplik Özelliklerine Etkisi. 
+Yüksek Lisans Tezi, Çukurova Üniversitesi, Adana, 
+Türkiye, 2008. 
+[2] Özkan S, Babaarslan O. “İplik kesitindeki filament 
+sayısının filament ve tekstüre  ipliklerin özellikleri 
+üzerindeki etkisi”. Tekstil ve Konfeksiyon , 20(1), 17 -22, 
+2010. 
+[3] Aydoğdu SHÇ, Yılmaz D. “Effect of yarn fineness and 
+core/sheath fibre types on the physical properties of dual-
+core yarns and fabrics”. Cellulose Chemistry and 
+Technology, 54(3-4), 381-394, 2020. 
+ 
+[4] Varshney RK, Kothari VK, Dhamija S. “Influence of 
+polyester fibre shape and size on the hairiness and some 
+mechanical properties of yarns”. Indian Journal of Fibre & 
+Textile Research, 39(1), 24-32, 2014. 
+[5] AL-ansary MAR. “The influence of number of filaments on 
+physical and mechanical characteristics of polyester 
+woven fabrics”. Life Science Journal, 9(3), 79-83, 2012. 
+[6] Akıncı FC, Kaynak HK, Korkmaz Y. “Filament inceliği ve 
+atkı sıklığının mikrofilament dokuma kumaşlarda 
+geçirgenlik özelliklerine etkileri”. Tekstil ve Mühendis , 
+25(111), 234-240, 2018. 
+[7] Kaynak HK, Babaarslan O. “Filament inceliğinin mikrolif 
+örgü spor giysiliklerin performans özelliklerine etkisinin 
+araştırılması”. Tekstil ve Mühendis, 17(78), 20-24, 2010.  
+[8] Babaarslan O, Telli A, Karaduman S. “Mikrofilament iplik 
+yapılarının denim kumaş performans özellikleri üzerine 
+etkisi”. Tekstil ve Mühendis, 22(99), 7-14, 2015. 
+[9] Zarrebini M, Mahmoudi MR, El -Bakary MA, El -Dessouky 
+HM, Lawrence CA. “The influence of fiber fineness on  
+physical characteristics of staple polypropylene fibers 
+spun at different pumping speeds”. Journal of Applied 
+Polymer Science, 115(5), 2892–2897, 2010. 
+[10] Çirkin S. Yalancı Büküm Tekstüre İşleminde Tekstüre  
+Değişkenlerinin İplik Özellikleri Üzerindeki Etkisi. Yüksek 
+Lisans Tezi, Çukurova Üniversitesi, Adana, Türkiye, 2006. 
+[11] Stojanovic P, Savic M, Trajkovic D, Stepanovic J, 
+Stamenkovic M, Kostic M. “The effect of false -twist 
+texturing parameters on the structu re and crimp 
+properties of polyester yarn”. Chemical Industry & 
+Chemical Engineering Quarterly, 23(3), 411-419, 2017.  
+[12] Özat FA. Polyester Tekstüre İpliklerde Filament Kesit 
+Şeklinin ve Tekstüre  İşlem Parametrelerinin İplik ve 
+Kumaş Özelliklerine Etkisi. Yüksek Lisans Tezi, Bursa 
+Uludağ Üniversitesi, Bursa, Türkiye, 2019.  
+[13] Yildirim K, Altun Ş, Ulcay Y. “Relationship between yarn 
+properties and process parameters in false-twist textured 
+yarn”. Journal of Engineered Fibers and Fabrics ,  
+4(2), 26-32, 2009. 
+[14] International Organization for Standardization. “Textiles - 
+Standard atmospheres for conditioning and testing”.  
+ISO 139:2005, Geneva, Switzerland, 2005. 
+[15] German Standard. “Testing of textiles; deter mination of 
+parameters for the crimp of textured filament yarns; 
+filament yarns with a linear density exceeding 500 dtex”. 
+Deutsches Institut für Normung, Berlin, Germany,  
+DIN 53840-2, 1983. 
+[16] International Organization for Standardization. “Textiles, 
+Synthetic filament yarns, Determination of shrinkage in 
+dry-hot air (after treatment)”. ISO 18067:2015, Geneva, 
+Switzerland, 2015. 
+[17] Textechno, Textile Testing Technology . “ Texturmat ME+ 
+Automatic Crimp Contraction and Shrinkage Tester”.   
+TEXTURMAT_ME-.pdf (textechno.com) (02.02.2022). 
+[18] International Organization for Standardization. “Textiles, 
+Yarns from packages, Determination of single -end 
+breaking force and elongation at break using constant rate 
+of extension (CRE) tester”. ISO 2062:2009, Geneva, 
+Switzerland, 2009. 

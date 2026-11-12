@@ -1,0 +1,345 @@
+=== PDF PAGE 1 ===
+STUDIES ON FALSE-TWIST TEXTURING OF 
+DIFFERENT TYPES OF POLYESTER YARNS 
+By 
+SOUMYEN KUMAR PAL 
+Department of Textile Technology 
+Thesis submitted 
+in fulfilment of the requirements 
+of the degree of 
+DOCTOR OF PHILOSOPHY 
+to the 
+INDIAN INSTITUTE OF TECHNOLOGY, DELHI 
+DECEMBER, 1995 
+
+=== PDF PAGE 2 ===
+CERTIFICATE 
+This is to certify that the thesis entitled "Studies on False-Twist Texturing of Different 
+types of Polyester Yarns" being submitted by Mr. Soumyen Kumar Pal to the Indian Institute 
+of Technology, Delhi, for the award of the degree of Doctor of Philosophy, is a record of bonafide 
+research work carried out by him. Mr. Soumyen Kumar Pal has worked under our joint guidance 
+and supervision and has fulfilled the requirements for the submission of the thesis. 
+The results contained in this thesis have not been submitted, in part or full to any other' 
+University or Institute for the award of any degree or diploma. 
+(V. K. Kothari) 
+Professor 
+Department of Textile Technology 
+Indian Institute of Technology, 
+New Delhi - 110 016, India. 
+(R. S. Gandhi) 
+Hon. Director 
+Man-Made Textiles 
+Research Association 
+Surat - 395 002, India. 
+
+=== PDF PAGE 3 ===
+Dedicated to 
+My Grandmother 
+
+=== PDF PAGE 4 ===
+ACKNOWLEDGEMENT 
+I wish to express my deep sense of gratitude to 
+Prof. V.K. Kothari, Department of Textile Technology, Indian 
+Institute of Technology, New Delhi, for his immense 
+interest, co-operation and professional guidance throughout 
+the entire course of work that has helped me to complete 
+this work in time. 
+I express my sincere gratitude to Dr. R.S. Gandhi, 
+Honary Director, Man-Made Textiles Research Association 
+(MANTRA), Surat for his encouragement and guidance during 
+the course of the work. I also take this opportunity to 
+express my sincere thanks to the Management of MANTRA for 
+kind co-operation during this work..  
+I wish to thank Dr. N.D. Sharma and Dr. B.V. Rao, SPRC, 
+Kota for supplying the polymer chips for this work. I am 
+also thankful to Dr. A. Venkatraman, BTRA, Bombay for tests 
+on X-ray diffractometer and M/s Petrofils Co-operative Ltd., 
+Baroda for testing work on Texturmat-M. I wish to thank 
+Mr. D.B. Chauhan for help in sample preparation. I am also 
+thankful to Mr. N.H. Saraiya and Late Mr. Y.C. Mehta for 
+their co-operation. My thanks are also due to all my 
+colleagues at MANTRA for their encouragement. 
+Mr. J.K. Sensarma, Dr. A.L.N. Rao, Dr. A.B. Talele, 
+Dr. M.V.S. Rao, Mr. A.K. Gandhi, Dr. R.K. Datta, Dr. D.H. 
+Joshi, Mr. M.G. Patel, Mr. K. Saha, Mr. R.J. Sharma, 
+
+=== PDF PAGE 5 ===
+Mr. H.G. Purohit, Mr. D.L. Gavade, Mr. A.K. Chakraborty, Mr. 
+P. Kar deserve my special thanks. I am thankful to Mr. J.R. 
+Nagoria for typing the thesis. 
+Finally, I appreciate the understanding and patience of 
+my wife Mrs. Rachita Pal. She was a constant source of 
+inspiration during this work. Mention must be made to my 
+parents and uncles, who have always been source of 
+encouragement to me. 
+(SOUMYEN KUMAR PAL) 
+
+=== PDF PAGE 6 ===
+ABSTRACT 
+Production of polyester fibre has rapidly increased 
+since its introduction in the world market in 1950s. 
+Continuous research work to improve performance and 
+versatility has led to the development of many new polyester 
+fibres amongst which microfibre and cationic dyeable 
+poly(ethylene terephthate) fibre are noteworthy commercial 
+exploited examples. The texturing behaviour of these new 
+fibres has been studied. Draw ratio, D/Y ratio, first heater 
+temperature and heater contact time have been varied during 
+texturing of POY polyester yarns on SDS 600C draw-texturing 
+machine. Box and Hunter statistical experimental design has 
+been adopted to prepare samples. The textured yarn 
+properties examined include tensile, crimp and dyeing 
+properties. In addition to these, yarn quality in terms of 
+broken filaments and tight spots has also been studied. X-
+ray diffractometer, Polarising microscope, Sonic modulus 
+tester, Differential scanning calorimetry have been used for 
+analysing the structural properties of fibres. Observed 
+changes in properties of textured yarns have been explained 
+on the basis of structural studies. 
+Study on the effect of texturing variables on the 
+properties of microfibre polyester reveals that the 
+crystalline content in microfibre yarns after texturing is 
+lower than that of normal polyester, while orientation is 
+higher. Tenacity and crimp contraction are poorer in 
+
+=== PDF PAGE 7 ===
+textured microfibre polyester yarns as compared to textured 
+normal polyester yarns. Dye uptake of microfibre polyester 
+is found to be lower. Broken filaments are more in 
+microfibre polyester than in case of normal polyester. To 
+reduce incidence of broken filaments in microfibre 
+polyester, draw ratio should be reduced. 
+Study on the effect of texturing variables on cationic 
+dyeable polyester 	 (CDPET) yarn reveals that the 
+crystallinity as well as orientation is less in CDPET yarn 
+due to presence of bulky -SO3Na group in the polyester 
+fibre. The tensile properties are poorer in CDPET as 
+compared to normal polyester. It is found that the tenacity 
+of CDPET increases upto 190°C followed by decrease with 
+further increase in heater temperature. The crimp stability 
+is less in CDPET than that of normal polyester. Dye uptake 
+is more in CDPET as compared to normal polyester. Broken 
+filaments are higher in case of CDPET. 
+With increasing DMS salt content in CDPET, the 
+crystalline fraction, orientation and crystal size 
+decreases, which, in turn, results in lower mechanical 
+properties. Tenacity, crimp contraction and crimp stability 
+reduces with increase in DMS salt content in CDPET. The 
+dyeability of CDPET with both disperse dyes and cationic 
+dyes improves with increase in DMS salt content. The DMS 
+salt content should be less than 1.5 mol percent in CDPET to 
+get a fibre with good dyeability as well as satisfactory 
+mechanical properties. 
+ii 
+
+=== PDF PAGE 8 ===
+CONTENTS 
+ABSTRACT 	
+1 
+CONTENTS 	
+iii 
+GLOSSARY 
+LIST OF FIGURES 	 xi 
+Chapter 1 INTRODUCTION 
+1.1 Introduction 	 1 
+1.2 Microfibres 	 2 
+1.3 Cationic Dyeable Polyester 	 2 
+1.4 Texturing 	 4 
+1.5 Objective of Study 	 5 
+Chapter 2 REVIEW OF LITERATURE 
+2.1 Poly(ethlene terephthlate) Fibre 	 6 
+2.2 4Pkoduction of Polyester Yarns 	 8 
+	
+2.2.1 	 Production of microfibre 	 10 
+[REDACTED_HOST] Quality of the chips for 
+.microfibre polyester 	 11 
+[REDACTED_HOST] Manufacturing methods 
+for microfibre 	 12 
+	
+2.2.2 	 Production of cationic dyeable 
+polyester 	 14 
+2.3 Structure and Properties 	 18 
+	
+2.3.1 	 Structure and properties of 
+microfibres 	 18 
+	
+2.3.2 	 Structure and properties of 
+catonic dyeable polyester 	 22 
+2.4 False-twist Texturing 	 30 
+	
+2.4.1 	 Twisting system 	 31 
+iii 
+
+=== PDF PAGE 9 ===
+2.4.2 	 Feeder yarn quality 	 32 
+2.4.3 	 Geometrical structure of 
+false-twist textured yarns 	 34 
+2.4.4 	 Molecular structure of 
+properties of false-twist 
+textured yarns 	 38 
+2.4.5 	 Texturing of microfibre yarns 	 42 
+2.5 Applications of Microfibre and Cationic 
+Dyeable Polyester Yarns 	 43 
+2.5.1 	 Applications of microfibre 
+polyester yarns 	 43 
+2.5.2 	 Applications of catonic 
+dyeable polyester yarn 	 46 
+Chapter 3 EXPERIMENTAL METHODS 
+3.1 Materials 	 48 
+3.1.1 	 Feed yarns 	 48 
+3.1.2 	 Preparation of draw-textured 
+yarns 	 51 
+3.2 Methods of Characterisation of 
+Structure and Properties 	 51 
+3.2.1 	 X-ray diffraction 	 53 
+3.2.2 	 Density crystallinity 	 57 
+3.2.3 	 Birefirengence 	 59 
+3.2.4 	 Amorphous orientation 	 61 
+3.2.5 	 Sonic modulus 	 62 
+3.2.6 	 Thermal properties 	 64 
+3.2.7 	 Intrinsic viscosity 	 66 
+3.2.8 	 Draw force 	 68 
+3.2.9 	 Tensile properties 	 68 
+3.2.10 	 Crimp properties 	 69 
+. iv 
+
+=== PDF PAGE 10 ===
+	
+3.2.11 	 Dyeing 	 71 
+	
+3.2.12 	 Broken filaments 	 72 
+	
+3.2.13 	 Tight spots 	 72 
+3.3 Design of Experiment 	 72 
+	
+3.3.1 	 Box and Hunter design 	 73 
+	
+3.3.2 	 Response surface equation 	 74 
+	
+3.3.3 	 Analysis of variance 	 76 
+	
+3.3.4 	 The test of significance 
+of the fitted regression 
+equation 	 77 
+	
+3.3.5 	 Effectiveness of variables on 
+properties 	 78 
+Chapter 4 DRAW-TEXTURING MICROFIBRE POLYESTER YARN 
+	
+4.1 Introduction 	 79 
+	
+4.2 Experimental 	 80 
+	
+4.2.1 	 Materials 	 80 
+	
+4.2.2 	 Texturing 	 80 
+4.3 Results and Discussion 	 81 
+	
+4.3.1 	 Properties of POY polyester yarns 	 81 
+	
+4.3.2 	 Structural characterstics 
+of textured yarns 	 83 
+	
+[REDACTED_HOST] 	 Crystalline content 	 87 
+	
+[REDACTED_HOST] 	 Molecular orientation 	 92 
+	
+[REDACTED_HOST] 	 Cyistalline orientation 	 100 
+[REDACTED_HOST] Amorphous orientation 	 105 
+	
+[REDACTED_HOST] 	 Crystal size 	 108 
+	
+4.3.3 	 Properties of textured yarns 	 112 
+	
+[REDACTED_HOST] 	 Tensile properties 	 117 
+	
+[REDACTED_HOST] 	 Crimp properties 	 127 
+
+=== PDF PAGE 11 ===
+	
+[REDACTED_HOST] 	 Dyeing property 	 141 
+	
+[REDACTED_HOST] 	 Yarn quality 	 146 
+4.4 Summary 	 152 
+Chapter 5 DRAW-TEXTURING OF CATIONIC DYEABLE 
+POLYESTER YARN 
+	
+5.1 Introduction 	 154 
+	
+5.2 Experimental 	 155 
+	
+5.2.1 	 Materials 	 155 
+	
+5.2.2 	 Texturing 	 155 
+5.3 Results and Discussion 	 156 
+	
+5.3.1 	 Properties of POY polyester 
+yarns 	 156 
+	
+5.3.2 	 Structural properties 	 154 
+	
+[REDACTED_HOST] 	 Crystalline content 	 158 
+[REDACTED_HOST] Birefringence 	 169 
+	
+[REDACTED_HOST] 	 Cyrstalline orientation 	 174 
+	
+[REDACTED_HOST] 	 Amorphous orientation 	 177 
+	
+[REDACTED_HOST] 	 Crystal size 	 180 
+	
+5.3.3 	 Properties of texture yarns 	 182 
+	
+[REDACTED_HOST] 	 Tensile properties 	 186 
+	
+[REDACTED_HOST] 	 Crimp properties 	 191 
+	
+[REDACTED_HOST] 	 Dyeing property 	 201 
+	
+[REDACTED_HOST] 	 Yarn quality 	 205 
+5.4 Summary 	 207 
+Chapter 6 EFFECT OF THE AMOUNT OF COMONOMER 
+ON THE PROPERTIES OF DRAW-TEXTURED 
+CATIONIC DYEABLE POLYESTER YARN 
+	
+6.1 Introduction 	 210 
+vi 
+
+=== PDF PAGE 12 ===
+6.2 Experimental 	 210 
+	
+6.2.1 	 Materials 	 210 
+	
+6.2.2 	 Texturing 	 211 
+6.3 Results and Discussion 	 213 
+	
+6.3.1 	 Properties of POY polyester yarns 	 213 
+	
+6.3.2 	 Structural characterstics 
+of textured yarns 	 213 
+[REDACTED_HOST] 	 Crystalline content 	 214 
+[REDACTED_HOST] Birefringence 	 222 
+[REDACTED_HOST] 	 Cyrstalline orientation 	 224 
+[REDACTED_HOST] 	 Amorphous orientation 	 224 
+[REDACTED_HOST] 	 Crystal size 	 228 
+	
+6.3.3 	 Properties of textured yarns 	 228 
+[REDACTED_HOST] 	 Tensile properties 	 234 
+[REDACTED_HOST] 	 Crimp properties 	 238 
+[REDACTED_HOST] 	 Dyeing property 	 251 
+[REDACTED_HOST] 	 Yarn quality 	 258 
+6.4 Summary 	 264 
+Chapter 7 CONCLUSIONS 
+7.1 Conclusions 	 265 
+7.2 Suggestion for future work 	 268 
+REFERENCES 	 270 
+APPENDIX I 	 281 
+APPENDIX II 	 285 
+APPENDIX III 	 286 
+vii 
+
+=== PDF PAGE 13 ===
+APPENDIX IV  289 
+APPENDIX V  290 
+APPENDIX VI  292 
+LIST OF PUBLICATIONS  295 
+BIO-DATA  296 

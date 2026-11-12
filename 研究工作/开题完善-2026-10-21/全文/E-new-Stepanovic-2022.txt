@@ -1,0 +1,577 @@
+=== PDF PAGE 1 ===
+INTRODUCTION 
+In the process of texturing, the yarn is exposed to 
+high temperatures and tensile and torsional forces, 
+which affect the structure of the yarn and thus its 
+properties (geometric, physical-mechanical, physical- 
+chemical, etc.) [1, 2]. 
+Modern technological solutions of frictional texturing 
+by false twisting, are characterized by short heating 
+zones with increased temperatures on the heaters 
+and with a shortening of the heating time. 
+Texturing parameters significantly affect the proper -
+ties of textured multifilament yarn, and thus their 
+behaviour in subsequent processes of production of 
+textile materials. The tensile forces of textured multi -
+filament yarn in the production processes of textile 
+materials significantly affect the final quality of the fin -
+ished products. Poor quality of textile materials is 
+very often obtained, although all preconditions in the 
+process of preliminary design have been met. The 
+reasons for such shortcomings should be sought in 
+the irregularities in defining the tensile forces of 
+textured multifilament PES yarns in the production 
+processes of textile materials. The problem is espe -
+cially pronounced in the texturing of partially oriented 
+PES filament (POY – Partially Oriented Yarn), about 
+which there is not enough data in the literature. Data 
+from the literature mainly refer to data from laborato -
+ry conditions [3–5].  In paper [6], the influence of the 
+parameters of the false twisting texture process on 
+the structure and crimping properties of textured mul -
+tifilament PES yarns produced in industrial conditions 
+on a machine with high-temperature heaters were 
+analysed. 
+The literature also contains information on the influ -
+ence of texturing process parameters on the proper -
+ties of multifilament POY PES yarns produced on tex -
+turing machines with classical primary heaters 
+[7–10]. 
+The literature offers a lot of information on the textur -
+ing of stretched polyester filament (FOY – Fully 
+Oriented Yarn) which is less sensitive to changes in 
+the parameters of the texturing process [11]. Also, 
+there is information on the application of different tex -
+turing processes:  Fully Oriented Yarn texturing pro -
+cedures [12, 13]. 
+Investigation of deformation properties of textured multifilament PES yarns 
+DOI: 10.35530/IT.073.04.202167 
+JOVANA STEPANOVIĆ DUŠAN TRAJKOVIĆ 
+TATJANA ŠARAC JOVAN STEPANOVIĆ 
+ABSTRACT – REZUMAT 
+Investigation of deformation properties of textured multifilament PES yarns 
+In the process of texturing, smooth filaments are formed into crimpy yarns. By combining thermal and mechanical action, 
+thermoplastic fibres acquire a permanent wavy shape. 
+Since textured multifilament yarns, formed from POY PES filaments, produced on machines with high-temperature 
+heaters, are insufficiently studied, this paper analyses the deformation characteristics of yarns produced in industrial 
+conditions using different process parameters (primary heater temperature, yarn speed, yarn stretching, peripheral 
+speed of friction discs). Special attention is paid to the characteristics at the elastic limit, then at the creep limit, yield 
+and breaking of multifilament textured yarns. A method is proposed which can determine the key points of deformation 
+in the process of stretching textured polyester multifilament yarn, as well as the relationship between the values of force 
+and elongation at the limits of elasticity, creep, end of creep zone, yield and break. 
+Keywords: textured yarn, false twisting, elastic limit, creep limit, yield point, breaking force 
+Investigarea proprietăților de deformare ale firelor multifilament texturate din PES 
+În procesul de texturare, filamentele netede sunt transformate în fire ondulate. Prin combinarea acțiunii termice și a celei 
+mecanice, fibrele termoplastice capătă o formă ondulată permanentă. 
+Întrucât firele multifilament texturate, formate din filamente POY PES, produse pe mașini cu încălzitoare de temperatură 
+înaltă, sunt insuficient studiate, această lucrare analizează caracteristicile de deformare ale firelor produse în condiții 
+industriale folosind diferiți parametri de proces (temperatura încălzitorului primar, viteza firului, întinderea firului, viteza 
+periferică a discurilor de frecare). O atenție deosebită se acordă caracteristicilor la limita elastică, apoi la limita de fluaj, 
+deformarea și ruperea firelor texturate multifilament. Se propune o metodă prin care se pot determina punctele cheie de 
+deformare în procesul de întindere a firului multifilament de poliester texturat, precum și relația dintre valorile forței și 
+alungirii la limitele de elasticitate, fluaj, capătul zonei de fluaj, deformarea și ruperea. 
+Cuvinte-cheie : fir texturat, torsiune falsă, limită elastică, limită de fluaj, punct de deformare, forță de rupere 
+397 industria textila 2022, vol. 73, no. 4 ˘
+
+=== PDF PAGE 2 ===
+In addition, the possibility of using recycled polyethy -
+lene terephthalate to make filament textured yarns 
+was investigated and the properties of recycled PET 
+filament yarns were compared with filament yarns 
+made of new fibre-grade PET [14]. 
+Since the properties of textured multifilament PES 
+yarns produced on machines with high-temperature 
+heaters are insufficiently studied, in this study the 
+influence of texturing process parameters on the 
+deformation properties of textured PES multifilament 
+yarns produced in industrial conditions was analysed. 
+Experiments in industrial conditions should enable 
+the selection of optimal parameters of the texturing 
+process, with the aim of increasing productivity and 
+achieving energy savings. The obtained results 
+should contribute to the economy of production of 
+multifilament textured PES yarns. 
+MATERIALS AND METHODS 
+The experimental material was made in industrial 
+conditions. Polyester multifilament yarn is produced 
+on a machine for stretching friction texturing with 
+high-temperature heaters: FTF-15 (ICBT, France). 
+Technical-technological characteristics of the machine 
+are: maximum speed of texturing: 1500 m/min; length 
+of the first heater: 1.050 m; length of the second 
+heater: 1.60 m; cooling zone: 1.24 m; friction aggre -
+gate: ICBT aggregate 1-5-1; working (5 pcs.) PU 
+discs; C profile.   
+Samples of textured PES yarns of yarn count 
+167f36x1 dtex and 165f36x1 dtex were produced 
+from POY PES multifilament of yarn count 278f36x1 
+dtex, manufactured by TWD Fibers (Germany). The 
+POY polyester filament (poly (ethylene terephtha -
+late)) used in this study is partially oriented with a 
+very low degree of crystallinity (less than 5%), so its 
+structure and properties can vary greatly by changing 
+the parameters of the texturing process. A total of 
+108 industrial tests were performed, during which 
+the texturing speeds ( v) were changed, as follows: 
+500 m/min, 600 m/min, 700 m/min, 900 m/min, 1000 
+m/min and 1100 m/min. Then, the primary heater 
+temperatures ( T) of 350°C were applied; 400°C and 
+450°C, elongation coefficient ( i) 1.667 and 1.687, and 
+peripheral disk speed ratio and yarn speed ( D/Y ) of 
+2.15; 2.20 and 2.25. The temperature of the second 
+heater had a constant value of 180°C. 
+The breaking characteristics of the experimental mate- 
+rial were determined on an automatic dynamometer 
+in accordance with the standard EN ISO 2062:2009. 
+The breaking speed is a constant 500 mm/min. Using 
+typical software, the typical force-tensile curves for 
+the tested textured yarn pattern are defined. Typical 
+curves are represented in the form of a function of a 
+ninth-degree polynomial, with the coefficients of the 
+determination being about 0.999 (figure 1). 
+By the analysis of the flow of the elongation force 
+function, are determined the elastic limit ( F1, e1), the 
+creep limit ( F2, e2), the end of the creep zone ( F3, e3), 
+the yield after the creep zone ( F4, e4) and the break 
+(F5, e5) of experimental material (figure 1). In the 
+case of textile materials, we are mainly talking about 
+zones in which some kind of deformation dominates. 
+For textured multifilament yarns, the given limits 
+depend on the properties of the starting multifilament, 
+but also on the process parameters of yarn produc -
+tion. 
+When stretching the yarn, the crimps, which were 
+formed in the process of texturing, are initially 
+straightened. Initially, a higher slope of the curve is 
+noticeable i.e., a faster increase in force in relation 
+to the stretching of the textured yarn to the point 
+(F1, e1). This point simultaneously represents the end 
+of the elastic zone. Immediately after the elastic limit 
+is the creep limit ( F2, e2). During further stretching, 
+significant changes occur in the structure and all 
+the way to the point ( F3, e3) there is a noticeable 
+decrease in the slope of the force-elongation func -
+tion. Then the slope increases again to the point 
+(F4, e4) and finally decreases until the interrupted tex -
+tured yarn at the point ( F5, e5). 
+The elastic limit defines the recommended allowable 
+load of textured yarns at which irreversible deforma -
+tions of the material will not occur. The elastic limit of 
+textured multifilament yarns was determined by 
+analysing the flow function of tensile forces. By defin -
+ing the local maximum of the first derivative of the 
+function, where the second derivative of the function 
+is equal to zero, the elastic limit is determined, as well 
+as the parameters of forces and elongation at the 
+elastic limit ( F1, e1). 
+The creep of textured multifilament yarns occurs by 
+applying a load that causes stress in the yarn above 
+the elastic limit. It is determined at the point of local 
+minimum of the second derivative of the function i.e., 
+at the corresponding zero of the third derivative of the 
+function. At a given limit, the values of force and elon -
+gation at the creep limits are determined ( F2, e2). The 
+creep limit of textured yarns is the upper acceptable 
+load limit, to which the yarn can be subjected in sub -
+sequent technological processes, while the proper -
+ties of the yarn are still acceptable for the production 
+of textile products. 
+398 industria textila 2022, vol. 73, no. 4 ˘
+Fig. 1. Curve F(e) of multifilament polyester yarn 
+
+
+=== PDF PAGE 3 ===
+The creep zone begins at the creep limit and lasts 
+until the textured yarn stops stretching faster and 
+begins to provide significant resistance to the tensile 
+force again. The end of the creep zone is determined 
+at the point of a minimum of the first derivative of the 
+function i.e., at the point where the second derivative 
+of the function is equal to zero ( F3, e3). 
+Upon completion of the creep, the multifilament tex -
+tured PES yarn again provides greater tensile resis -
+tance and the slope of the tensile force curve increas -
+es. This increase in force lasts until the moment when 
+significant changes in the structure of monofilaments 
+occur again due to stretching. The yield point after 
+creep is determined at the point of local maximum of 
+the first derivative of the elongation force function i.e., 
+the zero of the second derivative of the function at a 
+given point. This point on the graph ( F4, e4) can rep -
+resent the maximum stress that the textured multifil -
+ament yarn will withstand in the processes of 
+exploitation, to deform, but still not break. 
+Further stretching causes significant changes in the 
+structure of the textured multifilament yarn, destruc -
+tion of individual monofilaments and finally breaking 
+of the multifilament yarn, which is marked by a dot 
+(F5, e5) on the graph (figure 1). 
+RESULTS AND DISCUSSION 
+In order to get the impression of changes in the val -
+ues of force and elongation at the elastic limit, creep 
+limit, end of creep zone, yield and break limits, 
+graphs were chosen to show the given changes at 
+the same ratio of peripheral disk speed and yarn 
+speed (2.15) and the same stretching in the process 
+of texturing (1.665). 
+Force and elongation were registered at the elastic 
+limit of textured PES multifilament yarns. Based on 
+the obtained results, figure 2 shows graphs that indi -
+cate the influence of temperature and texturing 
+speed of multifilament yarns on their properties at the 
+elastic limit. 
+The results show that textured multifilament yarns 
+produced at a primary heater temperature of 350°C 
+399 industria textila 2022, vol. 73, no. 4 ˘
+have force values at the elastic limit generally higher 
+than yarns produced at a primary heater temperature 
+of 450°C. Also, the trend of increasing force at the 
+elastic limit with increasing texturing speed up to 
+1000 m/min is observed in yarns produced using a 
+primary heater temperature of 350°C, and then a 
+decrease in force was registered, unlike yarns pro -
+duced using a texturing temperature of 450°C, where 
+force growth trend up to a texturing speed of 1100 
+m/min. Elongation values at the elastic limit are gen -
+erally higher for yarns produced by applying a higher 
+texturing temperature. 
+The creep limit defines the upper allowed load limit of 
+textured polyester yarns in the following technologi -
+cal processes of its processing. 
+The values of force and elongation were registered at 
+the creep limit of textured polyester multifilament 
+yarns. Based on the obtained results, Graphs are 
+given in figure 3 showing the influence of the speed 
+and temperature of texturing on the values of force 
+and elongation.  
+The results show that in the case of textured multifil -
+ament yarns produced at a primary heater tempera -
+ture of 350°C, the values of the force at the creep 
+limit are higher than the yarns produced at a textur -
+ing temperature of 450°C. In addition, the trend of 
+increasing force at the creep limit with increasing tex -
+turing speed up to 1000 m/min is observed in yarns 
+produced using a primary heater temperature of 
+350°C, and then a decrease in force was registered, 
+in contrast to yarns produced using a texturing tem -
+perature of 450°C, where is a trend of increasing 
+force up to a texturing speed of 1100 m/min. 
+The values of force and elongation at the creep limit 
+and elastic limit show analogous changes at appro -
+priate texturing speeds and temperatures. 
+The end of the creep zone of the textured multifila -
+ment PES yarn ends at the moment when the tensile 
+force begins to increase again faster than the elon -
+gation.  
+Figure 4 shows graphs indicating the influence of the 
+primary heater temperature and texturing speed of 
+Fig. 2. The influence of texturing speed and temperature of primary heaters on force value and elongation at elastic 
+limit ( D/Y = 2.15, i = 1.665) 
+
+
+=== PDF PAGE 4 ===
+the polyester multifilament yarn on the properties at 
+the end of the creep zone. 
+Analysis of the force value at the end of the creep 
+zone at texturing temperatures of 350°C and 450°C 
+shows that the force values are higher at a lower tem -
+perature, while the textured PES multifilament yarn 
+elongates more at the end of the creep zone if pro -
+duced at a higher primary heater temperature. Also, 
+based on the obtained results, a significant decrease 
+in elongation at the end of the creep zone can be 
+stated in yarns produced at speeds higher than 900 
+m/min. The changes in the values of the forces in the 
+creep zone are precisely the consequence of the 
+uneven heat reception of the multifilament yarn, 
+observed from the yarn surface towards the core. In 
+his research, Eskin [15] showed that the difference in 
+temperature of surface and core of yarn increases 
+with increasing heater temperature, texture speed 
+and decreases with yarn count, while the difference 
+in temperature of yarn surface and core decreases 
+with increasing heater length, which in this case is not 
+a reason since these are HT heaters 1.050 m long. 
+Figure 5 shows graphs showing the influence of the 
+temperature of the primary heater and the texturing 
+400 industria textila 2022, vol. 73, no. 4 ˘
+speed of the polyester multifilament yarn on its prop -
+erties at the yield point after creep. 
+The results show that textured yarns produced at a 
+texturing speed of up to 900 m/min, at a primary 
+heater temperature of 450°C have higher values of 
+the force at the yield point compared to yarns pro -
+duced at a primary heater temperature of 350°C. 
+Elongations of textured yarns at the yield point have 
+approximate values. Also, a trend of decreasing the 
+value of force and elongation of the yarn at the yield 
+point with increasing texturing speed was observed. 
+There is a significant decrease in elongation at the 
+yield point in yarns produced with texturing speeds 
+above 900 m/min. 
+Figure 6 shows graphs showing the influence of pri -
+mary heater temperature and texturing speed of 
+polyester multifilament yarn on its breaking properties. 
+Based on the obtained results, it can be noticed that 
+the textured yarns produced at the temperature of the 
+primary heater of 450°C have higher values of break -
+ing force in relation to the yarns produced at the tem -
+perature of the primary heater 350°C. Textured multi -
+filament PES yarns produced at a primary heater 
+temperature of 400 °C have higher breaking strength 
+Fig. 3. The influence of texturing speed and temperature of primary heater on force value and elongation at creep 
+limit (D/Y = 2.15, i = 1.665) 
+Fig. 4. The influence of texturing speed and temperature of the primary heater on the force value and elongation at the 
+end of the creep zone ( D/Y = 2.15, i = 1.665) 
+
+
+=== PDF PAGE 5 ===
+values compared to yarns produced at a primary 
+heater temperature of 350 °C, and less than yarns 
+produced at a primary heater temperature of 450 °C. 
+Also, a decrease in the breaking force of the yarn is 
+observed with an increase in the texturing speed. 
+Yarns produced at a texturing speed of 1100 m/min, 
+at a primary heater temperature of 400 °C, have 
+approximate values of breaking force as yarns pro -
+duced at a texturing temperature of 350 °C, at the 
+same other production process parameters. The 
+breaking elongations of textured yarns have approxi -
+mate values, with slightly higher values for yarns pro -
+duced by a texturing temperature of 450°C at speeds 
+of 1000 m/min and 1100 m/min. Also, there is a trend 
+of decreasing the value of breaking force and break -
+ing elongation with increasing texture speed above 
+900 m/min. 
+The higher temperature of the primary heater and 
+longer exposure to temperature contribute to stress 
+relaxation within the molecular chains of filament 
+yarns, which affects the elasticity of the yarn. 
+Simultaneous action of friction discs causes disorien -
+tation of macromolecular chains in the sense of twist -
+ing and bending in the process of false twisting, and 
+higher temperature and longer retention of yarn in the 
+heater contribute to greater disorientation of macro -
+molecules in the process of false twisting and slight -
+ly lower value of force at the elastic and creep limit. 
+Relaxation of internal stresses in the yarn due to a 
+higher temperature and longer temperature exposure 
+is expressed in the values of yarn parameters at the 
+yield point after the creep zone. Namely, during 
+stretching, in the process of breaking on the 
+dynamometer, the macromolecules are oriented in 
+the direction of the yarn axis. It is expected that mul -
+tifilament textured yarns produced by applying a 
+higher texturing temperature have a better orientation 
+of the macromolecular chains at the yield point, due 
+to the lower internal stress of the yarns thus formed. 
+This may be the reason mainly for slightly higher val -
+ues of forces at the yield point and higher values of 
+breaking forces of textured multifilament PES yarns, 
+produced by applying higher texturing temperatures. 
+In order to preserve the mechanical characteristics of 
+multifilament textured PES yarns, it is very important 
+to define the allowable yarn loads in the following 
+technological processes. Especially since all monofil -
+aments of multifilament yarn could not absorb the 
+same amount of heat, due to their position in the 
+yarn, so their properties will differ enough that we 
+401 industria textila 2022, vol. 73, no. 4 ˘
+Fig. 5. The influence of texturing speed and temperature of the primary heater on the force value and elongation 
+at the yield point ( D/Y = 2.15, i = 1.665) 
+Fig. 6. The influence of texturing speed and primary heater temperature on breaking force and breaking elongation 
+(D/Y = 2.15, i = 1.665) 
+
+
+=== PDF PAGE 6 ===
+cannot talk about the homogeneity of multifilament 
+textured PES yarn. This inhomogeneity of the struc -
+ture will in any case lead to variation in the quality of 
+the multifilament yarn, to which special attention 
+must be paid when predicting the properties of these 
+yarns. A responsible approach to the analysis of the 
+properties of textured multifilament yarns can 
+achieve energy savings in the texturing process and 
+contribute to the optimization of the production of 
+yarns produced on machines with HT heaters. 
+In industry, a conclusion is often made about the 
+quality of yarn, in terms of mechanical characteris -
+tics, only on the basis of its breaking characteristics. 
+That is not a good solution. Knowing the values of 
+forces and elongation at the limits of elasticity and 
+creep of textured multifilament PES yarns gives a 
+true picture of the values of forces that the yarn can 
+be loaded in the technological processes of process -
+ing into textile materials. In that way, the properties of 
+the yarn will be preserved and thus the good quality 
+of the finished product will be ensured in accordance 
+with the design of the textile material and the require -
+ments of the standard. 
+Taking into account all the above, the optimal param -
+eters of the texturing process must be chosen as a 
+compromise solution having in mind the texturing 
+temperature, texturing speed, stretching of multifila -
+ment yarn in the manufacturing process, the ratio of 
+peripheral disk speed and yarn speed, POY PES 
+multifilament quality, machine condition and crimp 
+characteristics of the textured yarn. The obtained 
+results showed that the partially oriented polyester 
+yarn used in this paper can be textured at significant ly 
+higher texturing speeds compared to the standard 
+402 industria textila 2022, vol. 73, no. 4 ˘
+texturing speeds (up to 700 m/min) used for process -
+ing the yarns of tested yarn count. 
+Figures 7, a–f show the relationship of parameters at 
+the limits of elasticity, creep, end of creep zone, yield 
+and break. Therefore, only images showing the cor -
+relation of the analysed parameters in textured multi -
+filament yarns produced at a temperature of 400°C 
+are presented. The values of force (cN) and corre -
+sponding elongations (%) at given points are 
+described by equations: 
+F = a  eb  (cN)                     (1) 
+Table 1 gives the parameters of function a, b for 
+determining the value of force in points 1 to 5 (fig -
+ure 1), at texturing temperatures of 350°C, 400°C 
+and 450°C and speeds of 500 m/min, 600 m/min, 700 
+m/min, 900 m/min, 1000 m/min and 1100 m/min i.e., 
+for all 108 samples made in industrial conditions. The 
+obtained results (at different texturing speeds and 
+temperatures) include all samples where the values 
+of D/Y are 2.15, 2.20 and 2.25, as well as stretching 
+1.665 and 1.685, since this range of changes did not 
+have a significant effect on the deformation proper -
+ties of the textured multifilament yarns analysed in 
+this study. 
+The results are presented for textured multifilament 
+polyester yarns produced using the appropriate pri -
+mary heater temperature and texturing speed with a 
+defined ratio of peripheral disc speed and yarn and 
+elongation speed in the production process. The 
+results can be applied to predict the properties of tex -
+tured PES multifilament yarns at appropriate produc -
+tion process parameters. In addition, the obtained 
+results can be used to predict the properties of 
+PARAMETERS OF FUNCTION a, b FOR DETERMINING THE VALUE OF FORCE IN POINTS 1 TO 5 
+Function F = a × e b  (cN) 
+Parameters a St.error b St.error r2
+v = 500 m/min; T = 350 °C 94.99763 2.42722 0.60357 0.00889 0.99662 
+v = 500 m/min; T = 400 °C 81.65465 2.32775 0.6616 0.00987 0.99652 
+v = 500 m/min; T = 450 °C 88.03712 2.12453 0.64778 0.00832 0.99735 
+v = 600 m/min; T = 350 °C 101.49837 3.02126 0.56914 0.01032 0.99444 
+v = 600 m/min; T = 400 °C 94.26997 2.29022 0.60384 0.00835 0.99698 
+v = 600 m/min; T = 450 °C 80.33149 1.77259 0.66029 0.00749 0.99811 
+v = 700 m/min; T = 350 °C 99.92983 3.32977 0.57814 0.01173 0.99319 
+v = 700 m/min; T = 400 °C 85.48915 2.00175 0.64161 0.00802 0.99768 
+v = 700 m/min; T = 450 °C 88.13831 1.81877 0.63819 0.00707 0.99815 
+v = 900 m/min; T = 350 °C 115.62203 3.14297 0.51605 0.00951 0.99358 
+v = 900 m/min; T = 400 °C 109.67339 2.75136 0.54877 0.00882 0.99524 
+v = 900 m/min; T = 450 °C 96.22174 2.64515 0.59987 0.00956 0.99558 
+v = 1000 m/min; T = 350 °C 127.07795 2.19324 0.52338 0.00657 0.99676 
+v = 1000 m/min; T = 400 °C 120.38161 2.14329 0.54593 0.00666 0.99702 
+v = 1000 m/min; T = 450 °C 107.32115 3.00239 0.58121 0.01018 0.99416 
+v = 1100 m/min; T = 350 °C 124.46485 1.87702 0.53296 0.00586 0.99755 
+v = 1100 m/min; T = 400 °C 119.72414 1.50149 0.55417 0.00483 0.99849 
+v = 1100 m/min; T = 450 °C 121.07555 2.22649 0.54629 0.00689 0.99687 
+Table 1 
+
+=== PDF PAGE 7 ===
+403 industria textila 2022, vol. 73, no. 4 ˘
+textured multifilament PES yarns in subsequent pro -
+duction processes into textile products. 
+CONCLUSION 
+Knowledge of the deformation characteristics of tex -
+tured multifilament PES yarn is very important from 
+the aspect of predicting its behaviour in the process -
+es of production into textile materials and products, 
+as well as predicting the behaviour of textile products 
+during exploitation. 
+The key points of deformation of textured multifilament 
+PES yarn in the stretching process are defined and a 
+Fig. 7. Relationship of parameters at the limits of elasticity, creep, end of creep zone, yield and break: a – relationship 
+of parameters ( v = 500 m/min, T = 400°C); b – relationship of parameters ( v = 600 m/min, T = 400°C); c – relationship 
+of parameters ( v = 700 m/min, T = 400°C); d – relationship of parameters ( v = 900 m/min, T = 400°C); e – relationship 
+of parameters ( v = 1000 m/min, T = 400°C); f – relationship of parameters ( v = 1100 m/min, T = 400°C) 
+ef
+cd
+ab
+
+
+=== PDF PAGE 8 ===
+method for determining the elastic limit, creep limit, end 
+of creep zone and yield point after creep is proposed. 
+In addition, the results showed that the texturing tem -
+perature has an analogous influence on the values of 
+the forces at the elastic and creep limits. It was found 
+that lower texturing temperatures have a more 
+favourable effect on the values of force at the elastic 
+limit and force at the creep limit, while higher temper -
+ature values generally have a more favourable effect 
+on elongation at the elastic limit and creep limit. 
+The influence of temperature on the value of the 
+force at the yield point and on the breaking force of 
+the yarn is opposite in relation to the changes in the 
+value of the force at the elastic limit and at the creep 
+limit. Namely, higher texturing temperatures general ly 
+give slightly higher values of the force at the yield 
+point and higher values of the breaking force. 
+In order to contribute to the development of a method 
+for predicting the behaviour of textured multifilament 
+PES yarn in the next phases of processing, an equa -
+tion is proposed that correctly connects the key 
+points (force-elongation at the elastic limit, at the 
+creep limit, at the end of the creep zone, at the yield 
+point and yarn break) in the process of stretching the 
+yarn, until it breaks. 
+The purpose of textured multifilament PES yarn and 
+the tensile force of yarn in technological processes of 
+production into textile materials must be observed 
+simultaneously and the technological parameters of 
+yarn texturing adjusted accordingly. In this way, ener -
+gy savings in the texturing process can be achieved 
+and contribute to the optimization of the production of 
+textured multifilament PES yarn on machines with 
+high-temperature heaters. 
+404 industria textila 2022, vol. 73, no. 4 ˘
+REFERENCES 
+[1] Hearle, J.W.S., Hollick, L., Wilson, D.K., Yarn texturing technology , Woodhead Publishing Limited, Cambridge, 2001 
+[2] Atkinson, C., False twist textured yarns : Principles, processing and applications , Woodhead Publishing Limited, 
+Cambridge, 2012 
+[3] Tehran, M.A., Azimi, B., Mojtahedi, M.R.M., Investigating the effect of false twist texturing process on the color 
+coordinates variation of spun-dyed polyester filament yarns , In: Journal of Engineered Fibers and Fabrics, 2011, 6, 
+4,  54–62, https://doi.org/10.1177/155892501100600307 
+[4] Canbaz Karakaşa, H., Dayıoğlu, H., Influence of false-twist texturing parameters on the structural properties of 
+polyester yarn , In: Indian Journal of Fibre & Textile Research, 2005, 30, 1, 37–41 
+[5] Celik, P., Ozdil, N., Supure, G., Experimental investigation on the static and dynamic strength of false twist textured 
+polyester yarns , In: Industria Textila, 2011, 62, 1, 38–43 
+[6] Stojanovic P., Savic M., Trajkovic D., Stepanovic J., Stamenkovic M., Kostic M., The effect of false-twist texturing 
+parameters on the structure and crimp properties of polyester yarn , In: Chemical Industry & Chemical Engineering 
+Quarterly, 2017, 23, 3, 411–419, https://doi.org/10.2298/CICEQ160720055S 
+[7] Yildirim K., Altun S., Ulcay Y., Relationship between Yarn Properties and Process Parameters in False-Twist 
+Textured Yarn , In: Journal of Engineered Fibers and Fabrics, 2009, 4, 2, 26–32, https://doi.org/10.1177/ 
+155892500900400205  
+[8] Azimi B., Amani T.M., Reza M., Mojtahedi M, Prediction of False Twist Textured Yarn Properties by Artificial Neural 
+Network Methodology , In: Journal of Engineered Fibers and Fabrics, 2013, 8, 3, 97–101, https://doi.org/10.1177/ 
+155892501300800312 
+[9] Canoglu S., Effect of First Heater Temperature Variations on the Polyester Yarn Properties of False –Twist 
+Texturing Techniques , In: Fibres & Textiles in Eastern Europe, 2009, 17, 5, 35–39 
+[10] Yildirim K., Altun Ş., Ulcay Y., The effect of first heater temperature on the properties of false-twist textured poly 
+(ethylene terapthalate) yarn , In: Tekstil ve konfeksiyon, 2009, 19, 4, 286–290 
+[11] Bhattacharya, S.S., Shaikh, T.N., Pratap, A., An Investigation of Thermal Characteristic of Mechanical Crimp 
+Textured Polyester Yarn by Differential Scanning Calorimeter (DSC), In: AIP Conf. Proc. 1249, 2010, 67–74 
+[12] Shaikh, T.N., Bhattacharya, S.S. Deriving an empirical formula to determine the optimum level of false-twist in 
+mechanically-crimped textured polyester yarn , In: Textile Research Journal, 2011, 81, 19, 1995–2005, 
+https://doi.org/10.1177/0040517511407374 
+[13] Mahish, S.S., Punj, S.K., Kothari, V.K., Comfort and Handle Related Properties of P/V Blended Air-jet Textured Yarn 
+Fabrics , In: Fibers and Polymers, 2010, 11, 6, 932–940 
+[14] Abbasi M., Reza M., Mojtahedi M., Kotek R., Experimental study on texturability of filament yarns produced from 
+recycled PET , In: Textile Research Journal, 2020, 90, 23–24, 2703–2713, https://doi.org/10.1177/ 
+0040517520925859 
+[15] Eskin N., Analysis of a high temperature heater in a false twist texturing process , In: Energy Conversion and 
+Management, 2003, 44, 16, 2531–2547, https://doi.org/10.1016/S0196-8904(03)00014-1 
+Authors: 
+JOVANA STEPANOVIĆ, TATJANA ŠARAC, DUŠAN TRAJKOVIĆ, JOVAN STEPANOVIĆ 
+University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia 
+Corresponding author: 
+JOVAN STEPANOVIĆ 
+e-mail: [REDACTED_EMAIL] 

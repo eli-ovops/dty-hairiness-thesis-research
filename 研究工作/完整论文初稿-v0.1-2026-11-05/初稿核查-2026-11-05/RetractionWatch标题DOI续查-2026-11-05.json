@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-11-05T11:36:14.857414+08:00",
+  "source_url": "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv?ref_type=heads&inline=false",
+  "source_metadata": {
+    "status": 200,
+    "content_type": "application/octet-stream",
+    "etag": "\"8289dce01fe19600d722fb0be23c4860\"",
+    "content_length": "67900410"
+  },
+  "sha256": "2d92c4a05eb1faca0862db3dafa1f9679b8214c1d5c4dd6a86b729838dacdc0e",
+  "bytes": 67900410,
+  "row_count": 73627,
+  "headers": [
+    "Record ID",
+    "Title",
+    "Subject",
+    "Institution",
+    "Journal",
+    "Publisher",
+    "Country",
+    "Author",
+    "URLS",
+    "ArticleType",
+    "RetractionDate",
+    "RetractionDOI",
+    "RetractionPubMedID",
+    "OriginalPaperDate",
+    "OriginalPaperDOI",
+    "OriginalPaperPubMedID",
+    "RetractionNature",
+    "Reason",
+    "Paywalled",
+    "Notes",
+    ""
+  ],
+  "method": "Exact normalized title / full target contained in record title; exact DOI; no translated titles unless separately listed. Not all notices are in database.",
+  "targets": [
+    {
+      "key": "ref01",
+      "title": "111 dtex/144 f涤纶DTY毛丝产生的原因分析及工艺优化",
+      "doi": null,
+      "matches": []
+    },
+    {
+      "key": "ref02",
+      "title": "平衡时间对111 dtex/144 f阳离子可染涤纶DTY性能的影响",
+      "doi": null,
+      "matches": []
+    },
+    {
+      "key": "ref03",
+      "title": "A Review on False-Twist Texturing",
+      "doi": "10.3390/fib12040036",
+      "matches": []
+    },
+    {
+      "key": "ref04",
+      "title": "涤纶DTY质量对织造的影响及改进",
+      "doi": null,
+      "matches": []
+    },
+    {
+      "key": "ref05",
+      "title": "涤纶长丝油剂的国产化研究及应用进展",
+      "doi": "10.19398/j.att.202310007",
+      "matches": []
+    },
+    {
+      "key": "ref06",
+      "title": "The Effect of First Heater Temperature on the Properties of False-Twist Textured Poly (Ethylene Terapthalate) Yarn",
+      "doi": null,
+      "matches": []
+    },
+    {
+      "key": "ref07",
+      "title": "Influence of false-twist texturing parameters on the structural properties of polyester yarn",
+      "doi": null,
+      "matches": []
+    },
+    {
+      "key": "ref08",
+      "title": "Investigation of deformation properties of textured multifilament PES yarns",
+      "doi": "10.35530/IT.073.04.202167",
+      "matches": []
+    },
+    {
+      "key": "ref09",
+      "title": "Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine",
+      "doi": "10.14502/tekstilec.67.2024005",
+      "matches": []
+    },
+    {
+      "key": "ref10",
+      "title": "Investigation of the effects of filament fineness and disc type on yarn physical and mechanical properties of DTY polyester yarns",
+      "doi": "10.5505/pajes.2023.03271",
+      "matches": []
+    },
+    {
+      "key": "ref11",
+      "title": "Influence of texturing variables on the properties of cationic dyeable polyester yarns with different DMS salt content",
+      "doi": null,
+      "matches": []
+    },
+    {
+      "key": "ref12",
+      "title": "A hybrid pareto–fishbone and IoT-based monitoring framework for reducing DTY yarn defects",
+      "doi": "10.30811/jpl.v23i6.7678",
+      "matches": []
+    },
+    {
+      "key": "ref13",
+      "title": "假捻变形工艺对涤纶DTY物理及染色性能的影响研究",
+      "doi": "10.3969/j.issn.1001-7003.2024.01.008",
+      "matches": []
+    },
+    {
+      "key": "ref14",
+      "title": "Effects of stabilising overfeed on the properties of draw textured polyester yarns",
+      "doi": "10.1080/00405000.2023.2200301",
+      "matches": []
+    },
+    {
+      "key": "ref15",
+      "title": "Effects of filament fineness and disc type of drawn textured polyester yarns on carpet resilience and appearance retention performance",
+      "doi": "10.1177/15280837221130516",
+      "matches": []
+    }
+  ]
+}

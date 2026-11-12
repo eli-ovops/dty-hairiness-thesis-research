@@ -1,0 +1,30 @@
+{
+  "file": "\u7814\u7a76\u5de5\u4f5c/\u5f20\u6167\u654f\u51fa\u7248\u6838\u9a8c-2026-11-05/\u5f85\u6838\u4e66\u76ee.bib",
+  "checked_at": "2026-11-05T01:12:21Z",
+  "mode": "offline",
+  "verdict": "PASS",
+  "verdict_line": "PASS: 0/1 verified, 0 errors, 0 warnings (0 checks skipped)",
+  "skipped_checks": [],
+  "entries": [
+    {
+      "key": "zhang2025dty",
+      "type": "article",
+      "line": 1,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "verified": 0,
+    "errors": 0,
+    "warnings_only": 0,
+    "warnings_by_flag": {},
+    "unresolved": 0,
+    "retracted": 0,
+    "canonical_instance": 0,
+    "low_relevance": 0,
+    "checks_skipped": 0
+  }
+}

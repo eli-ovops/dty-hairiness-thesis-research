@@ -1,0 +1,28 @@
+{
+  "checked_at_utc": "2026-10-28T11:51:00.180Z",
+  "date_asia_shanghai": "2026-10-28",
+  "source": "用户已登录的论文平台真实UI",
+  "url": "https://vgms.fanyu.com/admin/index",
+  "path": "过程管理 → 开题报告 → 编辑开题报告 → 本人课题行的编辑",
+  "status": "待提交",
+  "fields": [
+    "研究的基本内容与拟解决的主要问题",
+    "研究的方法与技术路线",
+    "研究的总体安排与进度",
+    "论文提纲",
+    "主要参考文献"
+  ],
+  "all_five_fields_show_zero_characters": true,
+  "footer_controls": [
+    "确定",
+    "暂存",
+    "关闭"
+  ],
+  "attachment_upload_control_observed": false,
+  "deadline": "UNKNOWN：当前查看页面未显示",
+  "result": "开题报告在线编辑入口已开放；未验证提交成功",
+  "mutations_to_report_content": [],
+  "saved": false,
+  "submitted": false,
+  "screenshot": "开题报告编辑表单.png"
+}

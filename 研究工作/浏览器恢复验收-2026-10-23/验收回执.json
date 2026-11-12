@@ -1,0 +1,130 @@
+{
+  "scope": "finite validation only; no original-page refresh or business action",
+  "startedAt": "2026-10-23T12:42:24.307Z",
+  "proxyScope": "cua_repl process only; existing system proxy",
+  "restoreFunctionSaved": true,
+  "steps": [
+    {
+      "step": "create_temporary_tab",
+      "elapsed_ms": 122,
+      "ok": true,
+      "tabId": "2"
+    },
+    {
+      "step": "public_navigation",
+      "elapsed_ms": 188,
+      "ok": true,
+      "url": "https://www.iana.org/help/example-domains",
+      "tool_wall_seconds": 10.2126
+    },
+    {
+      "step": "public_dom",
+      "elapsed_ms": 4990,
+      "ok": true,
+      "dom": "- banner:\n  - link \"Homepage\":\n    - /url: /\n    - img \"Homepage\"\n  - list:\n    - link \"Domains\":\n      - /url: /domains\n    - link \"Protocols\":\n      - /url: /protocols\n    - link \"Numbers\":\n      - /url: /numbers\n    - link \"About\":\n      - /url: /about\n- article:\n  - main:\n    - list:\n      - link \"← Instructions and Guides\":\n        - /url: /help\n    - heading \"Example Domains\" [level=1]\n    - paragraph:\n      - text: A number of domains such as\n      - code: example.com\n      - text: and\n      - code: example.org\n      - text: are maintained for documentation purposes. These domains may be used as illustrative examples in documents without prior coordination with us. They are not available for registration or transfer.\n    - paragraph: We provide a web service on the example domain hosts to provide basic information on the purpose of the domain. These web services are provided as best effort, but are not designed to support production applications. We strongly recommend you do not design applications that require the example domains to have operating HTTP service.\n    - heading \"Further Reading\" [level=2]\n    - list:\n      - link \"IANA-managed Reserved Domains\":\n        - /url: /domains/reserved\n      - link \"Special-Use Domain Names\":\n        - /url: /go/rfc6761\n      - text: (RFC 6761)\n      - link \"Reserved Top Level DNS Names\":\n        - /url: /go/rfc2606\n      - text: (RFC 2606)\n    - text: Last revised\n    - time: 3 weeks ago\n    - text: .\n  - navigation\n- contentinfo:\n  - table:\n    - rowgroup:\n      - row \"Domain Names Root Zone Registry .INT Registry .ARPA Registry IDN Repository\":\n        - cell \"Domain Names\":\n          - link \"Domain Names\":\n            - /url: /domains\n        - cell \"Root Zone Registry .INT Registry .ARPA Registry IDN Repository\":\n          - list:\n            - link \"Root Zone Registry\":\n              - /url: /domains/root\n            - link \".INT Registry\":\n              - /url: /domains/int\n            - link \".ARPA Registry\":\n              - /url: /domains/arpa\n            - link \"IDN Repository\":\n              - /url: /domains/idn-tables\n      - row \"Number Resources Number Registries RIR Allocation Data Abuse Information\":\n        - cell \"Number Resources\":\n          - link \"Number Resources\":\n            - /url: /numbers\n        - cell \"Number Registries RIR Allocation Data Abuse Information\":\n          - list:\n            - link \"Number Registries\":\n              - /url: /numbers/registries\n            - link \"RIR Allocation Data\":\n              - /url: /numbers/allocations/\n            - link \"Abuse Information\":\n              - /url: /help/abuse\n      - row \"Protocols Protocol Registries Time Zone Database\":\n        - cell \"Protocols\":\n          - link \"Protocols\":\n            - /url: /protocols\n        - cell \"Protocol Registries Time Zone Database\":\n          - list:\n            - link \"Protocol Registries\":\n              - /url: /protocols\n            - link \"Time Zone Database\":\n              - /url: /time-zones\n      - row \"About Us News Performance The Organization Archive Contact Us\":\n        - cell \"About Us\":\n          - link \"About Us\":\n            - /url: /about\n        - cell \"News Performance The Organization Archive Contact Us\":\n          - list:\n            - link \"News\":\n              - /url: /news\n            - link \"Performance\":\n              - /url: /performance\n            - link \"The Organization\":\n              - /url: /about/organization\n            - link \"Archive\":\n              - /url: /archive\n            - link \"Contact Us\":\n              - /url: /contact\n  - paragraph:\n    - text: The IANA functions coordinate the Internet’s globally unique identifiers, and are provided by\n    - link \"Public Technical Identifiers\":\n      - /url: https://pti.icann.org\n    - text: \", an affiliate of\"\n    - link \"ICANN\":\n      - /url: https://www.icann.org/\n    - text: .\n  - list:\n    - link \"Privacy Policy\":\n      - /url: https://www.icann.org/privacy/policy\n    - link \"Terms of Service\":\n      - /url: https://www.icann.org/privacy/tos",
+      "tool_wall_seconds": 4.9954
+    },
+    {
+      "step": "public_click",
+      "elapsed_ms": 30110,
+      "ok": true,
+      "target": "IANA-managed Reserved Domains",
+      "tool_wall_seconds": 40.1524
+    },
+    {
+      "step": "public_click_verification_dom",
+      "elapsed_ms": 30088,
+      "ok": true,
+      "dom": "- banner:\n  - link \"Homepage\":\n    - /url: /\n    - img \"Homepage\"\n  - list:\n    - link \"Domains\":\n      - /url: /domains\n    - link \"Protocols\":\n      - /url: /protocols\n    - link \"Numbers\":\n      - /url: /numbers\n    - link \"About\":\n      - /url: /about\n- article:\n  - main:\n    - heading \"IANA-managed Reserved Domains\" [level=1]\n    - paragraph: Certain domains are set aside, and nominally registered to “IANA”, for specific policy or technical purposes.\n    - heading \"Example domains\" [level=2]\n    - paragraph:\n      - text: As described in\n      - link \"RFC 2606\":\n        - /url: /go/rfc2606\n      - text: and\n      - link \"RFC 6761\":\n        - /url: /go/rfc6761\n      - text: \", a number of domains such as example.com and example.org are maintained for documentation purposes. These domains may be used as illustrative examples in documents without prior coordination with us. They are not available for registration or transfer.\"\n    - heading \"Test IDN top-level domains\" [level=2]\n    - paragraph:\n      - text: These domains were temporarily delegated by IANA for the\n      - link \"IDN Evaluation\":\n        - /url: http://www.icann.org/topics/idn/\n      - text: being conducted by\n      - link \"ICANN\":\n        - /url: http://www.icann.org/\n      - text: .\n    - table:\n      - rowgroup:\n        - row \"Domain Domain (A-label) Language Script\":\n          - columnheader \"Domain\"\n          - columnheader \"Domain (A-label)\"\n          - columnheader \"Language\"\n          - columnheader \"Script\"\n      - rowgroup:\n        - row \"إختبار xn--kgbechtv Arabic Arabic\":\n          - cell \"إختبار\"\n          - cell \"xn--kgbechtv\"\n          - cell \"Arabic\"\n          - cell \"Arabic\"\n        - row \"آزمایشی xn--hgbk6aj7f53bba Persian Arabic\":\n          - cell \"آزمایشی\"\n          - cell \"xn--hgbk6aj7f53bba\"\n          - cell \"Persian\"\n          - cell \"Arabic\"\n        - row \"测试 xn--0zwm56d Chinese Han (Simplified variant)\":\n          - cell \"测试\"\n          - cell \"xn--0zwm56d\"\n          - cell \"Chinese\"\n          - cell \"Han (Simplified variant)\"\n        - row \"測試 xn--g6w251d Chinese Han (Traditional variant)\":\n          - cell \"測試\"\n          - cell \"xn--g6w251d\"\n          - cell \"Chinese\"\n          - cell \"Han (Traditional variant)\"\n        - row \"испытание xn--80akhbyknj4f Russian Cyrillic\":\n          - cell \"испытание\"\n          - cell \"xn--80akhbyknj4f\"\n          - cell \"Russian\"\n          - cell \"Cyrillic\"\n        - row \"परीक्षा xn--11b5bs3a9aj6g Hindi Devanagari (Nagari)\":\n          - cell \"परीक्षा\"\n          - cell \"xn--11b5bs3a9aj6g\"\n          - cell \"Hindi\"\n          - cell \"Devanagari (Nagari)\"\n        - row \"δοκιμή xn--jxalpdlp Greek, Modern (1453-) Greek\":\n          - cell \"δοκιμή\"\n          - cell \"xn--jxalpdlp\"\n          - cell \"Greek, Modern (1453-)\"\n          - cell \"Greek\"\n        - row \"테스트 xn--9t4b11yi5a Korean Hangul (Hangŭl, Hangeul)\":\n          - cell \"테스트\"\n          - cell \"xn--9t4b11yi5a\"\n          - cell \"Korean\"\n          - cell \"Hangul (Hangŭl, Hangeul)\"\n        - row \"טעסט xn--deba0ad Yiddish Hebrew\":\n          - cell \"טעסט\"\n          - cell \"xn--deba0ad\"\n          - cell \"Yiddish\"\n          - cell \"Hebrew\"\n        - row \"テスト xn--zckzah Japanese Katakana\":\n          - cell \"テスト\"\n          - cell \"xn--zckzah\"\n          - cell \"Japanese\"\n          - cell \"Katakana\"\n        - row \"பரிட்சை xn--hlcj6aya9esc7a Tamil Tamil\":\n          - cell \"பரிட்சை\"\n          - cell \"xn--hlcj6aya9esc7a\"\n          - cell \"Tamil\"\n          - cell \"Tamil\"\n    - heading \"Policy-reserved domains\" [level=2]\n    - paragraph:\n      - text: We act as both the registrant and registrar for a select number of domains which have been reserved under policy grounds. These exclusions are typically indicated in either technical standards (RFC documents), or\n      - link \"contractual limitations\":\n        - /url: http://www.icann.org/en/registries/agreements.htm\n      - text: .\n    - paragraph:\n      - text: Domains which are described as registered to IANA or ICANN on policy grounds are not available for registration or transfer, with the exception of\n      - generic: country-name.info\n      - text: domains. These domains are available for release by the ICANN Governmental Advisory Committee Secretariat.\n    - heading \"Other Special-Use Domains\" [level=2]\n    - paragraph:\n      - text: There is additionally a\n      - link \"Special-Use Domain Names\":\n        - /url: /assignments/special-use-domain-names\n      - text: registry documenting special-use domains designated by technical standards. For further information, see\n      - link \"Special-Use Domain Names\":\n        - /url: /go/rfc6761\n      - text: (RFC 6761).\n  - navigation:\n    - heading \"Domain Names\" [level=2]\n    - list:\n      - link \"Overview\":\n        - /url: /domains\n      - link \"Root Zone Management\":\n        - /url: /domains/root\n      - link \".INT Registry\":\n        - /url: /domains/int\n      - link \".ARPA Registry\":\n        - /url: /domains/arpa\n      - link \"IDN Practices Repository\":\n        - /url: /domains/idn-tables\n      - link \"Label Generation Rulesets\":\n        - /url: /domains/lgrs\n      - link \"Root Key Signing Key (DNSSEC)\":\n        - /url: /dnssec\n      - link \"Reserved Domains\":\n        - /url: /domains/reserved\n- contentinfo:\n  - table:\n    - rowgroup:\n      - row \"Domain Names Root Zone Registry .INT Registry .ARPA Registry IDN Repository\":\n        - cell \"Domain Names\":\n          - link \"Domain Names\":\n            - /url: /domains\n        - cell \"Root Zone Registry .INT Registry .ARPA Registry IDN Repository\":\n          - list:\n            - link \"Root Zone Registry\":\n              - /url: /domains/root\n            - link \".INT Registry\":\n              - /url: /domains/int\n            - link \".ARPA Registry\":\n              - /url: /domains/arpa\n            - link \"IDN Repository\":\n              - /url: /domains/idn-tables\n      - row \"Number Resources Number Registries RIR Allocation Data Abuse Information\":\n        - cell \"Number Resources\":\n          - link \"Number Resources\":\n            - /url: /numbers\n        - cell \"Number Registries RIR Allocation Data Abuse Information\":\n          - list:\n            - link \"Number Registries\":\n              - /url: /numbers/registries\n            - link \"RIR Allocation Data\":\n              - /url: /numbers/allocations/\n            - link \"Abuse Information\":\n              - /url: /help/abuse\n      - row \"Protocols Protocol Registries Time Zone Database\":\n        - cell \"Protocols\":\n          - link \"Protocols\":\n            - /url: /protocols\n        - cell \"Protocol Registries Time Zone Database\":\n          - list:\n            - link \"Protocol Registries\":\n              - /url: /protocols\n            - link \"Time Zone Database\":\n              - /url: /time-zones\n      - row \"About Us News Performance The Organization Archive Contact Us\":\n        - cell \"About Us\":\n          - link \"About Us\":\n            - /url: /about\n        - cell \"News Performance The Organization Archive Contact Us\":\n          - list:\n            - link \"News\":\n              - /url: /news\n            - link \"Performance\":\n              - /url: /performance\n            - link \"The Organization\":\n              - /url: /about/organization\n            - link \"Archive\":\n              - /url: /archive\n            - link \"Contact Us\":\n              - /url: /contact\n  - paragraph:\n    - text: The IANA functions coordinate the Internet’s globally unique identifiers, and are provided by\n    - link \"Public Technical Identifiers\":\n      - /url: https://pti.icann.org\n    - text: \", an affiliate of\"\n    - link \"ICANN\":\n      - /url: https://www.icann.org/\n    - text: .\n  - list:\n    - link \"Privacy Policy\":\n      - /url: https://www.icann.org/privacy/policy\n    - link \"Terms of Service\":\n      - /url: https://www.icann.org/privacy/tos",
+      "tool_wall_seconds": 30.095
+    },
+    {
+      "step": "public_screenshot",
+      "elapsed_ms": 30046,
+      "ok": true,
+      "bytes": 78514,
+      "file": "/Volumes/EXTERNAL/论文/研究工作/浏览器恢复验收-2026-10-23/public-reserved-domains.png",
+      "tool_wall_seconds": 30.0536
+    },
+    {
+      "step": "original_student_page_readonly_dom",
+      "elapsed_ms": 30132,
+      "ok": true,
+      "summary": {
+        "characters": 1702,
+        "hasStudyNavigation": true,
+        "hasCourseNavigation": true,
+        "hasThesisSection": true,
+        "showsLoginFields": false,
+        "navigationLines": [
+          "  - link \" 学习\":",
+          "    - text: 学习",
+          "  - link \" 课程\":",
+          "    - text: 课程",
+          "  - link \" 课表\":",
+          "    - text: 课表",
+          "- generic: 论文成绩查询",
+          "- generic: 维普论文写作",
+          "- generic: \"论文成绩查询开通时间: --\""
+        ]
+      },
+      "tool_wall_seconds": 40.1539
+    },
+    {
+      "step": "temporary_tab_cleanup",
+      "elapsed_ms": 25,
+      "ok": true,
+      "tool_wall_seconds": 0.0878
+    }
+  ],
+  "originalTabs": [
+    {
+      "id": "1",
+      "providerTabId": "9521ded8-6905-45b2-a302-e52296b9ad13",
+      "title": "学生平台",
+      "url": "https://nbutcj.sccchina.net/student/#Subpage/Thesis?num=5"
+    }
+  ],
+  "publicFinalTab": {
+    "id": "2",
+    "providerTabId": "browser-use:6f90a07f-91bd-4c36-ac3d-780da5586fef",
+    "title": "IANA-managed Reserved Domains",
+    "url": "https://www.iana.org/domains/reserved"
+  },
+  "originalFinalTab": {
+    "id": "1",
+    "providerTabId": "9521ded8-6905-45b2-a302-e52296b9ad13",
+    "title": "学生平台",
+    "url": "https://nbutcj.sccchina.net/student/#Subpage/Thesis?num=5"
+  },
+  "finalTabs": [
+    {
+      "id": "1",
+      "providerTabId": "9521ded8-6905-45b2-a302-e52296b9ad13",
+      "title": "学生平台",
+      "url": "https://nbutcj.sccchina.net/student/#Subpage/Thesis?num=5"
+    }
+  ],
+  "originalPagePreserved": true,
+  "conclusion": "Availability checks passed under separate operations and 55000ms outer limit; 30-40s delays remain; no stable proxy-causation conclusion",
+  "temporaryProxyState": "Active only in current cua_repl process; restoreBrowserProxy function retained; no system or persistent configuration changed",
+  "finishedAt": "2026-10-23T12:48:45.666Z",
+  "timing_note": "elapsed_ms is inside the JS/API call; tool_wall_seconds is the actual tool-return wall time. Transport/postprocessing may add time.",
+  "system_proxy_verified": {
+    "HTTPEnable": 1,
+    "HTTPProxy": "127.0.0.1",
+    "HTTPPort": 7890,
+    "HTTPSEnable": 1,
+    "HTTPSProxy": "127.0.0.1",
+    "HTTPSPort": 7890
+  },
+  "original_student_page_business_actions": [],
+  "scope_limits": [
+    "No student-page navigation, refresh, login, form fill or submission",
+    "No repeated performance tests or proxy A/B in this thread",
+    "No proof that proxy alone caused recovery or permanently removed latency",
+    "No independent re-audit here of Root logs or Root local-page A/B"
+  ],
+  "diagnostic_correction": "Earlier No ChatGPT browser route diagnosis was overconfident; Root reported discovery failures coexisting with successful getInfo. Current tests establish availability with delay, not the deeper root cause.",
+  "screenshot_sha256": "5bc187ca5422bddd8d15f388e29dcd62d57822f74df61a1e85f2f03321fc25ab"
+}

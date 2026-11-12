@@ -1,0 +1,1111 @@
+{
+  "description": "Public DOI metadata and update lookups, no contact email. Not a complete retraction check.",
+  "timestamp": "2026-11-05T11:29:01.453605+08:00",
+  "items": [
+    {
+      "key": "ref03",
+      "doi": "10.3390/fib12040036",
+      "crossref_work_url": "https://api.crossref.org/works/10.3390%2Ffib12040036",
+      "crossref_work": {
+        "DOI": "10.3390/fib12040036",
+        "title": [
+          "A Review on False-Twist Texturing"
+        ],
+        "container-title": [
+          "Fibers"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7027-7185",
+            "authenticated-orcid": false,
+            "given": "Mathias",
+            "family": "Ortega",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0009-8922-8354",
+            "authenticated-orcid": false,
+            "given": "Alexander",
+            "family": "Saynisch",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bahar-Merve",
+            "family": "Yurtseven",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2480-8333",
+            "authenticated-orcid": false,
+            "given": "Thomas",
+            "family": "Gries",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              7
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              7
+            ]
+          ]
+        },
+        "volume": "12",
+        "issue": "4",
+        "page": "36",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.3390/fib12040036"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.3390%2Ffib12040036&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.3390/fib12040036",
+      "openalex": {
+        "id": "https://openalex.org/W4394566828",
+        "doi": "https://doi.org/10.3390/fib12040036",
+        "title": "A Review on False-Twist Texturing",
+        "publication_year": 2024,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": true,
+          "oa_status": "gold",
+          "oa_url": "https://www.mdpi.com/2079-6439/12/4/36/pdf?version=1712548904",
+          "any_repository_has_fulltext": true
+        },
+        "primary_location": {
+          "id": "doi:10.3390/fib12040036",
+          "doi": "https://doi.org/10.3390/fib12040036",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/fib12040036",
+          "pdf_url": "https://www.mdpi.com/2079-6439/12/4/36/pdf?version=1712548904",
+          "source": {
+            "id": "https://openalex.org/S2736605637",
+            "display_name": "Fibers",
+            "issn_l": "2079-6439",
+            "issn": [
+              "2079-6439"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Fibers",
+          "raw_type": "journal-article"
+        }
+      }
+    },
+    {
+      "key": "ref05",
+      "doi": "10.19398/j.att.202310007",
+      "crossref_work_url": "https://api.crossref.org/works/10.19398%2Fj.att.202310007",
+      "crossref_work": {
+        "error": "HTTPError: HTTP Error 404: Not Found"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.19398%2Fj.att.202310007&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.19398/j.att.202310007",
+      "openalex": {
+        "error": "HTTPError: HTTP Error 404: Not Found"
+      }
+    },
+    {
+      "key": "ref08",
+      "doi": "10.35530/IT.073.04.202167",
+      "crossref_work_url": "https://api.crossref.org/works/10.35530%2FIT.073.04.202167",
+      "crossref_work": {
+        "DOI": "10.35530/it.073.04.202167",
+        "title": [
+          "Investigation of deformation properties of textured multifilament PES yarns"
+        ],
+        "container-title": [
+          "Industria Textila"
+        ],
+        "author": [
+          {
+            "given": "JOVANA",
+            "family": "STEPANOVIĆ",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "TATJANA",
+            "family": "ŠARAC",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "DUŠAN",
+            "family": "TRAJKOVIĆ",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JOVAN",
+            "family": "STEPANOVIĆ",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              31
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              31
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              31
+            ]
+          ]
+        },
+        "volume": "73",
+        "issue": "04",
+        "page": "397-404",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.35530/it.073.04.202167"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.35530%2FIT.073.04.202167&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.35530/IT.073.04.202167",
+      "openalex": {
+        "id": "https://openalex.org/W4293802484",
+        "doi": "https://doi.org/10.35530/it.073.04.202167",
+        "title": "Investigation of deformation properties of textured multifilament PES yarns",
+        "publication_year": 2022,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": true,
+          "oa_status": "diamond",
+          "oa_url": "https://doi.org/10.35530/it.073.04.202167",
+          "any_repository_has_fulltext": false
+        },
+        "primary_location": {
+          "id": "doi:10.35530/it.073.04.202167",
+          "doi": "https://doi.org/10.35530/it.073.04.202167",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.35530/it.073.04.202167",
+          "pdf_url": "https://doi.org/10.35530/it.073.04.202167",
+          "source": {
+            "id": "https://openalex.org/S54223024",
+            "display_name": "Industria Textila",
+            "issn_l": "1222-5347",
+            "issn": [
+              "1222-5347"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "poland-20",
+              "russia-white-list-2"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Industria Textila",
+          "raw_type": "journal-article"
+        }
+      }
+    },
+    {
+      "key": "ref09",
+      "doi": "10.14502/tekstilec.67.2024005",
+      "crossref_work_url": "https://api.crossref.org/works/10.14502%2Ftekstilec.67.2024005",
+      "crossref_work": {
+        "DOI": "10.14502/tekstilec.67.2024005",
+        "title": [
+          "Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine",
+          "Primerjava kakovosti prej, izdelanih na razteznoteksturirnih strojih z jermeni in strojih z galetami"
+        ],
+        "container-title": [
+          "Tekstilec"
+        ],
+        "author": [
+          {
+            "given": "Subhankar",
+            "family": "Maity",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bibekananda",
+            "family": "Basu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Abhishek",
+            "family": "Mishra",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              29
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              29
+            ]
+          ]
+        },
+        "page": "56-67",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.14502/tekstilec.67.2024005"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.14502%2Ftekstilec.67.2024005&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.14502/tekstilec.67.2024005",
+      "openalex": {
+        "id": "https://openalex.org/W4393316710",
+        "doi": "https://doi.org/10.14502/tekstilec.67.2024005",
+        "title": "Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine",
+        "publication_year": 2024,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": true,
+          "oa_status": "diamond",
+          "oa_url": "https://journals.uni-lj.si/tekstilec/article/download/18154/15493",
+          "any_repository_has_fulltext": false
+        },
+        "primary_location": {
+          "id": "doi:10.14502/tekstilec.67.2024005",
+          "doi": "https://doi.org/10.14502/tekstilec.67.2024005",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.14502/tekstilec.67.2024005",
+          "pdf_url": "https://journals.uni-lj.si/tekstilec/article/download/18154/15493",
+          "source": {
+            "id": "https://openalex.org/S4210218787",
+            "display_name": "Tekstilec",
+            "issn_l": "0351-3386",
+            "issn": [
+              "0351-3386",
+              "2350-3696"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "ddh",
+              "doaj",
+              "dongbi-d",
+              "poland-20",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310314520",
+            "host_organization_name": "University of Ljubljana, Faculty for Natural Sciences and Engineering",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310314520"
+            ],
+            "host_organization_lineage_names": [
+              "University of Ljubljana, Faculty for Natural Sciences and Engineering"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Tekstilec",
+          "raw_type": "journal-article"
+        }
+      }
+    },
+    {
+      "key": "ref10",
+      "doi": "10.5505/pajes.2023.03271",
+      "crossref_work_url": "https://api.crossref.org/works/10.5505%2Fpajes.2023.03271",
+      "crossref_work": {
+        "DOI": "10.5505/pajes.2023.03271",
+        "title": [
+          "Investigation of the effects of filament fineness and disc type on yarn physical and mechanical properties of DTY polyester yarns"
+        ],
+        "container-title": [
+          "Pamukkale University Journal of Engineering Sciences"
+        ],
+        "author": [
+          {
+            "given": "Gülbin",
+            "family": "Fidan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yasemin",
+            "family": "Korkmaz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Halil İbrahim",
+            "family": "Çelik",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "volume": "29",
+        "issue": "7",
+        "page": "783-789",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.5505/pajes.2023.03271"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.5505%2Fpajes.2023.03271&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.5505/pajes.2023.03271",
+      "openalex": {
+        "id": "https://openalex.org/W4390456750",
+        "doi": "https://doi.org/10.5505/pajes.2023.03271",
+        "title": "Investigation of the effects of filament fineness and disc type on yarn physical and mechanical properties of DTY polyester yarns",
+        "publication_year": 2023,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": true,
+          "oa_status": "diamond",
+          "oa_url": "https://jag.journalagent.com/z4/download_fulltext.asp?pdir=pajes&plng=eng&un=PAJES-03271",
+          "any_repository_has_fulltext": true
+        },
+        "primary_location": {
+          "id": "doi:10.5505/pajes.2023.03271",
+          "doi": "https://doi.org/10.5505/pajes.2023.03271",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5505/pajes.2023.03271",
+          "pdf_url": "https://jag.journalagent.com/z4/download_fulltext.asp?pdir=pajes&plng=eng&un=PAJES-03271",
+          "source": {
+            "id": "https://openalex.org/S2736584300",
+            "display_name": "Pamukkale University Journal of Engineering Sciences",
+            "issn_l": "1300-7009",
+            "issn": [
+              "1300-7009",
+              "2147-5881"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [
+              "dongbi-d",
+              "poland-20",
+              "russia-white-list-4",
+              "tr-dizin"
+            ],
+            "host_organization": "https://openalex.org/P4310318385",
+            "host_organization_name": "Pamukkale University",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310318385"
+            ],
+            "host_organization_lineage_names": [
+              "Pamukkale University"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Pamukkale University Journal of Engineering Sciences",
+          "raw_type": "journal-article"
+        }
+      }
+    },
+    {
+      "key": "ref12",
+      "doi": "10.30811/jpl.v23i6.7678",
+      "crossref_work_url": "https://api.crossref.org/works/10.30811%2Fjpl.v23i6.7678",
+      "crossref_work": {
+        "DOI": "10.30811/jpl.v23i6.7678",
+        "title": [
+          "A hybrid pareto–fishbone and IoT-based monitoring framework for reducing DTY yarn defects"
+        ],
+        "container-title": [
+          "Jurnal Polimesin"
+        ],
+        "author": [
+          {
+            "given": "Deni",
+            "family": "Kurnia",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hanif",
+            "family": "Fakhrurroja",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Marno",
+            "family": "Marno",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Joniko",
+            "family": "Joniko",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              31
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              31
+            ]
+          ]
+        },
+        "volume": "23",
+        "issue": "6",
+        "page": "881",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.30811/jpl.v23i6.7678"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.30811%2Fjpl.v23i6.7678&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.30811/jpl.v23i6.7678",
+      "openalex": {
+        "id": "https://openalex.org/W7123343817",
+        "doi": "https://doi.org/10.30811/jpl.v23i6.7678",
+        "title": "A hybrid pareto–fishbone and IoT-based monitoring framework for reducing DTY yarn defects",
+        "publication_year": 2025,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": true,
+          "oa_status": "diamond",
+          "oa_url": "https://e-jurnal.pnl.ac.id/polimesin/article/download/7678/5647",
+          "any_repository_has_fulltext": false
+        },
+        "primary_location": {
+          "id": "doi:10.30811/jpl.v23i6.7678",
+          "doi": "https://doi.org/10.30811/jpl.v23i6.7678",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.30811/jpl.v23i6.7678",
+          "pdf_url": "https://e-jurnal.pnl.ac.id/polimesin/article/download/7678/5647",
+          "source": {
+            "id": "https://openalex.org/S4210238377",
+            "display_name": "Jurnal POLIMESIN",
+            "issn_l": "1693-5462",
+            "issn": [
+              "1693-5462",
+              "2549-1199"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4405254668",
+            "host_organization_name": "Politeknik Negeri Lhokseumawe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405254668"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Jurnal Polimesin",
+          "raw_type": "journal-article"
+        }
+      }
+    },
+    {
+      "key": "ref13",
+      "doi": "10.3969/j.issn.1001-7003.2024.01.008",
+      "crossref_work_url": "https://api.crossref.org/works/10.3969%2Fj.issn.1001-7003.2024.01.008",
+      "crossref_work": {
+        "error": "HTTPError: HTTP Error 404: Not Found"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.3969%2Fj.issn.1001-7003.2024.01.008&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.3969/j.issn.1001-7003.2024.01.008",
+      "openalex": {
+        "error": "HTTPError: HTTP Error 404: Not Found"
+      }
+    },
+    {
+      "key": "ref14",
+      "doi": "10.1080/00405000.2023.2200301",
+      "crossref_work_url": "https://api.crossref.org/works/10.1080%2F00405000.2023.2200301",
+      "crossref_work": {
+        "DOI": "10.1080/00405000.2023.2200301",
+        "title": [
+          "Effects of stabilising overfeed on the properties of draw textured polyester yarns"
+        ],
+        "container-title": [
+          "The Journal of The Textile Institute"
+        ],
+        "author": [
+          {
+            "given": "Bibekanada",
+            "family": "Basu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Reliance Industries Limited, Silvassa, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7314-6241",
+            "authenticated-orcid": false,
+            "given": "Subhankar",
+            "family": "Maity",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Uttar Pradesh Textile Technology Institute, Kanpur, India"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              25
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              2
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              25
+            ]
+          ]
+        },
+        "volume": "115",
+        "issue": "2",
+        "page": "278-283",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.1080/00405000.2023.2200301"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.1080%2F00405000.2023.2200301&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.1080/00405000.2023.2200301",
+      "openalex": {
+        "id": "https://openalex.org/W4366983729",
+        "doi": "https://doi.org/10.1080/00405000.2023.2200301",
+        "title": "Effects of stabilising overfeed on the properties of draw textured polyester yarns",
+        "publication_year": 2023,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": false,
+          "oa_status": "closed",
+          "oa_url": null,
+          "any_repository_has_fulltext": false
+        },
+        "primary_location": {
+          "id": "doi:10.1080/00405000.2023.2200301",
+          "doi": "https://doi.org/10.1080/00405000.2023.2200301",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/00405000.2023.2200301",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S105605216",
+            "display_name": "Journal of the Textile Institute",
+            "issn_l": "0040-5000",
+            "issn": [
+              "0040-5000",
+              "1754-2340"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Journal of The Textile Institute",
+          "raw_type": "journal-article"
+        }
+      }
+    },
+    {
+      "key": "ref15",
+      "doi": "10.1177/15280837221130516",
+      "crossref_work_url": "https://api.crossref.org/works/10.1177%2F15280837221130516",
+      "crossref_work": {
+        "DOI": "10.1177/15280837221130516",
+        "title": [
+          "Effects of filament fineness and disc type of drawn textured polyester yarns on carpet resilience and appearance retention performance"
+        ],
+        "container-title": [
+          "Journal of Industrial Textiles"
+        ],
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-7958-2626",
+            "authenticated-orcid": false,
+            "given": "Gülbin",
+            "family": "Fidan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Naci Topçuoğlu Vocational School, Gaziantep Universitesi, Gaziantep, Turkey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yasemin",
+            "family": "Korkmaz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Textile Engineering, Kahramanmaras Sutcu Imam Universitesi, Kahramanmaras, Turkey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1145-6471",
+            "authenticated-orcid": false,
+            "given": "Halil İbrahim",
+            "family": "ÇELİK",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Naci Topçuoğlu Vocational School, Gaziantep Universitesi, Gaziantep, Turkey"
+              },
+              {
+                "name": "Department of Textile Engineering, Gaziantep Universitesi, Gaziantep, Turkey"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              6
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              6
+            ]
+          ]
+        },
+        "volume": "52",
+        "article-number": "15280837221130516",
+        "type": "journal-article",
+        "relation": {},
+        "URL": "https://doi.org/10.1177/15280837221130516"
+      },
+      "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.1177%2F15280837221130516&rows=20",
+      "crossref_updates": {
+        "total_results": 0,
+        "items": []
+      },
+      "openalex_url": "https://api.openalex.org/works/https://doi.org/10.1177/15280837221130516",
+      "openalex": {
+        "id": "https://openalex.org/W4312932335",
+        "doi": "https://doi.org/10.1177/15280837221130516",
+        "title": "Effects of filament fineness and disc type of drawn textured polyester yarns on carpet resilience and appearance retention performance",
+        "publication_year": 2022,
+        "is_retracted": false,
+        "is_paratext": false,
+        "open_access": {
+          "is_oa": true,
+          "oa_status": "diamond",
+          "oa_url": "https://doi.org/10.1177/15280837221130516",
+          "any_repository_has_fulltext": true
+        },
+        "primary_location": {
+          "id": "doi:10.1177/15280837221130516",
+          "doi": "https://doi.org/10.1177/15280837221130516",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1177/15280837221130516",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S154255560",
+            "display_name": "Journal of Industrial Textiles",
+            "issn_l": "0093-4658",
+            "issn": [
+              "0093-4658",
+              "1528-0837",
+              "1530-8057"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "oarl",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320017",
+            "host_organization_name": "SAGE Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320017"
+            ],
+            "host_organization_lineage_names": [
+              "SAGE Publishing"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Industrial Textiles",
+          "raw_type": "journal-article"
+        }
+      }
+    }
+  ]
+}

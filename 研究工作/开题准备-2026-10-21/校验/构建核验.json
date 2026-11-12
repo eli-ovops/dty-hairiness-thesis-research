@@ -1,0 +1,33 @@
+{
+  "output": "/Volumes/EXTERNAL/论文/研究工作/03-开题报告-讨论稿-v0.1-2026-10-21.docx",
+  "original_template_sha256": "fe0bd31bffc463aee55ffde1e4b9c3d30a2ff5110bc7125a860f5d64ea003458",
+  "converted_template_sha256": "4cd2b8ddb17106d294d707d4837e9482e63587226360e6ef1533db4e240ef8e0",
+  "output_sha256": "2dca806bf823b69113d2e0dda269aaa863c8791b615efc4a6f210e8bbe9439e8",
+  "changed_parts": [
+    "word/document.xml",
+    "word/settings.xml"
+  ],
+  "unchanged_parts": [
+    "docProps/core.xml",
+    "docProps/app.xml",
+    "docProps/custom.xml",
+    "_rels/.rels",
+    "word/_rels/document.xml.rels",
+    "word/footer1.xml",
+    "word/header1.xml",
+    "word/footer3.xml",
+    "word/header3.xml",
+    "word/footer2.xml",
+    "word/fontTable.xml",
+    "word/header2.xml",
+    "word/theme/theme1.xml",
+    "word/styles.xml",
+    "word/media/image1.jpeg",
+    "word/media/image2.jpeg",
+    "word/numbering.xml",
+    "[Content_Types].xml"
+  ],
+  "hanzi_first_four_sections": 1986,
+  "reference_count": 15,
+  "docx_zip_test": null
+}

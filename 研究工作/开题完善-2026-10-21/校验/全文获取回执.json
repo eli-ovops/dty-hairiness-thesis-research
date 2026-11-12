@@ -1,0 +1,60 @@
+[
+  {
+    "file": "C01-李谷成-2011.pdf",
+    "source": "https://img.chinayarn.com/12848-20141227204540.pdf",
+    "utc": "2026-10-21T07:14:36.311412+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://img.chinayarn.com/12848-20141227204540.pdf",
+    "bytes": 356760,
+    "sha256": "9a97f97e73116e26b244d3731fcd4485d552db4fc6f43a69f593980eab907db1",
+    "valid_pdf": true
+  },
+  {
+    "file": "E03-Yildirim-2009-parameters.pdf",
+    "source": "https://journals.sagepub.com/doi/pdf/10.1177/155892500900400205?download=true",
+    "utc": "2026-10-21T07:14:36.311802+00:00",
+    "error": "HTTP Error 403: Forbidden",
+    "valid_pdf": false
+  },
+  {
+    "file": "E04-Yildirim-2009-temperature.pdf",
+    "source": "https://dergipark.org.tr/en/download/article-file/218134",
+    "utc": "2026-10-21T07:14:36.311924+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://dergipark.org.tr/en/download/article-file/218134",
+    "bytes": 369658,
+    "sha256": "a12699b57c2e5f02f313221486df75bb11d3df2b1019ac1fccd1a1666a839a2b",
+    "valid_pdf": true
+  },
+  {
+    "file": "E05-Karakas-2005.pdf",
+    "source": "https://nopr.niscpr.res.in/bitstream/123456789/24602/1/IJFTR%2030(1)%2037-41.pdf",
+    "utc": "2026-10-21T07:14:36.548975+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "final_url": "https://nopr.niscpr.res.in/bitstream/123456789/24602/1/IJFTR%2030(1)%2037-41.pdf",
+    "bytes": 1057894,
+    "sha256": "6fed42394aa4a5af2efa661ce7c65cc2042e51fccc09129b920c0b7877afb3db",
+    "valid_pdf": true
+  },
+  {
+    "file": "C-new-张慧敏-2025.pdf",
+    "source": "https://journals.nassg.org/index.php/mit-cn/article/download/7169/pdf",
+    "utc": "2026-10-21T07:14:36.634591+00:00",
+    "error": "HTTP Error 403: Forbidden",
+    "valid_pdf": false
+  },
+  {
+    "file": "IITD-Studies-False-Twist.pdf",
+    "source": "https://ir.iitd.ac.in/bitstreams/17911e88-1b82-4d87-a50b-afa7704a87d2/download",
+    "utc": "2026-10-21T07:14:38.081855+00:00",
+    "status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "final_url": "https://ir.iitd.ac.in/server/api/core/bitstreams/17911e88-1b82-4d87-a50b-afa7704a87d2/content",
+    "bytes": 365831,
+    "sha256": "d4d7bbf847a0d2250beddf524ed16bdd6744f046f749b43b586ed39dc860a194",
+    "valid_pdf": true
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "artifact": "/Volumes/EXTERNAL/论文/研究工作/03-开题报告-讨论稿-v0.1-2026-10-21.docx",
+  "sha256": "2dca806bf823b69113d2e0dda269aaa863c8791b615efc4a6f210e8bbe9439e8",
+  "bytes": 1075710,
+  "pages": 6,
+  "all_pages_visually_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "hanzi_first_four_sections": 1986,
+  "references": 15,
+  "zip_and_xml": "pass",
+  "six_visible_form_sections": "pass",
+  "cover_and_identity": "pass",
+  "teacher_opinion_and_signature": "blank as required",
+  "non_target_package_parts": "byte-identical to converted school template",
+  "original_template_sha256": "fe0bd31bffc463aee55ffde1e4b9c3d30a2ff5110bc7125a860f5d64ea003458",
+  "original_template_unchanged": true,
+  "chinese_text_chunks_missing_from_pdf": [],
+  "doi_strings_present_in_pdf": 12,
+  "layout": "cover fits one page; paragraph groups and individual references unsplit; no isolated section title or large unnecessary empty page",
+  "academic_status": "discussion draft; partial full-text reading; online citation gate and quantitative case sufficiency not complete",
+  "template_version_limit": "uses project-held school original; 260922 replacement not obtained",
+  "platform_submission": "not performed",
+  "qa_pdf": "/Volumes/EXTERNAL/论文/研究工作/开题准备-2026-10-21/成稿预览-最终/03-开题报告-讨论稿-v0.1-2026-10-21.pdf"
+}

@@ -1,0 +1,1625 @@
+[
+  {
+    "doi": "10.1080/00405000.2024.2370547",
+    "status": 200,
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            17
+          ]
+        ],
+        "date-time": "2026-08-17T22:34:50Z",
+        "timestamp": 1787006090993,
+        "version": "build-2736575974"
+      },
+      "reference-count": 20,
+      "publisher": "Informa UK Limited",
+      "issue": "7",
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of The Textile Institute"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1080/00405000.2024.2370547",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ],
+        "date-time": "2024-06-27T03:56:43Z",
+        "timestamp": 1719460603000
+      },
+      "page": "1169-1177",
+      "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "Effect of stabilising overfeed of draw textured yarns on woven fabric properties"
+      ],
+      "prefix": "10.1080",
+      "volume": "116",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7314-6241",
+          "authenticated-orcid": false,
+          "given": "Subhankar",
+          "family": "Maity",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Uttar Pradesh Textile Technology Institute",
+              "place": [
+                "Kanpur, India"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Payal",
+          "family": "Prajapati",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Uttar Pradesh Textile Technology Institute",
+              "place": [
+                "Kanpur, India"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Prashant",
+          "family": "Vishnoi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Uttar Pradesh Textile Technology Institute",
+              "place": [
+                "Kanpur, India"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bibekanada",
+          "family": "Basu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Reliance Industries Ltd",
+              "place": [
+                "Silvassa Unit, India"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_2_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2013.813664"
+        },
+        {
+          "key": "e_1_3_2_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9780857095596"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_2_4_1",
+          "first-page": "9",
+          "article-title": "Effect of linear density of feed yarn filaments and air-jet texturing process variables on compressional properties of fabrics",
+          "volume": "42",
+          "author": "Baldua R. K.",
+          "year": "2017",
+          "unstructured": "Baldua, R. K., Rengasamy, R. S., & Kothari, V. K. (2017). Effect of linear density of feed yarn filaments and air-jet texturing process variables on compressional properties of fabrics. Indian Journal of Fibre & Textile Research (IJFTR), 42(1), 9–16.",
+          "journal-title": "Indian Journal of Fibre & Textile Research (IJFTR)"
+        },
+        {
+          "key": "e_1_3_2_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2023.2200301"
+        },
+        {
+          "key": "e_1_3_2_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2013.827389"
+        },
+        {
+          "key": "e_1_3_2_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48317/IMIST.PRSM/morjchem-v9i1.19155"
+        },
+        {
+          "key": "e_1_3_2_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758805800602"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_3_2_9_1",
+          "first-page": "498",
+          "article-title": "Studies on the properties of some selected polyester textured yarns",
+          "volume": "11",
+          "author": "Fashola K. O.",
+          "year": "2012",
+          "unstructured": "Fashola, K. O., Giwa, A., Iliya, E. B., & Onemano, J. G. (2012). Studies on the properties of some selected polyester textured yarns.” Middle East Journal of Scientific Research, 11(4), 498–502.",
+          "journal-title": "” Middle East Journal of Scientific Research,"
+        },
+        {
+          "key": "e_1_3_2_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9781855737655"
+        },
+        {
+          "key": "e_1_3_2_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/155892501501000116"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_3_2_12_1",
+          "first-page": "299",
+          "article-title": "Investigation of air-jet texturing of technical polyester yarns",
+          "volume": "20",
+          "author": "Koral S.",
+          "year": "2010",
+          "unstructured": "Koc, Koral, S., & Şengönül Hockenberger, A. (2010). Investigation of air-jet texturing of technical polyester yarns. Textile and Apparel, 20(4), 299–305.",
+          "journal-title": "Textile and Apparel,"
+        },
+        {
+          "key": "e_1_3_2_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.porgcoat.2017.03.010"
+        },
+        {
+          "key": "e_1_3_2_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14502/tekstilec.67.2024005"
+        },
+        {
+          "key": "e_1_3_2_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1984.070290321"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_3_2_16_1",
+          "first-page": "224",
+          "article-title": "Effect of process variables on the properties of air-jet textured yarns using response surface design",
+          "volume": "27",
+          "author": "Palta D.",
+          "year": "2002",
+          "unstructured": "Palta, D., & Kothari, V. K. (2002). Effect of process variables on the properties of air-jet textured yarns using response surface design. Indian Journal of Fibre and Textile Research, 27(3), 224–229.",
+          "journal-title": "Indian Journal of Fibre and Textile Research,"
+        },
+        {
+          "key": "e_1_3_2_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051750407400313"
+        },
+        {
+          "key": "e_1_3_2_18_1",
+          "unstructured": "Reza M. Ulcay Y. & Ulcay Y. (n.d). “Increase the Performance of Texturing Machine – A Review Increase the Performance of Texturing Machine: A Review.”"
+        },
+        {
+          "key": "e_1_3_2_19_1",
+          "first-page": "95",
+          "article-title": "Influence of draw ratio and drawing temperature on false twist textured nylon 6 multifilament yarns",
+          "volume": "4",
+          "author": "Sengupta A. K.",
+          "year": "1979",
+          "unstructured": "Sengupta, A. K., & Gulrajani, M. L. (1979). “Influence of draw ratio and drawing temperature on false twist textured nylon 6 multifilament yarns.” NIScPR Online Periodicals Repository, 4(September), 95–98.",
+          "journal-title": "NIScPR Online Periodicals Repository,"
+        },
+        {
+          "key": "e_1_3_2_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1978.070220113"
+        },
+        {
+          "key": "e_1_3_2_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/155892500900400205"
+        }
+      ],
+      "container-title": [
+        "The Journal of The Textile Institute"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/00405000.2024.2370547",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            16
+          ]
+        ],
+        "date-time": "2026-02-16T05:42:13Z",
+        "timestamp": 1771220533000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.1080/00405000.2024.2370547"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ]
+      },
+      "references-count": 20,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1080/00405000.2024.2370547"
+      ],
+      "URL": "https://doi.org/10.1080/00405000.2024.2370547",
+      "relation": {},
+      "ISSN": [
+        "0040-5000",
+        "1754-2340"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5000",
+          "type": "print"
+        },
+        {
+          "value": "1754-2340",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tjti20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tjti20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2023-10-18",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-06-16",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-06-27",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "doi": "10.1080/00405000.2023.2200301",
+    "status": 200,
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            17
+          ]
+        ],
+        "date-time": "2026-08-17T22:35:06Z",
+        "timestamp": 1787006106718,
+        "version": "build-2736575974"
+      },
+      "reference-count": 13,
+      "publisher": "Informa UK Limited",
+      "issue": "2",
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of The Textile Institute"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1080/00405000.2023.2200301",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            25
+          ]
+        ],
+        "date-time": "2023-04-25T11:29:58Z",
+        "timestamp": 1682422198000
+      },
+      "page": "278-283",
+      "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Effects of stabilising overfeed on the properties of draw textured polyester yarns"
+      ],
+      "prefix": "10.1080",
+      "volume": "115",
+      "author": [
+        {
+          "given": "Bibekanada",
+          "family": "Basu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Reliance Industries Limited, Silvassa, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7314-6241",
+          "authenticated-orcid": false,
+          "given": "Subhankar",
+          "family": "Maity",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Uttar Pradesh Textile Technology Institute, Kanpur, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_1_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9780857095596"
+        },
+        {
+          "key": "e_1_3_1_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2013.827389"
+        },
+        {
+          "key": "e_1_3_1_4_1",
+          "first-page": "498",
+          "article-title": "Studies on the properties of some selected polyester textured yarns",
+          "volume": "11",
+          "author": "Fashola K. O.",
+          "year": "2012",
+          "unstructured": "Fashola, K. O., Giwa, A., Iliya, E. B., & Onemano, J. G. (2012). Studies on the properties of some selected polyester textured yarns. Middle East Journal of Scientific Research, 11, 498–502.",
+          "journal-title": "Middle East Journal of Scientific Research"
+        },
+        {
+          "key": "e_1_3_1_5_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hearle J. W. S. Hollick L. & Wilson D. K. (2001). Yarn texturing technology.",
+          "DOI": "10.1533/9781855737655"
+        },
+        {
+          "key": "e_1_3_1_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/155892501501000116"
+        },
+        {
+          "key": "e_1_3_1_7_1",
+          "first-page": "299",
+          "article-title": "Investigation of air-jet texturing of technical polyester yarns",
+          "volume": "20",
+          "author": "Koc S. K.",
+          "year": "2010",
+          "unstructured": "Koc, S. K., & Hockenberger, A. Ş. (2010). Investigation of air-jet texturing of technical polyester yarns. Textile and Apparel, 20, 299–305.",
+          "journal-title": "Textile and Apparel"
+        },
+        {
+          "key": "e_1_3_1_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1984.070290321"
+        },
+        {
+          "key": "e_1_3_1_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051750407400313"
+        },
+        {
+          "issue": "10",
+          "key": "e_1_3_1_10_1",
+          "first-page": "298",
+          "article-title": "Increase the performance of texturing machine – A review",
+          "volume": "3",
+          "author": "Reza M.",
+          "year": "2017",
+          "unstructured": "Reza, M., Ulcay, Y., & Ulcay, Y. (2017). Increase the performance of texturing machine – A review. International Journal for Innovative Research in Science & Technology, 3(10), 298–302.",
+          "journal-title": "International Journal for Innovative Research in Science & Technology,"
+        },
+        {
+          "key": "e_1_3_1_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00216-009-3169-y"
+        },
+        {
+          "key": "e_1_3_1_12_1",
+          "first-page": "95",
+          "article-title": "Influence of draw ratio and drawing temperature on false twist textured nylon 6",
+          "volume": "4",
+          "author": "Sengupta A. K.",
+          "year": "1979",
+          "unstructured": "Sengupta, A. K., & Gulrajani, M. L. (1979). Influence of draw ratio and drawing temperature on false twist textured nylon 6. Multifilament Yarns, 4, 95–98.",
+          "journal-title": "Multifilament Yarns,"
+        },
+        {
+          "key": "e_1_3_1_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1978.070220113"
+        },
+        {
+          "key": "e_1_3_1_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/155892500900400205"
+        }
+      ],
+      "container-title": [
+        "The Journal of The Textile Institute"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/00405000.2023.2200301",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            12
+          ]
+        ],
+        "date-time": "2024-01-12T03:06:19Z",
+        "timestamp": 1705028779000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.1080/00405000.2023.2200301"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            25
+          ]
+        ]
+      },
+      "references-count": 13,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1080/00405000.2023.2200301"
+      ],
+      "URL": "https://doi.org/10.1080/00405000.2023.2200301",
+      "relation": {},
+      "ISSN": [
+        "0040-5000",
+        "1754-2340"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5000",
+          "type": "print"
+        },
+        {
+          "value": "1754-2340",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            25
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tjti20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tjti20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2022-08-18",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-12-15",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2023-04-25",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "doi": "10.1177/0040517520925859",
+    "status": 200,
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            14
+          ]
+        ],
+        "date-time": "2026-07-14T01:53:22Z",
+        "timestamp": 1783994002356,
+        "version": "3.55.0"
+      },
+      "reference-count": 35,
+      "publisher": "SAGE Publications",
+      "issue": "23-24",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                5,
+                28
+              ]
+            ],
+            "date-time": "2020-05-28T00:00:00Z",
+            "timestamp": 1590624000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:p>In the present work, the texturability of filament yarns produced from recycled bottle grade polyethylene terephthalate (R-PET) and new fiber grade PET (FG-PET) were investigated and compared experimentally. Yarn spun on a spin-draw spinning machine was draw-textured. Elongation at break in each fiber was set to reach 30 ± 5% in the texturing machine. The effect of the draw-texturing conditions on thermomechanical, structural, and crimp properties were examined. Draw-texturing behaviors of the fibers were analyzed using differential scanning calorimetry and measurements of intrinsic viscosity, mechanical and crimp properties, density, and X-ray diffraction. The results indicate that crystallinity of the textured yarn from R- PET and FG-PET has increased compared to the semi-drawn yarns. Further, the lateral dimensions of the R-PET crystals are relatively well developed. Crimp properties show nearly similar response for two polymer yarns for the texturing process. It was found that R-PET can be the premier feed supply for the draw-texturing process and that filaments with appropriate confidence could be obtained from the R-PET.</jats:p>",
+      "DOI": "10.1177/0040517520925859",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            28
+          ]
+        ],
+        "date-time": "2020-05-28T05:05:23Z",
+        "timestamp": 1590642323000
+      },
+      "page": "2703-2713",
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 13,
+      "title": [
+        "Experimental study on texturability of filament yarns produced from recycled PET"
+      ],
+      "prefix": "10.1177",
+      "volume": "90",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3445-2713",
+          "authenticated-orcid": false,
+          "given": "Marjan",
+          "family": "Abbasi",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Textile Engineering, Faculty of Engineering, University of Guilan, Rasht, Islamic Republic of Iran"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mohammad Reza",
+          "family": "Mohades Mojtahedi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Textile Engineering Amirkabir University of Technology, Tehran, Iran"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Richard",
+          "family": "Kotek",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "North Carolina State University, Raleigh, NCSU, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            28
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-0040517520925859",
+          "unstructured": "U.S. Environmental Protection Agency, Wastes – resource conservation – common wastes & materials – plastics, www.epa.gov/osw/conserve/materials/plastics.htm (2012, accessed 3 September 2014)."
+        },
+        {
+          "key": "bibr2-0040517520925859",
+          "first-page": "119",
+          "volume": "14",
+          "author": "Jankauskait'e V",
+          "year": "2008",
+          "journal-title": "J Mater Sci"
+        },
+        {
+          "key": "bibr3-0040517520925859",
+          "unstructured": "Telli A and Özdil N. Lint Generation of the Yarns Produced Recycled PET Fibers’. In:\n                      ICONTEX 2011 International Congress of Innovative Textiles\n                      , 20–22 October 2011, pp. 32–35."
+        },
+        {
+          "key": "bibr4-0040517520925859",
+          "unstructured": "Pall Corporation. Advanced filtration technology enables the production high-quality recycled PET fibers for the tex, https://www.pall.com/? 2013."
+        },
+        {
+          "key": "bibr5-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/ma10091044"
+        },
+        {
+          "key": "bibr6-0040517520925859",
+          "first-page": "47",
+          "volume": "10",
+          "author": "Telli A",
+          "year": "2015",
+          "journal-title": "J Eng Fibers Fabr"
+        },
+        {
+          "key": "bibr7-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.21533/pen.v5i2.110"
+        },
+        {
+          "key": "bibr8-0040517520925859",
+          "first-page": "67",
+          "volume": "6",
+          "author": "Abbasi M",
+          "year": "2019",
+          "journal-title": "J Text Polym"
+        },
+        {
+          "key": "bibr9-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.25369"
+        },
+        {
+          "key": "bibr10-0040517520925859",
+          "unstructured": "Abbasi M, Mojtahedi MRM and Kotek R. Experimental study on draw-ability of filament yarns produced from recycled PET and bottle grade PET. In:\n                      International seminar of polymer science and technology (ISPST 2012)\n                      , Tehran, Iran, 21–25 October 2012."
+        },
+        {
+          "key": "bibr11-0040517520925859",
+          "first-page": "11",
+          "volume": "3",
+          "author": "Elamri A",
+          "year": "2015",
+          "journal-title": "Nano"
+        },
+        {
+          "key": "bibr12-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2019.1611523"
+        },
+        {
+          "key": "bibr13-0040517520925859",
+          "first-page": "3",
+          "volume": "23",
+          "author": "Özdil N",
+          "year": "2013",
+          "journal-title": "Tekstil Konfeksiyon"
+        },
+        {
+          "key": "bibr14-0040517520925859",
+          "first-page": "25",
+          "volume": "12",
+          "author": "Karakas HC",
+          "year": "2004",
+          "journal-title": "Fibres Text East Eur"
+        },
+        {
+          "key": "bibr15-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1122/1.549264"
+        },
+        {
+          "key": "bibr16-0040517520925859",
+          "first-page": "418",
+          "volume": "45",
+          "author": "Pal SK",
+          "year": "1995",
+          "journal-title": "Chem Fibers Int"
+        },
+        {
+          "key": "bibr17-0040517520925859",
+          "unstructured": "ASTM D-2226:2006. Standard test method for determination of tensile properties"
+        },
+        {
+          "key": "bibr18-0040517520925859",
+          "unstructured": "DIN D 53840:2006. Standard test method for crimp properties."
+        },
+        {
+          "key": "bibr19-0040517520925859",
+          "unstructured": "ASTM D-4603:2006. Standard test method for determining inherent viscosity of poly(ethylene terephthalate) (PET) by glass capillary viscometer."
+        },
+        {
+          "key": "bibr20-0040517520925859",
+          "unstructured": "ASTM D-1505:2006. Standard test method for density of plastics by the density-gradient technique."
+        },
+        {
+          "key": "bibr21-0040517520925859",
+          "unstructured": "ASTM D-2259:2006. Standard test method for shrinkage of yarns."
+        },
+        {
+          "key": "bibr22-0040517520925859",
+          "unstructured": "Elias HG.\n                      Macromolecules, Volume 1\n                      . London: John Wiley & Sons, 1977."
+        },
+        {
+          "key": "bibr23-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pol.1972.160100502"
+        },
+        {
+          "key": "bibr24-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1735235"
+        },
+        {
+          "key": "bibr25-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pol.1956.120219903"
+        },
+        {
+          "key": "bibr26-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF02875490"
+        },
+        {
+          "key": "bibr27-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1978.070220113"
+        },
+        {
+          "key": "bibr28-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pen.760241311"
+        },
+        {
+          "key": "bibr29-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pol.1974.170120417"
+        },
+        {
+          "key": "bibr30-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758305301106"
+        },
+        {
+          "key": "bibr31-0040517520925859",
+          "first-page": "4517",
+          "volume": "6",
+          "author": "Barman NK",
+          "year": "2015",
+          "journal-title": "IJRSR"
+        },
+        {
+          "key": "bibr32-0040517520925859",
+          "unstructured": "Rahnev I. Probabilistic localization of the yield point into the rheogram of the textile thread. In:\n                      Proceedings of the 15th AUTEX world textile conference\n                      , Bucharest, Romania, 21 January 2015, pp.10–12"
+        },
+        {
+          "key": "bibr33-0040517520925859",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hearle JWS, Hollick L and Wilson DK.\n                      Yarn texturing technology\n                      . Elsevier, 2001.",
+          "DOI": "10.1533/9781855737655"
+        },
+        {
+          "key": "bibr34-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758605600608"
+        },
+        {
+          "key": "bibr35-0040517520925859",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758605600705"
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0040517520925859",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0040517520925859",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0040517520925859",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T11:37:13Z",
+        "timestamp": 1777635433000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/0040517520925859"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            28
+          ]
+        ]
+      },
+      "references-count": 35,
+      "journal-issue": {
+        "issue": "23-24",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/0040517520925859"
+      ],
+      "URL": "https://doi.org/10.1177/0040517520925859",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            28
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/15280837221130516",
+    "status": 200,
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T00:29:22Z",
+        "timestamp": 1777854562944,
+        "version": "3.51.4"
+      },
+      "reference-count": 39,
+      "publisher": "SAGE Publications",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2022-06-01T00:00:00Z",
+            "timestamp": 1654041600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100011644",
+          "name": "Kahramanmaraş Sütçü İmam Üniversitesi",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2019/1-18 D [D6]"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2019/1-18 D [D6]"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100011644",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Industrial Textiles"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>The deformation on the carpet texture is generally caused by foot traffic, furniture loading and soiling. The resistance of the carpet to texture distortion depends on the pile yarn characteristic and morphology. In this study, the resilience and appearance retention of carpet samples produced with drawn textured polyester pile yarns which are widely used in the carpet industry, were investigated. In this context, 6 pile yarns were produced with 3 different filament finenesses (3.13, 2.08 and 1.56 dpf) and 2 different disc types (polyurethane and ceramic). The carpet specimens were applied to compression/recovery, dynamic loading, hexapod appearance retention and soiling tests. According to the results, the carpet sample with 2.08 dpf filament fineness and produced by polyurethane disc type showed less thickness loss and better compression recovery results. Hexapod test results showed that the carpet samples with the finest filament had the lowest appearance retention levels. For soiling performance, it was observed that carpet samples with coarser filaments had slightly less staining and disc type had a no significance effect.</jats:p>",
+      "DOI": "10.1177/15280837221130516",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            6
+          ]
+        ],
+        "date-time": "2022-12-06T10:13:56Z",
+        "timestamp": 1670321636000
+      },
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Effects of filament fineness and disc type of drawn textured polyester yarns on carpet resilience and appearance retention performance"
+      ],
+      "prefix": "10.1177",
+      "volume": "52",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7958-2626",
+          "authenticated-orcid": false,
+          "given": "Gülbin",
+          "family": "Fidan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Naci Topçuoğlu Vocational School, Gaziantep Universitesi, Gaziantep, Turkey"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Yasemin",
+          "family": "Korkmaz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Textile Engineering, Kahramanmaras Sutcu Imam Universitesi, Kahramanmaras, Turkey"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1145-6471",
+          "authenticated-orcid": false,
+          "given": "Halil İbrahim",
+          "family": "ÇELİK",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Naci Topçuoğlu Vocational School, Gaziantep Universitesi, Gaziantep, Turkey"
+            },
+            {
+              "name": "Department of Textile Engineering, Gaziantep Universitesi, Gaziantep, Turkey"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            6
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9780857093936"
+        },
+        {
+          "key": "bibr2-15280837221130516",
+          "volume-title": "Carpet Manufacture",
+          "author": "Crawshaw GH",
+          "year": "2002",
+          "edition": "1"
+        },
+        {
+          "key": "bibr3-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/155892501701200101"
+        },
+        {
+          "key": "bibr4-15280837221130516",
+          "volume-title": "Advances in Carpet Manufacture",
+          "author": "Goswami KK",
+          "year": "2009"
+        },
+        {
+          "key": "bibr5-15280837221130516",
+          "volume-title": "The Effect of Filament Cross Section Shape and Texturing Process Parameters on Yarn and Fabric Properties in Polyester Textured Yarns",
+          "author": "Özat FA",
+          "year": "2019"
+        },
+        {
+          "key": "bibr6-15280837221130516",
+          "volume-title": "Effect of the Texturing Variables on the Yarn Properties during False-Twist Texturing Process",
+          "author": "Çirkin S",
+          "year": "2006"
+        },
+        {
+          "key": "bibr7-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9781855737655"
+        },
+        {
+          "key": "bibr8-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9780857095596.86"
+        },
+        {
+          "key": "bibr9-15280837221130516",
+          "first-page": "17",
+          "volume": "20",
+          "author": "Özkan S",
+          "year": "2010",
+          "journal-title": "Tekstil Ve Konfeksiyon"
+        },
+        {
+          "key": "bibr10-15280837221130516",
+          "volume-title": "Effect of Filament Cross-Section, Filament Number and Filament Linear Density on the Properties of Partially Oriented Yarn and Texturing Yarn",
+          "author": "Özkan S",
+          "year": "2008"
+        },
+        {
+          "key": "bibr11-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2298/CICEQ160720055S"
+        },
+        {
+          "key": "bibr12-15280837221130516",
+          "first-page": "24",
+          "volume": "39",
+          "author": "Varshney RK",
+          "year": "2014",
+          "journal-title": "Indian J Fibre Textile Res"
+        },
+        {
+          "key": "bibr13-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2013.876151"
+        },
+        {
+          "key": "bibr14-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2014.912784"
+        },
+        {
+          "key": "bibr15-15280837221130516",
+          "first-page": "203",
+          "volume": "22",
+          "author": "Özdil N",
+          "year": "2012",
+          "journal-title": "Tekstil Ve Konfeksiyon"
+        },
+        {
+          "key": "bibr16-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000802376161"
+        },
+        {
+          "key": "bibr17-15280837221130516",
+          "first-page": "56",
+          "volume": "13",
+          "author": "Koç E",
+          "year": "2005",
+          "journal-title": "Fibres Textiles East Europe"
+        },
+        {
+          "key": "bibr18-15280837221130516",
+          "first-page": "87",
+          "volume": "15",
+          "author": "Çelik N",
+          "year": "2007",
+          "journal-title": "Fibres Textiles East Europe"
+        },
+        {
+          "key": "bibr19-15280837221130516",
+          "first-page": "54",
+          "volume": "18",
+          "author": "Çelik N",
+          "year": "2010",
+          "journal-title": "Fibres Textiles East Europe"
+        },
+        {
+          "key": "bibr20-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2014.982373"
+        },
+        {
+          "key": "bibr21-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051750107100613"
+        },
+        {
+          "key": "bibr22-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/joti.2004.0001"
+        },
+        {
+          "key": "bibr23-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2019.1567975"
+        },
+        {
+          "key": "bibr24-15280837221130516",
+          "unstructured": "Çelik Hİ, Kaynak HK. Effect of pile yarn filament fineness and pile height on sound absorption characteristics of carpets. 16th AUTEX World Textile Conference, Ljubljana, Slovenia, June 8–10: 2016: 1–6."
+        },
+        {
+          "key": "bibr25-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2016.1254582"
+        },
+        {
+          "key": "bibr26-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12221-019-1181-1"
+        },
+        {
+          "key": "bibr27-15280837221130516",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405000.2019.1611522"
+        },
+        {
+          "key": "bibr28-15280837221130516",
+          "unstructured": "ISO 2062. Textiles, Yarns from packages, Determination of single-end breaking force and elongation at break using constant rate of extension (CRE) tester, 2009."
+        },
+        {
+          "key": "bibr29-15280837221130516",
+          "unstructured": "ISO 18067. Textiles, Synthetic filament yarns, Determination of shrinkage in dry-hot air (after treatment), 2015."
+        },
+        {
+          "key": "bibr30-15280837221130516",
+          "unstructured": "DIN 53840-2:1983-11. Testing of textiles; determination of parameters for the crimp of textured filament yarns; filament yarns with a linear density exceeding 500 Dtex, 1983."
+        },
+        {
+          "key": "bibr31-15280837221130516",
+          "unstructured": "ISO 139. Textiles - Standard atmospheres for conditioning and testing, 2005."
+        },
+        {
+          "key": "bibr32-15280837221130516",
+          "unstructured": "BS 4098. Method for the determination of thickness, compression and recovery characteristics of textile floor coverings, 1975."
+        },
+        {
+          "key": "bibr33-15280837221130516",
+          "unstructured": "WIRA dynamic loading machine, instruction manual, 2000, August 2000."
+        },
+        {
+          "key": "bibr34-15280837221130516",
+          "unstructured": "TS 3374 ISO 1765. Machine-made textile floor coverings - Determination of thickness, 1991."
+        },
+        {
+          "key": "bibr35-15280837221130516",
+          "unstructured": "TS 3375 ISO 2094. Textile floor coverings – Determination of thickness loss under dynamic loading, 2002."
+        },
+        {
+          "key": "bibr36-15280837221130516",
+          "unstructured": "TS ISO 10361. Textile floor coverings - Production of changes in appearance by means of Vettermann Drum and Heksapod tumbler testers, 2003."
+        },
+        {
+          "key": "bibr37-15280837221130516",
+          "unstructured": "Uyanık S. Makine Halısı Üretimi. 1st edition. Gaziantep, Turkey: Öncü Kitap, 2012: 221."
+        },
+        {
+          "key": "bibr38-15280837221130516",
+          "unstructured": "TS EN ISO 11378-2. Textile floor coverings - laboratory soiling tests - Part 2: drum test, 2001."
+        },
+        {
+          "key": "bibr39-15280837221130516",
+          "unstructured": "ISO 105-A02. Textiles - Tests for colour fastness - Part A02: grey scale for assessing change in colour, 1987."
+        }
+      ],
+      "container-title": [
+        "Journal of Industrial Textiles"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/15280837221130516",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/15280837221130516",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/15280837221130516",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            29
+          ]
+        ],
+        "date-time": "2026-04-29T23:09:45Z",
+        "timestamp": 1777504185000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/15280837221130516"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            6
+          ]
+        ]
+      },
+      "references-count": 39,
+      "alternative-id": [
+        "10.1177/15280837221130516"
+      ],
+      "URL": "https://doi.org/10.1177/15280837221130516",
+      "relation": {},
+      "ISSN": [
+        "1528-0837",
+        "1530-8057"
+      ],
+      "issn-type": [
+        {
+          "value": "1528-0837",
+          "type": "print"
+        },
+        {
+          "value": "1530-8057",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            6
+          ]
+        ]
+      },
+      "article-number": "15280837221130516"
+    }
+  },
+  {
+    "doi": "10.48317/IMIST.PRSM/morjchem-v9i1.19155",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "doi": "10.3969/j.issn.1001-7003.2024.01.008",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

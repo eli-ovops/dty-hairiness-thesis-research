@@ -1,0 +1,425 @@
+=== PDF PAGE 1 ===
+Indian 10urnal of Fibre & Textile Research 
+Vol. 30, March 2005, pp. 37-41 
+Influence of false-twist texturing parameters on the structural 
+properties of polyester yam 
+H Canbaz Karaka~a & H DaylOglu 
+Textile Engineering Department, Faculty of Mechanical Engineering, Istanbul Technical University, 34439 Istanbul, Turkey 
+Received 2 May 2003; revised received and accepted 6 May 2004 
+Structural changes of polyester yarn with false-twist draw texturing parameters have been studied using a high­
+temperature heater, high texturing speeds, short residence time in the heater and a short yarn path. The dependence of three 
+structural parameters , viz. crystalline orientation , crystal size and birefringence, on texturing temperature, yarn residence 
+time in the heater and draw ratio has also been studied. At high texturing speeds, the crystalline orientation and crystal size 
+decrease due to low thermal input. Crystalline orientation tends to increase at high texturing temperatures and draw ratios. 
+Keywords: Birefringence, Cry stal size, Crystalline orientation, False-twist texturing, Polyester, X-ray diffraction 
+IPC Code: Int. Cl. 7 DO ID L/OO; 00203/22 
+1 Introduction 
+The most recent developments in false-twist 
+texturing have shown that there is still a considerable 
+potential in this process. The production speed could 
+be increased by the use of high-temperature heaters 
+that reduce the residence time of the yarn in the heater 
+to achieve the setting temperature of the polymer. As 
+the texturing zones are shortened, the yarn path 
+improves and the desired yarn temperature could be 
+obtained in a very short time. 
+As the false-twist draw texturing involves close 
+interactions between machine working parameters and 
+textured yarn properties, the effect of process 
+parameters has been widely investigated 1.6. The extent 
+of reduction in residence time in the high-temperature 
+heater is an important a3pect for the studies. 
+Therefore, the structural changes due to false-twist 
+draw texturing parameters at high process speeds and 
+very short residence time need to be investigated. The 
+effect of process variables on the mechanical and 
+crimp properties of polyester yarn has already been 
+investigated 7. This paper deals with the study of the 
+effect of setting variables, such as yarn temperature, 
+texturing speed and draw ratio, on yarn structural 
+parameters of polyester using a false-twist draw 
+texturing machine and a high-temperature heater. 
+"To whom all the cOITespondence should be addresse d. 
+Phone: 2931300/2715 ; Fax: +90-2 12-24917 67; 
+E-mail: [REDACTED_EMAIL] 
+2 Materials and Methods 
+All the texturing processes were carried out on a 
+laboratory-type false-twist draw texturing machine 
+with Positorq friction head twisting assembly . A 
+schematic diagram of texturing machine is shown in 
+Fig . 1. The machine is able to run at mechanical 
+working speeds of up to 1500 mlmin. The thread path 
+is linear. A high-temperature heater with a one meter 
+length was used. The heater works on the convection 
+principle. For cooling of yarns, a cooling plate having 
+0.8 m length was used. Polyester POY with the linear 
+densities of 304dtexl30f and 120 dtexl24 f were 
+textured and the textured yarns with the linear 
+densities of 167 dtex/30f and 76 dtexJ24f were 
+obtained respectively . 
+2.1 Texturing Variables 
+2.1.1 Yarn Temperature 
+The texturing trials were performed by taking the 
+actual yarn temperature at the exit of the heater into 
+consideration. The yarn temperature at the exit of the 
+heater was measured using a Luxtron Transmet 
+Fig. I- Schematic diagram of laborator y-type false-twist 
+texturing machin e [ 1 - feeding rollers, 2 - heater, 3 - cooli ng 
+zone, 4 - false-twister, and 5 - d elivery roller] 
+
+=== PDF PAGE 2 ===
+38 INDIAN J. FIBRE TEXT. RES., MARCH 2005 
+temperature measurement system. The temperature 
+measurement is based on heat exchange by 
+convection between the running thread and the 
+measuring head. The measuring head consists of two 
+sensors. The yarn temperature was calculated by 
+using the relationship among the heat input, heat 
+output and temperatures of two sensors . The heater 
+temperature was varied accordingly to achieve the 
+desired yarn temperature. The temperature range for 
+polyester yarn was 155-185 °C. The D/Y ratio was 
+kept at 2.2. Polyurethane discs were used and the 
+draw ratio was kept at l.81 for 304 dtexl30f POY and 
+at l.57 for 120 dtexl24f yarn. 
+2.1.2 Texturing Speed 
+The texturing speed was changed between 1000 
+m/min and 1400 mlmin. The texturing trial at 1500 
+mlmin was not considered due to the occurrence of 
+surging at this speed. 
+2.1.3 Draw Ratio 
+Three different draw ratios (1.57, l.63 and 1.81) 
+were used for the study. The temperature was kept at 
+175°C and the texturing speed at 1000 mlmin. 
+2.2 Yarn Properties 
+The crystalline orientation function and crystal size 
+on different plane s were measured. 
+2.2.1 X-ray Diffraction Measurements 
+The crystalline orientation function and the crystal 
+size were measured using Rigaku Dmax III model X­
+ray diffractometer. CuKa radiations were used along 
+with a nickel filter for monochromation of X-rays and 
+an alternating voltage of 35 kY with an anode current 
+of 20 rnA. For polyester, the scannin g range (28) was 
+)3°_32° with 0.05 ° step for equatorial scan and the 
+(100) plane was used for azimuthal scanning. 
+The crystal size was measured using the following 
+Scherrer equation S: 
+Crystal size = K.JV{3.cos8 ... (1) 
+where K is the Scherrer constant (0.9); A, the 
+wavelength ofCuKa X-ray (1.54 A); {3, the FWHM 
+(Full width at half maximum); and 8, the Bragg angle. 
+Crystalline orientation function (fJ was measured 
+using the following equation: 
+t= (J80 0-FWHM)/180° ... (2) 
+2.2.2 Birefringence 
+The birefringence was measured using a Leitz 
+polarizing microscope and a Berek compensator. The 
+number of readings was adjusted so that the accuracy 
+was within ±0.003. 
+The refractive indices parallel and perpendicular to 
+the fibre axis were measured and the difference 
+between these values (2i) was taken as a measure of 
+birefringence (1'1 n). This value also gives an idea of 
+the degree of orientation in the fibre. The 
+birefringence was measured using the following 
+relationshi p: 
+1'1 n= 2i/d 
+where d is the diameter of the yarn. 
+3 Results and Discussion 
+Fig. 2 shows that the crystalline orientation 
+function of the yarn increases with the increase in 
+yarn temperature 9. The temperature was varied 
+between 155°C and 185°C, while the texturing speed 
+was kept constant at 1000 mlmin. 
+With the increase in temperature for any contact 
+time in the heater , the heat input in the yarn increases 
+and the mobility of the macromolecular chains is 
+facilitated. As the temperature incre ases, the 
+intermolecular forces become weak. Therefore, the 
+flexibility of the macromolecule s and the motion of 
+structural elements increase. As the stiffness of the 
+filaments becomes lower, the crystallites align more 
+easily. These results also correlate well with the 
+tenacity values of the textured samples 7. Also, POY is 
+subjected to externally applied forces and internal 
+stress during draw texturi zing proce ss. The externally 
+applied forces are drawing tensile force and yarn 
+twisting forces, namely torsional, bending and 
+c:: 0.9Ch--------------------, 
+2 
+~ 0.88 
+QI c:: 
+.~ 0 
+o ~0.86 
+QI c:: c:: ::J 
+=u.. 
+~ 0.84 
+I/) 
+t":-
+-- 167 dtex130f 
+--.- 76dtex124f 
+u 0.82 4-___ -.-___ --. ___ ---.-___ -1 
+150 160 170 180 190 
+Temperature, ·C 
+Fig. 2- Change in crystallin e orientation function for textured 
+polyester yarn with yarn temperature 
+
+=== PDF PAGE 3 ===
+KARAKAS & DA YIOGLU: STRUCTURAL PROPERTIES OF POLYESTER YARN 39 
+tangential ones. Drawing and twisting press the yam 
+filaments together and cause their migration and 
+mutual friction. The internal stresses are the 
+contraction stresses, which result from the relaxation 
+processes and are due to the elevated molecular 
+motion with increasing temperature. The ability of the 
+yam to resist these forces depends on changes in the 
+thread line temperature. The increasing temperature 
+interrupts more and more molecular interactions and 
+softens the material; as a consequence, the yam stress 
+diminishes 10. 
+The change in crystal size for textured polyester 
+yam is shown in Fig. 3. Crystal size increases in all 
+the planes (010, 110, 100) as the temperature 
+increases to 160°C from 155°C and then to 165°C 
+from 160°C. As it reaches 170°C, the crystal size 
+decreases in (010) and (100) planes, but increases in 
+(110) plane. There is a very slight decrease in crystal 
+size at 175°C in all the planes, but it shows increase in 
+all the planes at 180°C. At 185°C, the crystal size 
+decreases in (010) plane, but increases in other planes . 
+When the results at temperature increase of 10°C are 
+compared , the crystal size tends to increase. As the 
+texturing speed is high, there is not much time for the 
+formation of bigger crystals . Therefore, a bigger range 
+of temperature increase is needed for crystal size 
+growth. When the results with 15°C temperature 
+increase (I55 °C, 170°C and 185°C) are compared, it 
+can be seen that the crystal growth is more significant. 
+The reason that the bigger crystals are obtained at 
+higher temperatures is that the smaller and imperfect 
+crystals melt and the growth of bigger crystals is 
+facilitated at higher temperatures II. From these 
+results, it is found that the crystalline orientation 
+function and crystal size incre ase as the temperature 
+mcreases . 
+Crystalline orientation was reported to decrease by 
+the mcrease in texturing temperature on friction-
+36,---------------------------------, 
+0<.. 32 
+CI 
+N 
+~ 28 
+<II 
+1ii 
+~ 24 u 
+~..-----.-·--..~010 
+~ . ___ 110 
+~100 
+150 155 160 165 170 175 180 185 190 
+Temperature, °C 
+Fig. 3-Chan ge in crystal size of 167 dtex/30f textured polyester 
+yarn with yarn temperature 
+twisted texturing without drawing 2. In this process , 
+the torsional and bending forces are included which 
+have a disorienting influence at and above the 
+temperature at which crystals become mobile. 
+However, in draw texturing, the drawing forces will 
+be more effective at high temperatures due to more 
+freedom of motion of macromolecules and the 
+crystallites will be aligned. Also, as the crystals 
+become more mobile, they can improve their 
+orientation . 
+The birefringence values of polyester yarns are 
+shown in Fig. 4. It can be seen that the birefringence 
+values increase as the temperature increases. 
+Birefringence is a measure of orientation and the 
+increase in birefringence value shows that the 
+orientation also increases . 
+Table 1 shows heater temperature at various 
+texturing speeds when the yam temperature is kept at 
+175°C for 167 dtexl30f textured PET yam. For these 
+trials, the configuration of discs is changed from 1-5-1 
+to 1-6-1 . The change in crystalline orientation 
+function and crystal size with texturing speed is 
+shown in Figs 5 and 6 respectively. It is observed that 
+the t decreases as the texturing speed increases . 
+Crystal sizes decrease in (010) plane as texturing 
+speed is increased . When the t · values for 1000 m1min 
+and 1400 m1min texturing speeds are compared, a 
+Table I- Heater temperature at variou s texturing speeds for 
+167 dtex/30f textured PET yarn 
+[Yarn temperature, 175°C] 
+Texturing speed 
+m/min 
+1000 
+1100 
+1200 
+1300 
+1400 
+0.168 
+M 
+b 0.164 .... x 
+CI> 
+U 
+C 
+<Il 0.16 Cl 
+c 
+:E 
+~ 0.156 
+iIi 
+0.152 
+150 
+Yarn residence 
+time in heater 
+s 
+0.06 
+0.054 
+0.05 
+0.046 
+0.042 
+160 170 
+Heater temp erature 
+°C 
+447 
+459 
+470 
+486 
+503 
+-+--167 dtex/30f 
+-...- 76 dtexl24f 
+180 190 
+Temperature,oC 
+Fig. 4-Chan ge in birefringe nce of textured polyester yarn with 
+the y arn temper ature 
+
+=== PDF PAGE 4 ===
+40 INDIAN 1. FIBRE TEXT. RES., MARCH 2005 
+c 
+.2 
+OJ 
+E 
+'" c .;: 0 
+0" <.> 
+'" c c OJ 
+=u. 
+0.86 r----------------~ 
+0.82 
+0.78 
+~ 0.74 
+~ 
+U 0 .7+-----.----.----~---~ 
+1000 1100 1200 1300 1400 
+Texturing speed, mlm in 
+Fig. 5-Change in crystalline orientation function with texturing 
+speed 
+l~~~~l 
+29.2 +L-==:::-----r----~----~---___l-
+1000 1100 1200 1300 1400 
+Texturing speed, m/min 
+Fig. 6-Change in crystal size with texturing speed 
+great decrease is observed at 1400 mlmin. This can be 
+explained by the lower thermal input due to the 
+decrease in contact time at higher texturing speeds. 
+High texturing speed means shorter residence time in 
+the heater and also higher rate of cooling. As there is 
+less time for cooling of the filaments, bigger crystals 
+cannot form. Also, as thermal input decreases, the 
+alignment of the molecules is less. Measurements of 
+the temperature and the retraction of yarns processed 
+with varying heating durations show that the nylon 
+6.6 yarn reaches its maximum temperature in 0.5 s, 
+and that it needs more than 1 s to approach its 
+maximum value of crimp rigidity. Polyester, which 
+heats up about twice as rapidly as nylon 6.6 due to its 
+lower s pec~fic heat, takes 0.4-0.5 s. Therefore , the 
+dwell time in the heater is 1 s for nylon 6.6 and 0.4-
+0.5 s for polyester yarns 12 . The time for which the 
+fibre is subjected to mechanical stress is in the range 
+of 0.042-0 .06 s due to very high temperature at the 
+heater. This is a very short time for heat setting of the 
+yarn, especially when compared to texturing with 
+conventiona l heaters. 
+The results obtained from the trials at different 
+draw ratios are given in Tabl e 2. In this process , the 
+drawin g force is expected to enhance orientation 
+while the torsional, bendin g and contractile forces 
+reduce orientation. The increase in the draw ratio 
+increa ses the crystalli ne orient ation function. 
+However, it has no effect on the crystal size. As the 
+draw ratio is increased, the macrom olecules and 
+Table 2-Crystalline orientation function and crysta l sizes for 
+167 dtex/30f polyester yarn textured at differing draw ratios 
+[Yarn temperature, 175°C ; and texturing speed , 1000 m/min] 
+Draw ratio Ie Crystal size A 
+(010) (110) (100) 
+1.57 0.751 41.1 30.7 29.5 
+1.63 0.793 30.04 25.45 24.98 
+1.81 0.849 33.12 26.64 27.71 
+Ie -Crystalline orientation function 
+crystallites get more parallel along the fibre axis, and 
+hence the crystalline orientation is increased. Also, 
+the application of drawing reduces the possible degree 
+of disorientation. Thus the higher the draw ratio, the 
+greater is the orientation of the crystallites. 
+The results were analyzed statistically to determine 
+whether the parameters are effective on the properties . 
+The variance analysis shows that the yarn texturing 
+temperature and texturing speed affect the crystalline 
+orientation function and crystal size with an error 
+ratio of 5%. 
+4 Conclusions 
+As the temperature of the yarn increases , the 
+crystalline orientation function and crystal size for 
+polyester also increase. The texturing speed 
+determines the dwell time of the yarn in the heater 
+and the yarn residence time in the heater decreases as 
+texturing speed increase s. This leads to a decrease in 
+crystalline orientation function and crystal size for 
+polyester yarn due to the fact that the time of heat 
+setting is decreased. 
+Acknowledgement 
+The authors are thankful to the InstitOt fi.ir 
+Textiltechnik , Aachen, for allowing them to use the 
+laboratory -type false-twi st texturin g machine for the 
+trials . 
+References 
+I Dipak D E, Mukhop adhyay S K & Majumdar A, Effect of 
+temperatur e a nd contact time on the tensile properties of 
+friction-twi sted texturized yarns, Text Res J, 44(2) (J 974) 91-
+95. 
+2 Gupta V B , Majumd ar A & Seth K K, S tructural change s in 
+nylon 6 yarn on h eat-setting and friction-twist ed texturing, 
+Text Res J, 44(7) (1974) 539-544. 
+3 Gupta V B & Amirtharaj J, The effect of tension and twist on 
+the structure and dyeab ility of textured polyethylene 
+terephthal ate yarn, Text Res J, 46(12) (1976) 785-79 0. 
+4 Ghosh S & Wolhar J, The influence of some machine-settinG 
+variable s on the properti es of yarns in the friction-twi s ~ 
+draw- text uring proce ss, Text Res J, 51(6) (1981) 373-383. 
+
+=== PDF PAGE 5 ===
+KARAKAS & DA YIOGLU: STRUCTURAL PROPERTIES OF POLYEST ER YARN 41 
+5 Pal S K, Gandhi R S & Kothari V K , Influence of texturing 
+parameters on structural properties o f microfiber polye ster 
+yarns, Chem Fibers Int, 45 (1995) 418-420 . 
+6 Pal S K, Gandhi R S & Kothari V K, Draw-texturing of 
+microf iber polyester yarn, Text Res J, 66 (12) (1996) 770-
+776. 
+7 Karakas H C, Dayioglu H & Veit D, Performance of 
+polyeste r POY on false-twi st texturing machine s with high­
+temperature heater, Chem Fibers Int, 48 (1998) 527-529. 
+8 Alexander L E , X-Ray Diffraction Method in Polymer 
+Science (Wiley Interscienc e, New York), 1969. 
+9 Karakas H C, Shrink age behaviour of textured PET yarns, Int 
+Text Bull, (2) (2002) 32-35. 
+10 Kveder S M & Rijavec Tatjana, Dynamic mechanical 
+properti es, superstructure and texturability of PA 6.6 
+partially oriented yarns, Text Res J, 64(9 ) (1994) 495-500 . 
+11 Gupt a V B & Kumar M, Changes in the s tructure o f 
+poletylene terephth alate yarn on texturing, Text Res J, 45 
+(1975) 382-288 . 
+12 Barnes D S & Morris W J , Rates of setting in false-twist 
+draw-texturin g Part I: The effects of heatin g time and length 
+in the processin g of polye ster-fibre yarns, J Text Insl, 71 (6) 
+(1980) 291-298. 

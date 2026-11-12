@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-11-05T13:30:47.255478+08:00",
+  "source_url": "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv?ref_type=heads&inline=false",
+  "sha256": "2d92c4a05eb1faca0862db3dafa1f9679b8214c1d5c4dd6a86b729838dacdc0e",
+  "bytes": 67900410,
+  "row_count": 73627,
+  "exact_title": "Impact of the Secondary Heater Temperature on the Properties of Draw Textured Yarn and its Fabric",
+  "doi": "10.5281/zenodo.14973990",
+  "matches": [],
+  "positive_control_original_doi": "10.2147/cmar.s324920",
+  "positive_control_record_ids": [
+    "35093"
+  ],
+  "limits": "Exact title and DOI only; no match is not proof of no retraction."
+}

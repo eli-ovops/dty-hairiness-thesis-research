@@ -1,0 +1,158 @@
+{
+  "file": "\u7814\u7a76\u5de5\u4f5c/\u6bdb\u4e1d\u6848\u4f8b\u6838\u9a8c-2026-10-29/\u53c2\u8003\u6587\u732e-v0.3.bib",
+  "checked_at": "2026-10-29T01:58:55Z",
+  "mode": "offline",
+  "verdict": "PASS",
+  "verdict_line": "PASS: 0/17 verified, 0 errors, 0 warnings (0 checks skipped)",
+  "skipped_checks": [],
+  "entries": [
+    {
+      "key": "source1",
+      "type": "article",
+      "line": 1,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source14",
+      "type": "article",
+      "line": 11,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source2",
+      "type": "article",
+      "line": 23,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source3",
+      "type": "article",
+      "line": 35,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source4",
+      "type": "article",
+      "line": 47,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source5",
+      "type": "article",
+      "line": 58,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source6",
+      "type": "article",
+      "line": 69,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source7",
+      "type": "article",
+      "line": 81,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source8",
+      "type": "article",
+      "line": 93,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source9",
+      "type": "article",
+      "line": 105,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source10",
+      "type": "article",
+      "line": 117,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source11",
+      "type": "article",
+      "line": 129,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source12",
+      "type": "article",
+      "line": 141,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source15",
+      "type": "article",
+      "line": 153,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source13",
+      "type": "article",
+      "line": 164,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source16",
+      "type": "techreport",
+      "line": 176,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "pal1997dms",
+      "type": "article",
+      "line": 184,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    }
+  ],
+  "summary": {
+    "total": 17,
+    "verified": 0,
+    "errors": 0,
+    "warnings_only": 0,
+    "warnings_by_flag": {},
+    "unresolved": 0,
+    "retracted": 0,
+    "canonical_instance": 0,
+    "low_relevance": 0,
+    "checks_skipped": 0
+  }
+}

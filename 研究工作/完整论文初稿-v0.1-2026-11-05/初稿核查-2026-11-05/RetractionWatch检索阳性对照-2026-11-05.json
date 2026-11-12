@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-11-05T11:38:33.746647+08:00",
+  "source_url": "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv?ref_type=heads&inline=false",
+  "sha256": "2d92c4a05eb1faca0862db3dafa1f9679b8214c1d5c4dd6a86b729838dacdc0e",
+  "bytes": 67900410,
+  "rows": 73627,
+  "control_doi": "10.2147/cmar.s358886",
+  "control_source": "https://www.crossref.org/documentation/retrieve-metadata/retraction-watch/",
+  "hits": []
+}

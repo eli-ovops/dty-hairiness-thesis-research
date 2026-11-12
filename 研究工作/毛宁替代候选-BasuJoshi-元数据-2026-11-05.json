@@ -1,0 +1,50 @@
+{
+  "time": "2026-11-05T13:29:57.561799+08:00",
+  "datacite_url": "https://api.datacite.org/dois/10.5281%2Fzenodo.14973990",
+  "dataCite": {
+    "doi": "10.5281/zenodo.14973990",
+    "titles": [
+      {
+        "title": "Impact of the Secondary Heater Temperature on the Properties of Draw Textured Yarn and its Fabric"
+      }
+    ],
+    "creators": [
+      {
+        "name": "B. Basu,, and R. N. Josh",
+        "nameType": "Personal",
+        "givenName": "and R. N. Josh",
+        "familyName": "B. Basu,",
+        "nameIdentifiers": [],
+        "affiliation": []
+      }
+    ],
+    "publisher": "Journal Of The Textile Association (JTA)",
+    "publicationYear": 2025,
+    "types": {
+      "ris": "JOUR",
+      "bibtex": "article",
+      "citeproc": "article-journal",
+      "schemaOrg": "ScholarlyArticle",
+      "resourceType": "",
+      "resourceTypeGeneral": "JournalArticle"
+    },
+    "url": "https://zenodo.org/doi/10.5281/zenodo.14973990",
+    "relatedIdentifiers": [
+      {
+        "relationType": "IsVersionOf",
+        "relatedIdentifier": "10.5281/zenodo.14973989",
+        "relatedIdentifierType": "DOI"
+      },
+      {
+        "relationType": "IsPartOf",
+        "relatedIdentifier": "0368 4636",
+        "resourceTypeGeneral": "Collection",
+        "relatedIdentifierType": "ISSN"
+      }
+    ]
+  },
+  "crossref_updates_url": "https://api.crossref.org/works?filter=updates%3A10.5281%2Fzenodo.14973990&rows=20",
+  "crossref_update_count": 0,
+  "crossref_updates": [],
+  "limitation": "DOI is registered with DataCite; no Crossref updates does not establish retraction status."
+}

@@ -1,0 +1,420 @@
+=== PDF PAGE 1 ===
+ 
+(REFEREED RESEARCH) 
+THE EFFECT OF FIRST HEATER TEMPERATURE 
+ON THE PROPERTIES OF FALSE-TWIST TEXTURED 
+POLY (ETHYLENE TERAPTHALATE) YARN 
+ 
+BİRİNCİ FIRIN SICAKLIĞININ YALANCI BÜKÜMLE TEKSTÜRE 
+EDİLEN POLİETİLEN TERAFTALAT İPLİKLERİNİN 
+ÖZELLİKLERİNE ETKİSİ  
+ 
+ 
+Kenan YILDIRIM 
+TÜBİTAK-BUTAL Bursa Test and Analysis 
+Laboratory 
+e-mail: [REDACTED_EMAIL] 
+ Şule ALTUN 
+Uludağ University  
+Textile Engineering Department 
+   
+Yusuf ULCAY 
+Uludağ University,  
+Textile Engineering Department 
+ 
+ABSTRACT 
+The effect of first heater temperature on the properties of poly (ethylene teraptha late) filaments was characterized through 
+measurements of tenacity, breaking elonga tion, boiling shrinkage, crimp stability, crim p contraction and crystallinity. It was found that 
+crystallinity reached a maximum at a temperature around 200 C, and then started to decrease. A si milar behavior was observed in  crimp 
+stability. Tenacity and crimp contraction increased and boiling water shrinkage decreased, when the heater temperature increased.  
+Key Words: False-twist texturing, Heater temperature, Structure-properties, Texturing. 
+ÖZET 
+Birinci fırın sıcaklığının polietilen teraftalat filamentlerin özelliklerine etkisi kopma mukavemeti, kopma uzaması, kaynama çekme-
+si, kıvrım stabilitesi, kıvrım büzülmesi ve kristalinite ölçümleriyle incelenmi ştir.  Kristalinitenin 200oC civarında maksimuma ulaştığı ve 
+ardından dü şmeğe ba şladığı bulunmu ştur. Kıvr ım stabilitesinde de benzer bir davran ış gözlenmi ştir. Is ıtıcı s ıcaklığı artt ığında kopma 
+mukavemeti ve kıvrım büzülmesi artmış, kaynama çekmesi ise düşmüştür.  
+Anahtar Kelimeler: Yalancı bükümlü teksture, Fırın sıcaklığı, Yapı-özellik, Teksture. 
+Received: 24.11.2008               Accepted: 15.09.2009 
+ 
+1. INTRODUCTION 
+Texturing is a common commercial 
+process which gives crimp to the flat 
+yarns. Among the several texturing 
+methods, false twist texturing is the most 
+favored method.False-twist texturing 
+process is composed of four main 
+steps; heating the thermoplastic fibers 
+above the glass transition temperature 
+(Tg); twisting; cooling the fibers below 
+Tg and untwisting (1). A second heater 
+can be added to the system according 
+to the end uses of the yarn. 
+Heater parameters, mainly heater 
+temperature and residence time, 
+together with fiber thermal properties 
+influence textured yarn properties such 
+as tenacity, crimp rigidity, dyeability, etc. 
+The yarn is processed at very high 
+speeds on the texturing machines. 1000 
+m/min is a commercial processing 
+speed; however the challenge is to 
+reach over 5000 m/min (2). Because of 
+these high processing speeds it is hard 
+to maintain a uniform heating level on 
+the textured yarns. Furthermore, the 
+temperatures have to reach over T g at 
+very short residence time such as 0.2 
+sec. at the surface and center of the 
+filament bundle. In  addition, as the 
+heater temperature increases, the 
+temperature difference between the 
+center and the surface of the yarn also 
+increases (3). In he ating, it must be 
+remembered that, the temperature of 
+the heater is not the actual temperature 
+of the yarn. 
+Our earlier study, we have investigated 
+the effects of D/Y ratio and draw ratio 
+on some crimp properties of PET 
+fibers (4). In the present study, the 
+effect of first heater temperature on the 
+tensile and crimp properties of textured 
+PET [Poly (ethylene terapthalate) ] 
+yarn has been examined.  
+2. MATERIAL AND METHOD 
+2.1. Materials 
+The parent yarn used for texturing was 
+semi-dull, poly (ethylene terapthalate) 
+partially oriented yarn (POY) which 
+has count of 150 denier and 96 
+filaments. 
+2.2. Methods 
+The simultaneous draw texturing 
+process was carried out. The all 
+processing parameters except first 
+heater temperature were kept 
+constant. The first heater temperatures 
+were 150°C, 190°C and 230°C. The 
+lab type texturing machine was a Barmag 
+AFK-M with two heaters. Process speed 
+was 650 m/min. The D/Y ratio was 2 
+and draw ratio was 1.60. The first 
+heater length was 2.5 m and second 
+heater temperature was 165°C. Disc 
+type friction texturing unit was used. 
+286 TEKSTİL ve KONFEKSİYON   4/2009 
+
+=== PDF PAGE 2 ===
+ 
+The disc configuration was 1+6+1. The 
+disc material was ceramic and the disc 
+thickness was 9 mm.  
+SET yarns are used more widely than 
+stretch yarns at the market, for that 
+reason second heater was used to 
+obtain SET yarns. 
+Model 
+One-way ANOVA model used in the 
+experiments and results were analyzed 
+accordingly. Test replicas were various 
+according to parame ter tested.  Test 
+numbers were given in relevant subtitle. 
+ 
+Figure 1. Experiment conditions of DIN 53840 Measurements 
+Degree of Crystallinity  
+The crystallinity measurements were 
+performed using a Perkin-Elmer Sapphire 
+differential scanning calorimeter. 140.1 
+mJ/mg was used ΔH (fusion) for 100 % 
+crystallinity PET. The samples were 
+heated at a rate of 10 oC/min. Two 
+replicas have been done for crystallinity 
+measurements for each temperature. 
+Tensile Properties of the Multifilament 
+Yarn 
+Breaking elongation and breaking 
+strength of the yarns  were tested 
+according to ISO 2062 using SDL 
+universal tensile tester having 2500 N 
+load cell. 15 replicas were done for the 
+yarns produced with each temperature.  
+ 
+Figure 2. The relationship between first heater temperature and crystallinity 
+Crimp Properties of the Yarn 
+Crimp stability and crimp contraction 
+tests were performed according to DIN 
+53840 standards by  using Textechno 
+Texturmat ME. The experiment 
+conditions were given in Figure 1. 
+Crimp contraction and crimp stability 
+values were calculated according to 
+the following equations:  
+Crimp contraction = [(lg - lz)/lg] x 100(%)     (1) 
+Crimp stability = [(lg - lb)/(lg - lz)] x 100 (%)  (2) 
+Shrinkage force and crimp force tests 
+were done using Textechno Dynafil 
+ME. Dynafil ME was arranged for tests 
+as following: The applied pre-load was 
+13 cN, the heater temperature was 
+250 
+0C. The shrinkage force test was 
+done at 90 m/min testing speed and 
+the crimp force test was done at 220 
+m/min testing speed. The yarn length 
+was 50 m for shrinkage force and 100 
+m for crimp force.  
+Boiling Water Shrinkage of the Yarn 
+Boiling water shrinkage test was 
+executed using a special device which 
+was designed by Tubitak (Bursa). Six 
+replicas have done for each 
+temperature. Tensioning weight 
+equivalent to 0.125 cN/tex was applied 
+to the yarn which was 1 m length and 
+hank form. The first length recorded on 
+this condition as l
+1.Then load was 
+removed. The yarn was wetted in a 
+soap solution (1 l water/1 g soap) and 
+left in the solution at 100 0C for 15 min, 
+dried an hour at 60 0C, hanged the 
+device again and waited one hour. 
+Then same weight applied to the yarn 
+and the length was recorded as l 2. 
+Boiling water shrinkage was calculated 
+from Equation 3 
+Boiling water shrinkage (%) = [(l1-l2)/l1]x100 (3) 
+3. RESULTS AND DISCUSSION 
+Degree of Crystallinity 
+When the heater temperature increases 
+the crystallinity  percentage of the 
+textured filaments also increases. It is 
+due to the re-crystallization process at 
+elevated temperatures (4). The rate of 
+crystallization is high around 180-190 
+0C for PET yarn (6).   
+Figure 2 shows that the maximum 
+crystallization temperature is about 
+200°C. However, in our study, crystallinity 
+started to decrease, after peak point. It 
+must be also remembered that 
+crystallinity and as usual non-
+crystalline regions are also affected by 
+tension and twist level during the 
+heating (7). 
+Breaking Strength and Breaking 
+Elongation 
+Although Hardegree and Buchanan (8) 
+and Gupta et al. (5) found that tenacity 
+decreased when the first heater 
+temperature was increased, tenacity 
+increased when the first heater 
+temperature was increased according 
+to Gosh and Wolhar (9) and Pal et al. 
+(10). Gupta et al. used fully drawn 
+yarn, the others were used POY as a 
+feeding material. In the present study it 
+was also observed in Figure 3 that, 
+TEKSTİL ve KONFEKSİYON   4/2009 287 
+
+=== PDF PAGE 3 ===
+ 
+tenacity increased slightly when the 
+temperature increased.  
+According to ANOVA results also, 
+temperature has an effect on tenacity 
+for 95 % ( α=0.05) significance level. 
+Tensile strength and breaking elongation 
+are extremely depended on amorphous 
+and crystalline orientation factors. 
+However these factors could have not 
+been measured. Since POY was fed to 
+the texturing machine, an increase in 
+orientation because of drawing may be 
+expected.  
+A decrease was anticipated according to 
+tenacity results, however any significant 
+difference in breaking elongation for the 
+chosen temperature range was not 
+observed as shown in Figure 4. 
+Boiling Water Shrinkage and 
+Shrinkage Force 
+Figure 3. Effect of first heater temperature on tenacity 
+ Boiling water shrinkage drops as a 
+function of the increased crystallinity 
+(11, 12); according to another comment 
+shrinkage is a unique function of the 
+product of amorphous volume fraction 
+(13). Larger crystallites and a lower 
+degree of orientation in the amorphous 
+zone lead to reduce shrinkage (13, 
+14). According to Gupta and Kumar’s 
+study (5), crystallinity increases with 
+an increase in heater temperature and 
+amorphous orientation factor decreases 
+with an increase in heater temperature. 
+Boiling water shrinkage was decreased 
+when first heater temperature increased 
+as shown in Figure 5 in the present 
+study. Shrinkage force measurements 
+were also supported the results as 
+shown in Figure 6. Maximum 
+shrinkage value calculated from the 
+curve was 230°C. Crystallinity also 
+increased up to 200°C as mentioned 
+above. The temperature range used in 
+this study was between 150-230°C, 
+higher temperatures must be studied 
+to make the correlation obvious.  
+Figure 4. Effect of first heater temperature on breaking elongation 
+ 
+Crimp Properties 
+Crimp contraction is the reduction in 
+length of textured filaments after the 
+crimp is developed (1). As shown in 
+Figure 7, crimp contraction increased 
+sharply when heater temperature 
+increased. Crimp force measurements 
+have also supported this increase as 
+given in Figure 8. 
+In Gosh and Wolhar’s (9) and Pal and 
+co-worker’s (10) studies, crimp 
+contraction was also increased with 
+increasing heater temperature. In 
+twisting process, filaments follow a 
+helical path around the yarn axis. In 
+the idealized helical structure, a yarn is 
+considered as consisting of a core 
+ 
+Figure 5. Effect of first heater temperature on boiling water shrinkage 
+288 TEKSTİL ve KONFEKSİYON   4/2009 
+
+=== PDF PAGE 4 ===
+ 
+TEKSTİL ve KONFEKSİYON   4/2009 289 
+straight fiber surrounded by coaxial 
+cylindrical layers of other fibers, 
+each forming a perfect helix. 
+However, the path of a fiber in a 
+yarn is in fact a helix of which the 
+radius is alternately increasing and 
+decreasing along its length (14).  
+“Denton has shown that the helical 
+coils of the twisted yarn reduce in 
+diameter due to better heat setting. 
+Therefore, by increasing heater 
+temperature, the helical coils are 
+expected to reduce in diameter and 
+also produce higher recovery force 
+in yarn, because the retractive 
+power of a stretched helical spring 
+is inversely proportional to the 
+square of its diameter” (9,15). 
+ 
+Figure 6. Effect of first heater temperature on shrinkage force 
+ 
+Crimp stability determines the crimp 
+level left after load application. As 
+shown in Figure 9 crimp stability 
+was also increased about 200 C, 
+then started to decrease. Pal and 
+co-workers investigated the first 
+heater temperature effect on crimp 
+stability (9); they also observed an 
+increase in crimp stability. However 
+the applied maximum first heater 
+temperature was 200 
+0C in their 
+study. They associated this increase 
+with an increase in crystallinity. In 
+the present stud y crimp stability 
+value was started to decrease at 
+about 200 
+0C where crystallinity also 
+started to decrease.  
+ 
+Figure 7. Effect of first heater temperature on crimp contraction 
+ 
+4. CONCLUSIONS 
+Simultaneous draw texturing 
+process is one of the very 
+complicated textile processes where 
+fibers are drawn, heated and twisted 
+simultaneously. Some molecular 
+rearrangements and cross sectional 
+deformations are also happened. 
+Therefore, it is hard to explain the 
+effect of process parameters on the 
+yarn properties exactly. Detailed 
+fine structure analysis must be 
+done. However it is evident that, first 
+heater temperature has a significant 
+effect on the crimp properties. 
+Percentage crystallinity, boiling 
+shrinkage and crimp stability values 
+have presented a sharp variation 
+around 200 0C for textured PET 
+POY. 
+ 
+Figure 8. Effect of first heater temperature on crimp force 
+ 
+ 
+ 
+ 
+ 
+  Figure 9. Effect of first heater temperature on crimp stability 
+
+=== PDF PAGE 5 ===
+ 
+REFERENCES / KAYNAKLAR 
+1.  Demir, A. and. Behery, H.M., 1997, Synthetic Filament Yarn Texturing Technology, Prentice Hall, New Jersey, 56. 
+2.  Hearl J.W.S,. Hollick, L. and Wilson, D.K, 2001, Yarn Texturing Technology, Woodhead Pub., Cambridge, 15. 
+3.  Egambaram, T., Afify, E.M. and El-Shiekh, A., 1974, Heat Transfer in False-Twist Texturing, Textile Res. J., Vol. 44, 10, pp. 803-812. 
+4.  Yildirim, K., Altun, S and Ulcay, Y., 2009,  Relationship between Yarn Properties and Process Parameters in False-Twist Textured Yarn, 
+Journal of Engineered Fibers and Fabrics, Vol. 4, 2 , pp.26-32. 
+5.  Gupta, B.V., Majumdar,  A. and Seth, K.K., 1974, Structural Changes in Nylon 6 Yarn on Heat-Setting and Friction-Twsited Te xturing, 
+Textile Res. J, Vol. 44, Issue 7, pp. 539-543. 
+6.  Gupta, V.B.and Kumar, M., 1975, Changes in Structure of Polyethylene Terepthalate Yarn on Texturing, Textile Res. J, Vol. 45, Issue 5, 
+pp. 382-388. 
+7.  Gupta, V.B and Amirtharaj, J.,1976, The Effect of Tension and Twist on the Structure and Dyeability of Textured Polyethylene 
+Terapthalate Yarn, Textile Res. J, Vol. 46, Issue 11, pp. 785-790 
+8.  Hardegree, G.L. and Buchanan, D.R, 1976, Physical Properties of Textured Polyester Yarns: The Influence of Texturing Temper atures, 
+Textile Res. J, Vol. 46, Issue11, pp. 828-833. 
+9.  Ghosh, S. and.Wolhar, J., 1981, The Influence of Some Machine-Setting Variables on The Properties of Yarns in the Friction- Twist-
+Draw-Texturing Process, Textile Res. J, Vol. 51, Issue 6, pp. 373-383. 
+10. Pal, S.K, Gandhi, R.S. and Kothari, V.K., 1996,   Draw Texturing of Microfiber Polyester Yarn, Textile Res. J, Vol. 66, Issue 12, pp. 770-
+776.  
+11. Heuvel, H.M. and Huisman, H., 1985, ” Effect of Winding Speed and Other Spinning Conditions on the Physical Structure of As -Spun 
+Polyethlene Terepthalate and Nylon 6 Yarns”, High Speed Fiber Spinning, Eds. A. Ziabicki and H. Kawai, John Wiley&Sons, New York,  
+pp. 295-331. 
+12. Hotter, J.F, Cuculo, J.A and Tucker, P.A.,  1998, Effect of Initial Take-Up Speed on Properties and Structure of As-Spun and 
+Drawn/Heat-Set Poly(Ethylene Terephthalate) Filaments, J Appl Polym Sci., Vol. 69, pp. 2115-2131. 
+13. Gupta, V.B., 2002, Heat Setting, J Appl Polym Sci., Vol. 83, pp. 586-609. 
+14. Perez, G., 1985, Some Effects of the Rheological Properties  of Polyethylene Terepthalate on Spinning Line Profile and Struc ture 
+Developed in High Speed Spinning, High Speed Fiber Spinning, Eds. Ziabicki, A. and Kawai, H., John Wiley&Sons, New York, pp. 333-
+362. 
+15. Naik, N.K and Madhavan, V., 2000, Twis ted Impregnated Yarns: Elastic Properties, The Journal of Strain Analysis for Engineering 
+Design, Vol. 35, pp. 83-91. 
+16. Denton, M.J. and  Morris, W.J., 1971, Heat Setting and Yarn Texturing, The Setting of Yarn and Fabrics , Eds. Hearle, J.W.S and Miles, 
+L.W.C, Merrow Publishing Co Ltd., Watford Herts. 
+ 
+                              
+ 
+ Bu araştırma, Bilim Kurulumuz taraf ından incelendikten sonra, oylama ile saptanan iki hakemin görü şüne sunulmuştur. Her iki hakem 
+yaptıkları incelemeler sonucunda ara ştırmanın bilimselliği ve sunumu olarak “Hakem Onaylı Araştırma” vasfıyla yayımlanabileceğine 
+karar vermişlerdir. 
+ 
+NANO PARTİ KÜLLÜ İÇ ÇAMA ŞIRLARI 
+Amerikan Silah Teknolojisi, askerleri için sı k aral ıkla de ğiştirme gerektirmeyen kendi kendini 
+temizleyebilen giysi türleri üzerinde çalışmaktalar. Bu gelişen nano teknoloji endüstrisi ile birlik-
+te yapılabilecek bir çamaşır ve giysi türü. Nano Partiküller mikro dalga yayarak kir ve deri atıkla-
+rının, bakterilerin giysi lifleri üzerinde tutunmamas ını sağlıyorlar. Bu prensiple çal ışan çamaşır-
+lar 3-4 hafta yıkanmadan giyilebiliyor.  
+Amerikan Savunma Sanayinde geli ştirilen her gelişme sonuçta mutlaka genel piyasada da yerini 
+alır. Bundan hareketle çok yak ında bu çama şır ve giysileri ma ğazalarda da görebilece ğiz. Bu 
+mikro dalgalar ın derimizde ne gibi sak ıncaları olacağ ı ise henüz aç ıklık kazanmam ış durumda. 
+Yani yan etkileri henüz tam olarak bilinmiyor. Belki sadece baz ı ki şilerde görülebilecek k ısmi 
+alerji olabilecek diye dü şünülüyor. Ancak genel olarak dü şünüldüğünde deterjan ve kansorejen 
+zararları s ık temizlikte harcanan su miktar ı, deterjan v.b. giderlerde dü şünülünce bu teknoloji 
+kendisiyle birlikte yanında ekonomi ve sağlığı da yanında getirecek gibi görünüyor. (internet) 
+290 TEKSTİL ve KONFEKSİYON   4/2009 

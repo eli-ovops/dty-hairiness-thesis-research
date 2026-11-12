@@ -1,0 +1,204 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        14
+      ]
+    ],
+    "date-time": "2026-07-14T01:53:35Z",
+    "timestamp": 1783994015602,
+    "version": "3.55.0"
+  },
+  "reference-count": 0,
+  "publisher": "The National Research and Development Institute for Textiles and Leather",
+  "issue": "04",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        31
+      ]
+    ]
+  },
+  "abstract": "<jats:p>In the process of texturing, smooth filaments are formed into crimpy yarns. By combining thermal and mechanical action,\nthermoplastic fibres acquire a permanent wavy shape.\nSince textured multifilament yarns, formed from POY PES filaments, produced on machines with high-temperature\nheaters, are insufficiently studied, this paper analyses the deformation characteristics of yarns produced in industrial\nconditions using different process parameters (primary heater temperature, yarn speed, yarn stretching, peripheral\nspeed of friction discs). Special attention is paid to the characteristics at the elastic limit, then at the creep limit, yield\nand breaking of multifilament textured yarns. A method is proposed which can determine the key points of deformation\nin the process of stretching textured polyester multifilament yarn, as well as the relationship between the values of force\nand elongation at the limits of elasticity, creep, end of creep zone, yield and break</jats:p>",
+  "DOI": "10.35530/it.073.04.202167",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        31
+      ]
+    ],
+    "date-time": "2022-08-31T15:26:10Z",
+    "timestamp": 1661959570000
+  },
+  "page": "397-404",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+    "Investigation of deformation properties of textured multifilament PES yarns"
+  ],
+  "prefix": "10.35530",
+  "volume": "73",
+  "author": [
+    {
+      "given": "JOVANA",
+      "family": "STEPANOVIĆ",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "TATJANA",
+      "family": "ŠARAC",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "DUŠAN",
+      "family": "TRAJKOVIĆ",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "JOVAN",
+      "family": "STEPANOVIĆ",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "University of Niš, Faculty of Technology, Bulevar oslobođenja, 124, Leskovac, Serbia"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "20291",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        31
+      ]
+    ]
+  },
+  "container-title": [
+    "Industria Textila"
+  ],
+  "original-title": [],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        31
+      ]
+    ],
+    "date-time": "2022-08-31T15:26:23Z",
+    "timestamp": 1661959583000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://www.revistaindustriatextila.ro/images/2022/4/06%20JOVANA%20STEPANOVIC%20INDUSTRIA%20TEXTILA%20no.4_2022.pdf"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        31
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "04",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.35530/it.073.04.202167",
+  "relation": {},
+  "ISSN": [
+    "1222-5347"
+  ],
+  "issn-type": [
+    {
+      "value": "1222-5347",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        31
+      ]
+    ]
+  }
+}

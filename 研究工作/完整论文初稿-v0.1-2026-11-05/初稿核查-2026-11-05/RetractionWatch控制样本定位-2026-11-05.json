@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-11-05T11:39:16.290482+08:00",
+  "source_url": "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv?ref_type=heads&inline=false",
+  "sha256": "2d92c4a05eb1faca0862db3dafa1f9679b8214c1d5c4dd6a86b729838dacdc0e",
+  "rows": 73627,
+  "sample": [
+    {
+      "Record ID": "74574",
+      "Title": "RETRACTION: Clinical effectiveness and treatment satisfaction between two triple‐therapy regimens in treating neuropathic pain: A real‐world data",
+      "OriginalPaperDOI": "10.1002/ibra.70012",
+      "RetractionDOI": "10.1002/ibra.70023",
+      "RetractionNature": "Correction"
+    },
+    {
+      "Record ID": "74549",
+      "Title": "Electronic music creation based on complex embedded system",
+      "OriginalPaperDOI": "10.1016/j.micpro.2020.103402",
+      "RetractionDOI": "10.1016/j.micpro.2020.103402",
+      "RetractionNature": "Retraction"
+    }
+  ],
+  "search_358886": [
+    {
+      "Record ID": "35093",
+      "Title": "LncRNA FOXD3-AS1 Promotes Tumorigenesis of Glioma via Targeting miR-128-3p/SZRD1 Axis",
+      "OriginalPaperDOI": "10.2147/CMAR.S324920",
+      "RetractionDOI": "10.2147/CMAR.S358886",
+      "RetractionNature": "Retraction"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "doi": "10.5505/pajes.2023.03271",
+  "status": 200,
+  "record": {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2025-11-10T12:16:39Z",
+      "timestamp": 1762776999493,
+      "version": "build-2065373602"
+    },
+    "reference-count": 0,
+    "publisher": "Pamukkale University",
+    "issue": "7",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pamukkale J Eng Sci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.5505/pajes.2023.03271",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2024-01-05T05:50:11Z",
+      "timestamp": 1704433811000
+    },
+    "page": "783-789",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Investigation of the effects of filament fineness and disc type on yarn physical and mechanical properties of DTY polyester yarns"
+    ],
+    "prefix": "10.65206",
+    "volume": "29",
+    "author": [
+      {
+        "given": "Gülbin",
+        "family": "Fidan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yasemin",
+        "family": "Korkmaz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Halil İbrahim",
+        "family": "Çelik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4742",
+    "container-title": [
+      "Pamukkale University Journal of Engineering Sciences"
+    ],
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2025-11-10T12:11:14Z",
+      "timestamp": 1762776674000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dergipark.org.tr/tr/pub/pajes/issue/81882/1412332"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.5505/pajes.2023.03271",
+    "relation": {},
+    "ISSN": [
+      "1300-7009"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1300-7009"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    }
+  }
+}

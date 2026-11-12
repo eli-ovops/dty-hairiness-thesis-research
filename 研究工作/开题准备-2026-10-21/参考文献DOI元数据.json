@@ -1,0 +1,4266 @@
+[
+  {
+    "doi": "10.1177/004051759606601205",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            18
+          ]
+        ],
+        "date-time": "2026-08-18T02:03:37Z",
+        "timestamp": 1787018617890,
+        "version": "build-2736575974"
+      },
+      "reference-count": 9,
+      "publisher": "SAGE Publications",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1996,
+                12,
+                1
+              ]
+            ],
+            "date-time": "1996-12-01T00:00:00Z",
+            "timestamp": 849398400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1996,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Three POY yarns of 80/100, 80/48, and 80/34 denier/filament are textured with four variables at five levels. The Box-Hunter statistical experimental design is used to produce thirty-six samples in each case. The effects of texturing variables—draw ratio, disc surface speed to yam speed ratio ( D/Y ratio), first heater temperature and heater contact time on tensile properties, crimp characteristics, dye uptake, broken filaments, and tight spots—are studied. First heater temperature and draw ratio have a significant influence oh tensile, crimp, and dyeing properties. With increased D/Y ratio, broken filaments decrease but tight spots increase. A proper selection of the D/Y ratio gives acceptable levels of broken filaments and tight spots.</jats:p>",
+      "DOI": "10.1177/004051759606601205",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            3,
+            31
+          ]
+        ],
+        "date-time": "2008-03-31T16:14:57Z",
+        "timestamp": 1206980097000
+      },
+      "page": "770-776",
+      "source": "Crossref",
+      "is-referenced-by-count": 14,
+      "title": [
+        "Draw-Texturing of Microfiber Polyester Yarn"
+      ],
+      "prefix": "10.1177",
+      "volume": "66",
+      "author": [
+        {
+          "given": "S.K.",
+          "family": "Pal",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Man Made Textiles Research Association, Surat, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "R.S.",
+          "family": "Gandhi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Man Made Textiles Research Association, Surat, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "V.K.",
+          "family": "Kothari",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Man Made Textiles Research Association, Surat, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1996,
+            12,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "atypb1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1214/aoms/1177707047"
+        },
+        {
+          "key": "atypb2",
+          "first-page": "102",
+          "volume": "24",
+          "author": "Denton, M.J.",
+          "year": "1974",
+          "journal-title": "Chemiefas./Textilind"
+        },
+        {
+          "key": "atypb3",
+          "volume-title": "Heat Setting and Yarn Texturing, in \"The Setting of Yarns and Fabrics",
+          "author": "Denton, M.J.",
+          "year": "1971"
+        },
+        {
+          "key": "atypb4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758105100601"
+        },
+        {
+          "key": "atypb5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500504"
+        },
+        {
+          "key": "atypb6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500604"
+        },
+        {
+          "key": "atypb7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1992.070460109"
+        },
+        {
+          "key": "atypb8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051759506500207"
+        },
+        {
+          "key": "atypb9",
+          "first-page": "418",
+          "volume": "45",
+          "author": "Pal, S.K.",
+          "year": "1995",
+          "journal-title": "Chem. Fibers Int."
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051759606601205",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051759606601205",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T12:36:40Z",
+        "timestamp": 1777639000000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051759606601205"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1996,
+            12
+          ]
+        ]
+      },
+      "references-count": 9,
+      "journal-issue": {
+        "issue": "12",
+        "published-print": {
+          "date-parts": [
+            [
+              1996,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051759606601205"
+      ],
+      "URL": "https://doi.org/10.1177/004051759606601205",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1996,
+            12
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/155892500900400205",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            14
+          ]
+        ],
+        "date-time": "2026-07-14T01:53:10Z",
+        "timestamp": 1783993990961,
+        "version": "3.55.0"
+      },
+      "reference-count": 13,
+      "publisher": "SAGE Publications",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2009-06-01T00:00:00Z",
+            "timestamp": 1243814400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Engineered Fibers and Fabrics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>The properties of false-twist textured yarns in the aspects of crimp characteristic and tensile behavior depend mainly on the draw ratio and the D/Y ratio. This study comprises investigations of the effect of D/Y ratio and draw ratio on the crimp and tensile properties and percent crystallinity. While there was no noticeable change on the percent crystallinity by altering these parameters, tenacity increased and crimp contraction decreased with increasing draw ratio, and crimp stability decreased when the D/Y ratio increased. K/S value also decreased with increasing draw ratio.</jats:p>",
+      "DOI": "10.1177/155892500900400205",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            15
+          ]
+        ],
+        "date-time": "2018-11-15T13:58:59Z",
+        "timestamp": 1542290339000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "Relationship between Yarn Properties and Process Parameters in False-Twist Textured Yarn"
+      ],
+      "prefix": "10.1177",
+      "volume": "4",
+      "author": [
+        {
+          "given": "Kenan",
+          "family": "Yildirim",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tubitak-Butal, Bursa, TURKEY"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sule",
+          "family": "Altun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Uludag, Bursa, TURKEY"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yusuf",
+          "family": "Ulcay",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Uludag, Bursa, TURKEY"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2009,
+            6,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1533/9781855737655"
+        },
+        {
+          "key": "bibr2-155892500900400205",
+          "volume-title": "Synthetic Filament Yarn Texturing Technology",
+          "author": "Demir A.",
+          "year": "1997"
+        },
+        {
+          "key": "bibr3-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008508658498"
+        },
+        {
+          "key": "bibr4-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051759606601205"
+        },
+        {
+          "key": "bibr5-155892500900400205",
+          "first-page": "79",
+          "volume-title": "Handbook of Plastics Analysis",
+          "author": "Salamon A.W.",
+          "year": "2003"
+        },
+        {
+          "key": "bibr6-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758105100601"
+        },
+        {
+          "key": "bibr7-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757804800804"
+        },
+        {
+          "key": "bibr8-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051759106100606"
+        },
+        {
+          "key": "bibr9-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757604601102"
+        },
+        {
+          "key": "bibr10-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4188/transjtmsj1965b.23.T77"
+        },
+        {
+          "key": "bibr11-155892500900400205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757604600605"
+        },
+        {
+          "key": "bibr12-155892500900400205",
+          "unstructured": "SichinaW.J.; DSC as Problem Solving Tool: Measurement of Percent Crystallinity of Thermoplastics, Perkin Elmer Instruments, and PETech 40."
+        },
+        {
+          "key": "bibr13-155892500900400205",
+          "first-page": "425",
+          "volume-title": "Polymeric Fibers",
+          "author": "Schultz J.M.",
+          "year": "2001"
+        }
+      ],
+      "container-title": [
+        "Journal of Engineered Fibers and Fabrics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/155892500900400205",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/155892500900400205",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            29
+          ]
+        ],
+        "date-time": "2026-04-29T21:14:50Z",
+        "timestamp": 1777497290000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/155892500900400205"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "references-count": 13,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/155892500900400205"
+      ],
+      "URL": "https://doi.org/10.1177/155892500900400205",
+      "relation": {},
+      "ISSN": [
+        "1558-9250",
+        "1558-9250"
+      ],
+      "issn-type": [
+        {
+          "value": "1558-9250",
+          "type": "print"
+        },
+        {
+          "value": "1558-9250",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "article-number": "155892500900400205"
+    }
+  },
+  {
+    "doi": "10.3390/fib12040036",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            14
+          ]
+        ],
+        "date-time": "2026-07-14T01:53:36Z",
+        "timestamp": 1783994016371,
+        "version": "3.55.0"
+      },
+      "reference-count": 115,
+      "publisher": "MDPI AG",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                4,
+                7
+              ]
+            ],
+            "date-time": "2024-04-07T00:00:00Z",
+            "timestamp": 1712448000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Federal Ministry for Economy and Energy (Bundesministerium für Wirtschaft und Energie, BMWi)",
+          "award": [
+            "ZF4558911PK8"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "ZF4558911PK8"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Federal Ministry for Economy and Energy (Bundesministerium für Wirtschaft und Energie, BMWi)",
+          "award": [
+            "031B1058C"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "031B1058C"
+              ]
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100002347",
+          "name": "Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung)",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "ZF4558911PK8"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "ZF4558911PK8"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002347",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100002347",
+          "name": "Federal Ministry of Education and Research (Bundesministerium für Bildung und Forschung)",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "031B1058C"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "031B1058C"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002347",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Fibers"
+      ],
+      "abstract": "<jats:p>The annual demand for fibres continues to rise worldwide. Consequently, more and more fibres must be produced to meet this demand, most of which are melt-spun polymeric man-made fibres. Smooth filaments made of polymers are mainly used for technical applications in industry. For use in clothing or home textiles, for example, a texturing process is used to give the filaments a crimp and thus a feel like that of natural fibres. In this state, they can be processed together with natural fibres and used in textiles. Partially oriented yarns (POY) are of great importance in texturing. The yarns are mainly crimped with the help of the so-called false-twist texturing process (FTTP). Since POY accounts for about 60% of the melt-spun filament yarn produced worldwide, the FTTP is the most important texturing process in the textile industry. In this paper, the main components of false-twist texturing (FTT) machines are explained, along with the state of the art and research for each component and its influence on the process. Relevant patents are discussed, as well as process optimisation techniques, innovative polymers, and yarn types recently used in FTT, followed by a conclusion and an outlook for the process.</jats:p>",
+      "DOI": "10.3390/fib12040036",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            8
+          ]
+        ],
+        "date-time": "2024-04-08T09:31:23Z",
+        "timestamp": 1712568683000
+      },
+      "page": "36",
+      "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 5,
+      "title": [
+        "A Review on False-Twist Texturing"
+      ],
+      "prefix": "10.3390",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7027-7185",
+          "authenticated-orcid": false,
+          "given": "Mathias",
+          "family": "Ortega",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-8922-8354",
+          "authenticated-orcid": false,
+          "given": "Alexander",
+          "family": "Saynisch",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bahar-Merve",
+          "family": "Yurtseven",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2480-8333",
+          "authenticated-orcid": false,
+          "given": "Thomas",
+          "family": "Gries",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institut für Textiltechnik, RWTH Aachen University, Otto-Blumenthal-Str. 1, 52074 Aachen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            7
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Atkinson, C. (2012). False Twist Textured Yarns, Woodhead Publishing Limited (Elsevier).",
+          "DOI": "10.1533/9780857095596"
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Engelhardt, A. (2020). The Fiber Year 2020, The Fiber Year GmbH. [20th ed.].",
+          "DOI": "10.1007/978-3-658-28573-9"
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1108/RJTA-14-01-2010-B008",
+          "article-title": "Effect of Yarn Wetting on Some Physical Properties of Polyamide 6 False-Twist Textured Yarn",
+          "volume": "14",
+          "author": "Rahbar",
+          "year": "2010",
+          "journal-title": "Res. J. Text. Appar."
+        },
+        {
+          "key": "ref_4",
+          "unstructured": "Olbrich, A. (1995). Analyse und Simulation der Drallerteilung durch Friktion zur Optimierung der Falschdraht-Texturierung. [Ph.D. Thesis, Institut für Textiltechnik of RWTH Aachen University]."
+        },
+        {
+          "key": "ref_5",
+          "unstructured": "Veit, D. (1999). Einstellung von Falschdraht-Texturiermaschinen mit Hilfe der Evolutionsstrategie und Neuronaler Netze. [Ph.D. Thesis, Institut für Textiltechnik of RWTH Aachen University]."
+        },
+        {
+          "key": "ref_6",
+          "unstructured": "Jungbecker, P. Interview with Dr.-Ing. Philip Jungbecker, Senior Manager Technology Texturizing Machines at Oerlikon Textile GmbH & Co. KG, Remscheid, Germany, 19 October 2020."
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gries, T., Veit, D., and Wulfhorst, B. (2015). Textile Technology: An Introduction, Hanser. [2nd ed.].",
+          "DOI": "10.1007/978-1-56990-566-1"
+        },
+        {
+          "key": "ref_8",
+          "unstructured": "Schmenk, B. (2003). Sicherung von Prozessstabilität und Garnqualität in der Falschdraht-Texturierung. [Ph.D. Thesis, Institut für Textiltechnik of RWTH Aachen University]."
+        },
+        {
+          "key": "ref_9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fourné, F. (1999). Synthetic Fibers: Machines and Equipment, Manufacture, Properties Handbook for Plant Engineering, Machine Design, and Operation, Hanser.",
+          "DOI": "10.3139/9783446401334.fm"
+        },
+        {
+          "key": "ref_10",
+          "unstructured": "Oerlikon Barmag (2023, December 30). Exploring Draw Texturized Yarn (DTY): A Comprehensive Guide. Available online: https://www.oerlikon.com/en/industries/polymer-processing/exploring-draw-texturized-yarn-dty-a-comprehensive-guide/."
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Veit, D. (2022). Fibers: History, Production, Properties, Market, Springer. [1st ed.].",
+          "DOI": "10.1007/978-3-031-15309-9"
+        },
+        {
+          "key": "ref_12",
+          "unstructured": "Finlayson, D., and Happey, F. (1934). Manufacture of Artificial Materials. (US72760934A)."
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hearle, J.W.S., Hollick, L., and Wilson, D.K. (2001). Yarn Texturing Technology, CRC Press.",
+          "DOI": "10.1533/9781855737655"
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "12010",
+          "DOI": "10.1088/1742-6596/1295/1/012010",
+          "article-title": "Partially Oriented Yarn (POY) produced from semi-dull via melting spun using an extruder: Effect of die extruder temperature on elongation of the POY",
+          "volume": "1295",
+          "author": "Dulmalik",
+          "year": "2019",
+          "journal-title": "J. Phys. Conf. Ser."
+        },
+        {
+          "key": "ref_15",
+          "unstructured": "Bruske, J.F. (1990). Beitrag zur Steigerung von Leistung und Qualität in der FD-Texturierung. [Ph.D. Thesis, Institut für Textiltechnik of RWTH Aachen University]."
+        },
+        {
+          "key": "ref_16",
+          "first-page": "186",
+          "article-title": "Twist Setting Temperature and Time Effects on morphology of Polyethylene Terephthalate Yarn",
+          "volume": "24",
+          "author": "Yildirim",
+          "year": "2014",
+          "journal-title": "Tekst. Ve Konfeksiyon"
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "2531",
+          "DOI": "10.1016/S0196-8904(03)00014-1",
+          "article-title": "Analysis of a high temperature heater in a false twist texturing process",
+          "volume": "44",
+          "author": "Eskin",
+          "year": "2003",
+          "journal-title": "Energy Convers. Manag."
+        },
+        {
+          "key": "ref_18",
+          "first-page": "105",
+          "article-title": "Temcooler: Direct active yarn cooling in draw-texturing",
+          "volume": "55",
+          "author": "Atkinson",
+          "year": "2005",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_19",
+          "unstructured": "TMT MACHINERY, Inc. (2023, December 30). Draw-Texturing: PRODUCTS Information. Available online: https://www.tmt-mc.jp/products/false_twisting/."
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Higgins, J., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M.J., and Welch, V.A. (2019). Cochrane Handbook for Systematic Reviews of Interventions, Wiley Blackwell. [2nd ed.].",
+          "DOI": "10.1002/9781119536604"
+        },
+        {
+          "key": "ref_21",
+          "first-page": "695",
+          "article-title": "Simulation der Fadenerwärmung im Falschdrahttexturierprozeß",
+          "volume": "72",
+          "author": "Wulfhorst",
+          "year": "1991",
+          "journal-title": "Melliand Textilberichte"
+        },
+        {
+          "key": "ref_22",
+          "doi-asserted-by": "crossref",
+          "first-page": "567",
+          "DOI": "10.1177/004051750207200702",
+          "article-title": "A New Concept in Cooler Design for False-Twist Texturing Systems",
+          "volume": "72",
+          "author": "Foster",
+          "year": "2002",
+          "journal-title": "Text. Res. J."
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1864321",
+          "DOI": "10.1155/2017/1864321",
+          "article-title": "A Self-Tuning Proportional-Integral-Derivative-Based Temperature Control Method for Draw-Texturing-Yarn Machine",
+          "volume": "2017",
+          "author": "Song",
+          "year": "2017",
+          "journal-title": "Math. Probl. Eng."
+        },
+        {
+          "key": "ref_24",
+          "first-page": "25",
+          "article-title": "Influence of major false-twist texturing parameters on the structural properties of polyamide 6.6 yarn",
+          "volume": "12",
+          "author": "Dayioglu",
+          "year": "2004",
+          "journal-title": "Fibres Text. East. Eur."
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "first-page": "405",
+          "DOI": "10.1080/00405000.2021.1883238",
+          "article-title": "False-twist draw-texturing with water-jet twister/cooler and superheated steam heater: Effect of steam temperature on textured yarn properties",
+          "volume": "113",
+          "author": "Foster",
+          "year": "2021",
+          "journal-title": "J. Text. Inst."
+        },
+        {
+          "key": "ref_26",
+          "unstructured": "Fischer, K.E. (1978). Ein Beitrag zur Torsions- und Strecktexturierung: A Contribution to Torsional and Draw-Texturing. [Ph.D. Thesis, Institut für Textiltechnik of RWTH Aachen University]."
+        },
+        {
+          "key": "ref_27",
+          "unstructured": "Oerlikon Barmag (2023, December 07). Solutions for DTY Production. Available online: https://www.oerlikon.com/polymer-processing/en/solutions-technologies/from-melt-to%E2%80%A6/textured-yarn-dty/."
+        },
+        {
+          "key": "ref_28",
+          "first-page": "40",
+          "article-title": "Untersuchungen an einem kurzen Hochtemperaturheizer",
+          "volume": "43",
+          "author": "Wulfhorst",
+          "year": "1993",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_29",
+          "unstructured": "Meier, K. (1993). Verkürzung der Heizzone beim Falschdraht-Texturieren: Dissertation. [Ph.D. Thesis, Institut für Textiltechnik of RWTH Aachen University]."
+        },
+        {
+          "key": "ref_30",
+          "doi-asserted-by": "crossref",
+          "first-page": "3648",
+          "DOI": "10.1016/j.rser.2012.03.029",
+          "article-title": "A review of energy use and energy efficiency technologies for the textile industry",
+          "volume": "16",
+          "author": "Hasanbeigi",
+          "year": "2012",
+          "journal-title": "Renew. Sustain. Energy Rev."
+        },
+        {
+          "key": "ref_31",
+          "unstructured": "BMWi Bundesministerium für Wirtschaft und Energie (2018). Energieeffizienz in Zahlen: Entwicklungen und Trends in Deutschland 2018."
+        },
+        {
+          "key": "ref_32",
+          "unstructured": "Wuxi Hongyuan Electromechanical Technology Co., Ltd. (2023, December 30). HY-7 Series False Twist Texturing Machine. Available online: http://www.wxhy.com/products_detail_en/id/8.html."
+        },
+        {
+          "key": "ref_33",
+          "unstructured": "Tone, S. (1996). Draw Texturing Machine with Heater. (EP[REDACTED_PHONE] 19961111)."
+        },
+        {
+          "key": "ref_34",
+          "unstructured": "SUZHOU WEIYOU Intellectual Property Operation Co. Ltd. (2017). Texturiermaschine für Polyester-Filamentgarn. (DE202017006857U)."
+        },
+        {
+          "key": "ref_35",
+          "unstructured": "Nagao, I. (1999). Yarn Heat Treatment Device. (EP[REDACTED_PHONE] 19990923)."
+        },
+        {
+          "key": "ref_36",
+          "first-page": "41",
+          "article-title": "ITMA 2023: Innovations in texturing of man-made fibers",
+          "volume": "73",
+          "author": "Ortega",
+          "year": "2023",
+          "journal-title": "Man-Made Fibers Int."
+        },
+        {
+          "key": "ref_37",
+          "doi-asserted-by": "crossref",
+          "first-page": "792",
+          "DOI": "10.1080/00405000.2020.1779423",
+          "article-title": "False-twist texturing with water-jet twister/cooler: Effect of water pressure on textured yarn properties",
+          "volume": "112",
+          "author": "Foster",
+          "year": "2021",
+          "journal-title": "J. Text. Inst."
+        },
+        {
+          "key": "ref_38",
+          "first-page": "94",
+          "article-title": "New solutions for the high-speed false-twist texturing process",
+          "volume": "51",
+          "author": "Callhoff",
+          "year": "2001",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_39",
+          "first-page": "124",
+          "article-title": "Fiber production: Increasing texturing performance by modified POY and machine components",
+          "volume": "57",
+          "author": "Braun",
+          "year": "2007",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_40",
+          "unstructured": "Wissenberg, A. (2023, December 07). Unifi to Upgrade its Texturing Capabilities with Exclusive Use of Unique New Technology. Available online: https://www.oerlikon.com/polymer-processing/en/about-us/news/unifi-to-upgrade-its-texturing-capabilities-with-exclusive-use-of-unique-new-technology/."
+        },
+        {
+          "key": "ref_41",
+          "unstructured": "Oerlikon Barmag (2023, December 07). Weltpremiere: eAFK Evo—Texturing at its coolest. Available online: https://www.oerlikon.com/polymer-processing/de/ueber-uns/pressemitteilungen/weltpremiere-eafk-evo-%E2%80%93-texturing-at-its-coolest/."
+        },
+        {
+          "key": "ref_42",
+          "unstructured": "Callhoff, C., and Laourine, E. (2000). False Twister for Thermoplastic Filament Yarns Has a Rotating Cooling Body in a Hybrid Assembly Which Also Gives an Additional Axial Twist. (DE20001028534 20000608)."
+        },
+        {
+          "key": "ref_43",
+          "unstructured": "Lünenschloß, H.J., Farber, K., and Steinmetz, J. (1985). Texturier-Verfahren (Stand August 1984), Konradinverlag GmbH. Textil-Praxis International."
+        },
+        {
+          "key": "ref_44",
+          "doi-asserted-by": "crossref",
+          "first-page": "192",
+          "DOI": "10.1177/004051750307300302",
+          "article-title": "Mechanics of Disk-Type False Twisting",
+          "volume": "73",
+          "author": "Endo",
+          "year": "2003",
+          "journal-title": "Text. Res. J."
+        },
+        {
+          "key": "ref_45",
+          "doi-asserted-by": "crossref",
+          "first-page": "451",
+          "DOI": "10.35530/IT.068.06.1482",
+          "article-title": "Influence of heater temperature and texturing speed on the physical-mechanical properties of polyamide textured yarns in false-twist texturing process",
+          "volume": "68",
+          "author": "Savic",
+          "year": "2017",
+          "journal-title": "Ind. Textila"
+        },
+        {
+          "key": "ref_46",
+          "unstructured": "Debicki, L., and Papenbreer, L. (2023, December 21). AiF ZIM VariDrall—Innovative Twisting Unit for Texturing Spun-Dyed Filament Yarns. Available online: https://www.ita.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaffcwii."
+        },
+        {
+          "key": "ref_47",
+          "unstructured": "evico GmbH (2023, December 21). VariDrall—Innovatives Drallaggregat für die Texturierung von spinngefärbten Filamentgarnen. Available online: https://www.evico.de/forschung/varidrall."
+        },
+        {
+          "key": "ref_48",
+          "unstructured": "Rauschert Heinersdorf-Pressig GmbH (2023). Rapaltex (R) Friction Discs and Other Spindle Components, Heinersdorf-Pressig."
+        },
+        {
+          "key": "ref_49",
+          "doi-asserted-by": "crossref",
+          "first-page": "476",
+          "DOI": "10.1023/A:1015015619051",
+          "article-title": "Process methods of increasing the wear resistance of false-twist mechanism parts",
+          "volume": "33",
+          "author": "Mnatsakanyan",
+          "year": "2001",
+          "journal-title": "Fibre Chem."
+        },
+        {
+          "key": "ref_50",
+          "unstructured": "Ishii, K., and Oshiumi, K. (2002). Yarn Texturing Device with Winding Package Having a Quality Indication. (EP20020000654 20020110)."
+        },
+        {
+          "key": "ref_51",
+          "unstructured": "Drahtcord Saar GmbH & Co. KG, Merzig, Deutschland (2004). False-twist spiral filaments. Adv. Text. Technol., JULY, 4–5."
+        },
+        {
+          "key": "ref_52",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.4188/jte.56.15",
+          "article-title": "Araki Modeling for Yarn Path and Yarn Tension in Disk Friction Part of Double Stack False Twister",
+          "volume": "56",
+          "author": "Kaneda",
+          "year": "2010",
+          "journal-title": "J. Text. Eng."
+        },
+        {
+          "key": "ref_53",
+          "unstructured": "Horimoto, T., and Kitagawa, S. (2020). Draw Texturing Machine. (EP21170124A)."
+        },
+        {
+          "key": "ref_54",
+          "unstructured": "Kishimura, Y. (1998). Individual-Spindle-Drive Type Textile Machine. (US[REDACTED_PHONE] 19981023)."
+        },
+        {
+          "key": "ref_55",
+          "first-page": "55",
+          "article-title": "Effect of major false-twist texturing parameters on tensile properties and crystallinity of polyester microfilament yarn and optimized by RSM",
+          "volume": "48",
+          "author": "Rashidi",
+          "year": "2016",
+          "journal-title": "Bulg. Chem. Commun."
+        },
+        {
+          "key": "ref_56",
+          "first-page": "26",
+          "article-title": "Relationship betweet Properties and Process Parameters in False-Twist Textured Yarn",
+          "volume": "4",
+          "author": "Yildirim",
+          "year": "2009",
+          "journal-title": "J. Eng. Fibers Fabr."
+        },
+        {
+          "key": "ref_57",
+          "first-page": "35",
+          "article-title": "Impact of texturing machine parameters on the properties of PET textured yam",
+          "volume": "71",
+          "author": "Turukmane",
+          "year": "2021",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_58",
+          "first-page": "123",
+          "article-title": "Modern drive technology—The key for high production in draw-texturing",
+          "volume": "54",
+          "author": "Castiglioni",
+          "year": "2004",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_59",
+          "unstructured": "Meier, K., and Parys, M. (2001, January 10–11). The 2-step process for flat yarns—Still state-of-the-art?. Proceedings of the 2nd Benelux-Symposium on Extrusion: Fibre-Engineering, Gent, Belgium."
+        },
+        {
+          "key": "ref_60",
+          "first-page": "495",
+          "article-title": "On-line detection and classification of mechanical damage in the false-twist texturing process",
+          "volume": "125",
+          "author": "Schmenk",
+          "year": "2002",
+          "journal-title": "DWI Rep."
+        },
+        {
+          "key": "ref_61",
+          "first-page": "154",
+          "article-title": "Mode of efficiency improvement by waste minimization in draw texturizing process",
+          "volume": "47",
+          "author": "Patil",
+          "year": "2019",
+          "journal-title": "Man-Made Text. India"
+        },
+        {
+          "key": "ref_62",
+          "unstructured": "Gutbrod, R. (2006). Yarn Spool Production Method and Yarn Processing Machine. (WO2006EP06044 20060623)."
+        },
+        {
+          "key": "ref_63",
+          "unstructured": "Suzuki, T., Onishi, K., and Morimoto, S. (2000). Yarn Processing Machine. (EP20000102715 20000209)."
+        },
+        {
+          "key": "ref_64",
+          "unstructured": "Tone, S., and Nagata, H. (1997). A Doubled Yarn False Twisting Machine. (EP[REDACTED_PHONE] 19970409)."
+        },
+        {
+          "key": "ref_65",
+          "unstructured": "Wortmann, T., Springmeier, F., and Lieber, R. (2002). Textile Texturing Machine, Has Individual Thread Feed with Frequency Converter Regulation of Motor Drive at Work Station. (DE20021007086 20020220)."
+        },
+        {
+          "key": "ref_66",
+          "unstructured": "Kitagawa, S. (2017). Textile Machine. (EP21206657A)."
+        },
+        {
+          "key": "ref_67",
+          "unstructured": "Konno, T., and Okada, T. (2017). Package Take down Apparatus and Textile Machine. (EP17156007A)."
+        },
+        {
+          "key": "ref_68",
+          "unstructured": "Yuuki, Y., and Akita, S. (2000). Package for Taking Up False Twist Yarns. (EP20000902923 20000210)."
+        },
+        {
+          "key": "ref_69",
+          "first-page": "49",
+          "article-title": "Texturing Speed Advance Through Thread Path Design",
+          "volume": "18",
+          "author": "Atkinson",
+          "year": "2003",
+          "journal-title": "Int. Fiber J."
+        },
+        {
+          "key": "ref_70",
+          "first-page": "348",
+          "article-title": "Ensuring process stability and yarn quality in high-speed false twist texturing",
+          "volume": "52",
+          "author": "Schmenk",
+          "year": "2002",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_71",
+          "doi-asserted-by": "crossref",
+          "first-page": "862",
+          "DOI": "10.1080/00405000.2011.614743",
+          "article-title": "Limiting speed of false-twist texturing: A possible explanation of the post-surging mode",
+          "volume": "103",
+          "author": "Hearle",
+          "year": "2012",
+          "journal-title": "J. Text. Inst."
+        },
+        {
+          "key": "ref_72",
+          "first-page": "130",
+          "article-title": "Optische Messung der Texturierung von Filamentgarnen mit Hilfe von Lichtbeugung",
+          "volume": "96",
+          "author": "Debicki",
+          "year": "2015",
+          "journal-title": "Melliand Textilberichte"
+        },
+        {
+          "key": "ref_73",
+          "first-page": "399",
+          "article-title": "Evaluation of false-twist textured yarns by image processing",
+          "volume": "40",
+          "author": "Ghaderpanah",
+          "year": "2015",
+          "journal-title": "Indian J. Fibre Text. Res."
+        },
+        {
+          "key": "ref_74",
+          "first-page": "380",
+          "article-title": "A sharp technique for identification of defective points in false twist textured yarns",
+          "volume": "34",
+          "author": "Semnani",
+          "year": "2009",
+          "journal-title": "Indian J. Fibre Text. Res."
+        },
+        {
+          "key": "ref_75",
+          "first-page": "153",
+          "article-title": "Textured yarn defects—Causes and remedies",
+          "volume": "65",
+          "author": "Murthy",
+          "year": "2004",
+          "journal-title": "J. Text. Assoc."
+        },
+        {
+          "key": "ref_76",
+          "doi-asserted-by": "crossref",
+          "first-page": "1025",
+          "DOI": "10.1016/S0957-4158(00)00056-8",
+          "article-title": "Computer vision for textured yarn interlace (nip) measurements at high speeds",
+          "volume": "11",
+          "author": "Millman",
+          "year": "2001",
+          "journal-title": "Mechatronics"
+        },
+        {
+          "key": "ref_77",
+          "first-page": "35",
+          "article-title": "Effect of First Heater Temperature Variations on the Polyester Yarn Properties of False -Twist Texturing Techniques",
+          "volume": "17",
+          "author": "Canoglu",
+          "year": "2009",
+          "journal-title": "Fibres Text. East. Eur."
+        },
+        {
+          "key": "ref_78",
+          "first-page": "41",
+          "article-title": "Machine parameters and their effect on textured yarn properties",
+          "volume": "68",
+          "author": "Mahajan",
+          "year": "2018",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_79",
+          "first-page": "94",
+          "article-title": "Comparative analysis of structural properties of PET POY and DTY",
+          "volume": "69",
+          "author": "Marathe",
+          "year": "2019",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_80",
+          "unstructured": "DIN Deutsches Institut für Normung, e.V. (1983). Bestimmung von Kräuselkennwerten an Texturierten Filamentgarnen: Filamentgarne mit einer Nenn-Feinheit bis 500 dtex, DIN Deutsches Institut für Normung e.V."
+        },
+        {
+          "key": "ref_81",
+          "first-page": "39",
+          "article-title": "Effect of process parameters on draw textured polyester yarn properties",
+          "volume": "44",
+          "author": "Bhambure",
+          "year": "2013",
+          "journal-title": "Text. Asia"
+        },
+        {
+          "key": "ref_82",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.5937/savteh1602064S",
+          "article-title": "The influence of the variation of texturing process parameters on structural characteristics of polyamide textured yarns in the false twist",
+          "volume": "5",
+          "author": "Savic",
+          "year": "2016",
+          "journal-title": "Advant. Technol."
+        },
+        {
+          "key": "ref_83",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.35530/IT.070.05.1602",
+          "article-title": "Crimping analysis of textured polyester multifilament yarn",
+          "volume": "70",
+          "author": "Radmanovac",
+          "year": "2019",
+          "journal-title": "Ind. Textila"
+        },
+        {
+          "key": "ref_84",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.35530/IT.073.04.202167",
+          "article-title": "Investigation of deformation properties of textured multifilament PES yarns",
+          "volume": "73",
+          "year": "2022",
+          "journal-title": "Ind. Textila"
+        },
+        {
+          "key": "ref_85",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1515/epoly-2013-0068",
+          "article-title": "An experimental study and model development of poly(ethylene terephthalate) yarn morphology",
+          "volume": "14",
+          "author": "Yildirim",
+          "year": "2014",
+          "journal-title": "e-Polymers"
+        },
+        {
+          "key": "ref_86",
+          "first-page": "271",
+          "article-title": "An investigation on the properties of polyester textured yarns produced with different fiber cross-sectional shapes",
+          "volume": "69",
+          "author": "Babaarslan",
+          "year": "2018",
+          "journal-title": "Ind. Textila"
+        },
+        {
+          "key": "ref_87",
+          "doi-asserted-by": "crossref",
+          "first-page": "1487",
+          "DOI": "10.1080/00405000.2021.1933807",
+          "article-title": "The effect of denier per filament (DPF) on low-stress mechanical and transmission behaviour of polyester filament fabrics",
+          "volume": "113",
+          "author": "Singh",
+          "year": "2022",
+          "journal-title": "J. Text. Inst."
+        },
+        {
+          "key": "ref_88",
+          "first-page": "783",
+          "article-title": "Filament inceliği ve disk tipinin DTY polyester ipliklerin fiziksel ve mekanik özelliklerine etkilerinin incelenmesi: Investigation of the effects of filament fineness and disc type on yarn physical and mechanical properties of DTY polyester yarns. Uncorrected Version",
+          "volume": "29",
+          "author": "Fidan",
+          "year": "2023",
+          "journal-title": "Pamukkale Üniversitesi Mühendislik Bilim. Derg./Pamukkale Univ. J. Eng. Sci."
+        },
+        {
+          "key": "ref_89",
+          "first-page": "160",
+          "article-title": "Statistical Investigation of the Effect of Major Parameters of False Twist Texturing on the Dyeing Characteristic and Color Properties of Microfilament Polyester Yarn",
+          "volume": "10",
+          "author": "Rashidi",
+          "year": "2022",
+          "journal-title": "Moroc. J. Chem."
+        },
+        {
+          "key": "ref_90",
+          "first-page": "369",
+          "article-title": "Intermingling pressure level effect on micro polyester melange knitted fabric properties",
+          "volume": "46",
+          "author": "Kilic",
+          "year": "2021",
+          "journal-title": "Indian J. Fibre Text. Res."
+        },
+        {
+          "key": "ref_91",
+          "unstructured": "Heberlein Technology AG (2023, December 31). SwissJet. Available online: https://www.heberlein.com/en/product/swissjet/."
+        },
+        {
+          "key": "ref_92",
+          "first-page": "36",
+          "article-title": "TEX2000-L DTY laboratory and pilot unit for small and medium scale production",
+          "volume": "24",
+          "author": "Keser",
+          "year": "2009",
+          "journal-title": "Int. Fiber J."
+        },
+        {
+          "key": "ref_93",
+          "first-page": "88",
+          "article-title": "Numerical model for the investigation of forces and torques in the twist unit in false-twist texturing",
+          "volume": "72",
+          "author": "Schmitz",
+          "year": "2022",
+          "journal-title": "Chem. Fibers Int."
+        },
+        {
+          "key": "ref_94",
+          "first-page": "76",
+          "article-title": "Numerical modelling of the yarn path in twist units in the false-twist texturing process",
+          "volume": "2",
+          "author": "Schmitz",
+          "year": "2022",
+          "journal-title": "Textile.4u Texdata Mag."
+        },
+        {
+          "key": "ref_95",
+          "first-page": "60",
+          "article-title": "Numerisches Modell zur Untersuchung des Garns im Falschdrahttexturieraggregat",
+          "volume": "103",
+          "author": "Schmitz",
+          "year": "2022",
+          "journal-title": "Melliand Textilberichte"
+        },
+        {
+          "key": "ref_96",
+          "doi-asserted-by": "crossref",
+          "first-page": "78002",
+          "DOI": "10.1103/PhysRevLett.128.078002",
+          "article-title": "Twist-Controlled Force Amplification and Spinning Tension Transition in Yarn",
+          "volume": "128",
+          "author": "Seguin",
+          "year": "2022",
+          "journal-title": "Phys. Rev. Lett."
+        },
+        {
+          "key": "ref_97",
+          "doi-asserted-by": "crossref",
+          "first-page": "1995",
+          "DOI": "10.1177/0040517511407374",
+          "article-title": "Deriving an empirical formula to determine the optimum level of false-twist in mechanically-crimped textured polyester yarn",
+          "volume": "81",
+          "author": "Shaikh",
+          "year": "2011",
+          "journal-title": "Text. Res. J."
+        },
+        {
+          "key": "ref_98",
+          "first-page": "57",
+          "article-title": "New Modelling and Process Optimisation Approach for the False-Twist Texturing of Polyester",
+          "volume": "17",
+          "author": "Silva",
+          "year": "2009",
+          "journal-title": "Fibres Text. East. Eur."
+        },
+        {
+          "key": "ref_99",
+          "first-page": "97",
+          "article-title": "Prediction of False Twist Textured Yarn Properties by Artificial Neural Network Methodology",
+          "volume": "8",
+          "author": "Azimi",
+          "year": "2013",
+          "journal-title": "J. Eng. Fibers Fabr."
+        },
+        {
+          "key": "ref_100",
+          "doi-asserted-by": "crossref",
+          "first-page": "5993",
+          "DOI": "10.1016/S0032-3861(03)00547-0",
+          "article-title": "The influence of yarn-processing parameters on the tensile properties and structure of poly(l-lactic acid) fibres",
+          "volume": "44",
+          "author": "Suesat",
+          "year": "2003",
+          "journal-title": "Polymer"
+        },
+        {
+          "key": "ref_101",
+          "doi-asserted-by": "crossref",
+          "first-page": "1788",
+          "DOI": "10.1177/0040517511411972",
+          "article-title": "Texturing, stretching and relaxation behaviour of polylactide multifilament yarns",
+          "volume": "81",
+          "author": "Manich",
+          "year": "2011",
+          "journal-title": "Text. Res. J."
+        },
+        {
+          "key": "ref_102",
+          "doi-asserted-by": "crossref",
+          "first-page": "553",
+          "DOI": "10.1080/00405000.2013.827390",
+          "article-title": "Annealing effects on structural changes and thermal shrinkage of poly(lactic acid) draw-textured filaments",
+          "volume": "105",
+          "author": "Seo",
+          "year": "2014",
+          "journal-title": "J. Text. Inst."
+        },
+        {
+          "key": "ref_103",
+          "doi-asserted-by": "crossref",
+          "first-page": "170",
+          "DOI": "10.1016/j.jclepro.2018.06.191",
+          "article-title": "Development of biobased socks from sustainable polymer and statistical modeling of their thermo-physiological properties",
+          "volume": "197",
+          "author": "Maqsood",
+          "year": "2018",
+          "journal-title": "J. Clean. Prod."
+        },
+        {
+          "key": "ref_104",
+          "first-page": "24",
+          "article-title": "False-Twist texturing of bio-dyed PLA yarns",
+          "volume": "16",
+          "author": "Balakrishnan",
+          "year": "2021",
+          "journal-title": "Bioplast. Mag."
+        },
+        {
+          "key": "ref_105",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu, Q., Zhou, Y., Shen, Y., Li, Y., Guo, H., Deng, B., and Li, Y. (2019). Morphology, Structure, and Properties of Conductive Polylactide Fibers Prepared Using Polyvinyl Acetate and Multiwalled Carbon Nanotubes. Coatings, 9.",
+          "DOI": "10.3390/coatings9100651"
+        },
+        {
+          "key": "ref_106",
+          "unstructured": "Löcken, H., Ortega, M., and Gries, T. (2023). Algae-based textiles: Qualifying PA 6.9 for sporting goods and technical yarns. Bioplast. Mag., 18."
+        },
+        {
+          "key": "ref_107",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1080/00405000802561085",
+          "article-title": "Melt spinning of reused nylon 6: Structure and physical properties of as-spun, drawn, and textured filaments",
+          "volume": "101",
+          "author": "Meyabadi",
+          "year": "2010",
+          "journal-title": "J. Text. Inst."
+        },
+        {
+          "key": "ref_108",
+          "doi-asserted-by": "crossref",
+          "first-page": "2703",
+          "DOI": "10.1177/0040517520925859",
+          "article-title": "Experimental study on texturability of filament yarns produced from recycled PET",
+          "volume": "90",
+          "author": "Abbasi",
+          "year": "2020",
+          "journal-title": "Text. Res. J."
+        },
+        {
+          "key": "ref_109",
+          "unstructured": "Keane, J., Pavlansky, J., and Gianforcaro, G. (2014). Antimicrobial Multicomponent Synthetic Fiber and Method of Making Same. (US201414302050 20140611)."
+        },
+        {
+          "key": "ref_110",
+          "unstructured": "Johnson, S.B., and Samuelson, H.V. (2003). Multilobal Polymer Filaments and Articles Produced Therefrom. (US20030683680 20031010)."
+        },
+        {
+          "key": "ref_111",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zatroch, T., Kleščík, M., Kořínková, R., and Kráľ, J. (2023). Metal oxide doped polypropylene yarns with photocatalytic effect. Preprint.",
+          "DOI": "10.21203/rs.3.rs-3642500/v1"
+        },
+        {
+          "key": "ref_112",
+          "first-page": "122",
+          "article-title": "Study on Various Dispersants in PP Masterbatches and Fibres Modified by Protective Photoluminescent Pigment",
+          "volume": "27",
+          "year": "2020",
+          "journal-title": "Fibres Text."
+        },
+        {
+          "key": "ref_113",
+          "first-page": "S325",
+          "article-title": "Study on thermal and mechanical behaviors of polypropylene grade 552R/Cloisite 15A nanocomposites suitable for yarn applications",
+          "volume": "29",
+          "author": "Farahani",
+          "year": "2021",
+          "journal-title": "Polym. Polym. Compos."
+        },
+        {
+          "key": "ref_114",
+          "first-page": "e10083",
+          "article-title": "The effect of aging and first heater temperature on the physical properties of polybutylene terephthalate textured yarn",
+          "volume": "2",
+          "author": "Mohammadi",
+          "year": "2019",
+          "journal-title": "Polym. Cryst."
+        },
+        {
+          "key": "ref_115",
+          "first-page": "31",
+          "article-title": "The Textile Research Association celebrates 50 years",
+          "volume": "48",
+          "author": "Schenek",
+          "year": "2002",
+          "journal-title": "Int. Text. Bull."
+        }
+      ],
+      "container-title": [
+        "Fibers"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2079-6439/12/4/36/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2025-10-10T14:24:29Z",
+        "timestamp": 1760106269000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2079-6439/12/4/36"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            7
+          ]
+        ]
+      },
+      "references-count": 115,
+      "journal-issue": {
+        "issue": "4",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "fib12040036"
+      ],
+      "URL": "https://doi.org/10.3390/fib12040036",
+      "relation": {},
+      "ISSN": [
+        "2079-6439"
+      ],
+      "issn-type": [
+        {
+          "value": "2079-6439",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            7
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/004051758105100601",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T14:16:35Z",
+        "timestamp": 1777904195558,
+        "version": "3.51.4"
+      },
+      "reference-count": 21,
+      "publisher": "SAGE Publications",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1981,
+                6,
+                1
+              ]
+            ],
+            "date-time": "1981-06-01T00:00:00Z",
+            "timestamp": 360201600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1981,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>In an investigation of some machine-setting variables in the friction-twist-draw- texturing process, the effects of primary heater temperature, center disc spacing, draw ratio, and D/Y ratio on the resultant textured yarn properties are presented. Some of the first-order interactions between the heater temperature and disc spacing, draw ratio and D/Y ratio, and heater temperature and draw ratio, are found to have significant effects on the yarn bulk and dye uptake. The yarn properties included in the investigation are crimp contraction, dye uptake, linear density, critical dissolution time in phenol, density, tenacity, elongation, and modulus.</jats:p>",
+      "DOI": "10.1177/004051758105100601",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            3,
+            31
+          ]
+        ],
+        "date-time": "2008-03-31T16:14:57Z",
+        "timestamp": 1206980097000
+      },
+      "page": "373-383",
+      "source": "Crossref",
+      "is-referenced-by-count": 7,
+      "title": [
+        "The Influence of Some Machine-Setting Variables on the Properties of Yarns in the Friction-Twist-Draw-Texturing Process"
+      ],
+      "prefix": "10.1177",
+      "volume": "51",
+      "author": [
+        {
+          "given": "Subhas",
+          "family": "Ghosh",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Textile Technology, Charlottesville, Virginia 22902, U.S.A."
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "John",
+          "family": "Wolhar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Textile Technology, Charlottesville, Virginia 22902, U.S.A."
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1981,
+            6,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "atypb1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/19447026008662672"
+        },
+        {
+          "issue": "4",
+          "key": "atypb2",
+          "volume": "2",
+          "author": "Box, G.E.P.",
+          "year": "1960",
+          "journal-title": "Technometrics"
+        },
+        {
+          "key": "atypb3",
+          "volume-title": "Friction Twisting",
+          "author": "Denton, M.J.",
+          "year": "1975"
+        },
+        {
+          "key": "atypb4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630079"
+        },
+        {
+          "key": "atypb5",
+          "first-page": "102",
+          "volume": "24",
+          "author": "Denton, M.J.",
+          "year": "1974",
+          "journal-title": "Chemiefas./Textilind."
+        },
+        {
+          "key": "atypb6",
+          "volume-title": "Heat Setting and Yarn Texturing, in: \"The Setting of Yarn and Fabrics",
+          "author": "Denton, M.J.",
+          "year": "1971"
+        },
+        {
+          "key": "atypb7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/app.1968.070121109"
+        },
+        {
+          "key": "atypb8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757304301010"
+        },
+        {
+          "key": "atypb9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500604"
+        },
+        {
+          "key": "atypb10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757604601102"
+        },
+        {
+          "key": "atypb11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757604601110"
+        },
+        {
+          "key": "atypb12",
+          "author": "Klein, W.",
+          "year": "1973",
+          "journal-title": "Textile Manufacture"
+        },
+        {
+          "key": "atypb13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/19447025708660078"
+        },
+        {
+          "key": "atypb14",
+          "volume-title": "Textured Yarn Association of America Annual Meeting",
+          "author": "Norris, R.H."
+        },
+        {
+          "key": "atypb15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4188/transjtmsj1965b.23.T77"
+        },
+        {
+          "key": "atypb16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/polc.5070320111"
+        },
+        {
+          "key": "atypb17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007008660025"
+        },
+        {
+          "key": "atypb18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1478-4408.1972.tb03072.x"
+        },
+        {
+          "key": "atypb19",
+          "first-page": "49",
+          "volume": "25",
+          "author": "Warwicker, J.O.",
+          "year": "1976",
+          "journal-title": "Shirley Institute Pamphlet"
+        },
+        {
+          "key": "atypb20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757604600804"
+        },
+        {
+          "key": "atypb21",
+          "volume-title": "Yarn Testing and Textured Yarn Technology—1",
+          "author": "Wilkinson, G.D.",
+          "year": "1967"
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051758105100601",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051758105100601",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T12:18:29Z",
+        "timestamp": 1777637909000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051758105100601"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1981,
+            6
+          ]
+        ]
+      },
+      "references-count": 21,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              1981,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051758105100601"
+      ],
+      "URL": "https://doi.org/10.1177/004051758105100601",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1981,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/004051757404401014",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T14:13:38Z",
+        "timestamp": 1777904018968,
+        "version": "3.51.4"
+      },
+      "reference-count": 0,
+      "publisher": "SAGE Publications",
+      "issue": "10",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1974,
+                10,
+                1
+              ]
+            ],
+            "date-time": "1974-10-01T00:00:00Z",
+            "timestamp": 149817600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1974,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:p>A mathematical model for the heating of yarn in the false-twist texturizing process was formed, and an equation for the surface temperature of the yarn for contact-type heaters was derived. An expression for the temperature distribution in the cross section of the yarn in the heater zone was derived mathematically.</jats:p>\n                  <jats:p>The surface temperatures of nylon and polyester yarns of different deniers were measured and compared with predicted values. For measuring the surface temperature, a Fiber-temp® non-contact-type temperature measuring instrument was used. The yarns were heated using controlled short heaters 12 in. and 8 in. long.</jats:p>\n                  <jats:p>The temperature distribution in the cross section of the yarns was calculated from the equation for various yarn speeds and heater temperatures. The temperature difference between the surface and the center of the yarn was found to be small for the normal yarns used in texturizing, even at very high speeds.</jats:p>\n                  <jats:p>Polyester yarns were found to heat up faster than nylon yarns due to the lower heat capacity of polyester. The heavy denier yarns were heated more slowly than the lower denier yarns because of the lower A/M (surface area/mass) ratio of the high denier ones.</jats:p>",
+      "DOI": "10.1177/004051757404401014",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2007,
+            10,
+            29
+          ]
+        ],
+        "date-time": "2007-10-29T14:13:33Z",
+        "timestamp": 1193667213000
+      },
+      "page": "803-812",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Heat Transfer in False-Twist Texturing"
+      ],
+      "prefix": "10.1177",
+      "volume": "44",
+      "author": [
+        {
+          "given": "T.",
+          "family": "Ecambaram",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Textile, North Carolina State University, Raleigh, North Carolina 27607, U. S. A."
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "E.W.",
+          "family": "Afify",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Textile, North Carolina State University, Raleigh, North Carolina 27607, U. S. A."
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Aly",
+          "family": "El-Shiekh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Textile, North Carolina State University, Raleigh, North Carolina 27607, U. S. A."
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1974,
+            10,
+            1
+          ]
+        ]
+      },
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051757404401014",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051757404401014",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T12:10:59Z",
+        "timestamp": 1777637459000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051757404401014"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1974,
+            10
+          ]
+        ]
+      },
+      "references-count": 0,
+      "journal-issue": {
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              1974,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051757404401014"
+      ],
+      "URL": "https://doi.org/10.1177/004051757404401014",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1974,
+            10
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1016/S0196-8904(03)00014-1",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2025-10-23T20:45:43Z",
+        "timestamp": 1761252343945
+      },
+      "reference-count": 15,
+      "publisher": "Elsevier BV",
+      "issue": "16",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2003,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2003-09-01T00:00:00Z",
+            "timestamp": 1062374400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Energy Conversion and Management"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/s0196-8904(03)00014-1",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2003,
+            5,
+            12
+          ]
+        ],
+        "date-time": "2003-05-12T23:55:41Z",
+        "timestamp": 1052783741000
+      },
+      "page": "2531-2547",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Analysis of a high temperature heater in a false twist texturing process"
+      ],
+      "prefix": "10.1016",
+      "volume": "44",
+      "author": [
+        {
+          "given": "Nurdil",
+          "family": "Eskin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB1",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1177/004051757404400713",
+          "article-title": "Structural changes in nylon 6 yarn on heat-setting and friction twisted texturing",
+          "author": "Gupta",
+          "year": "1974",
+          "journal-title": "Textile Research Journal"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB2",
+          "doi-asserted-by": "crossref",
+          "first-page": "803",
+          "DOI": "10.1177/004051757404401014",
+          "article-title": "Heat transfer in false-twist texturing",
+          "author": "Egambaram",
+          "year": "1974",
+          "journal-title": "Textile Research Journal"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB3",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1080/00405007108630038",
+          "article-title": "Heat transfer in false-twist-bulking process",
+          "volume": "62",
+          "author": "Jones",
+          "year": "1970",
+          "journal-title": "J. Textile Institute"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB4",
+          "doi-asserted-by": "crossref",
+          "first-page": "398",
+          "DOI": "10.1080/00405008408658388",
+          "article-title": "An experimental method for determining the heat transfer coefficient of polymeric fibers and yarns during rapid convective heating",
+          "volume": "6",
+          "author": "Brooks",
+          "year": "1984",
+          "journal-title": "J. Textile Institute"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB5",
+          "first-page": "695",
+          "article-title": "Simulation der Fadener- wärmung im Falschdrahttexturierproseß",
+          "volume": "72",
+          "author": "Wulfhorst",
+          "year": "1991",
+          "journal-title": "Melliand Textilberichte"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB6",
+          "first-page": "40",
+          "article-title": "Investigations on a short high-temperature heater",
+          "volume": "43",
+          "author": "Wulfhorst",
+          "year": "1993",
+          "journal-title": "Chemiefasern/Textilindustrie"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB7",
+          "first-page": "136",
+          "article-title": "Technologies and Machines for texturing of filament yarns",
+          "volume": "45",
+          "author": "Bruske",
+          "year": "1995",
+          "journal-title": "Chemical Fibers International"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB8",
+          "series-title": "Thermal radiation heat transfer",
+          "author": "Siegel",
+          "year": "1992"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/S0196-8904(03)00014-1_BIB9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1112",
+          "DOI": "10.2514/3.6964",
+          "article-title": "Rapid method for determining concentric cylinder radiation view factors",
+          "volume": "13",
+          "author": "Rea",
+          "year": "1975",
+          "journal-title": "AIAA J"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/S0196-8904(03)00014-1_BIB10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1446",
+          "DOI": "10.2514/3.6941",
+          "article-title": "Annular ring view factors",
+          "volume": "11",
+          "author": "Reid",
+          "year": "1973",
+          "journal-title": "AIAA J"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB11",
+          "series-title": "Radiation properties of materials",
+          "author": "Sala",
+          "year": "1986"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB12",
+          "series-title": "Structural mechanics of fibers, yarns and fabrics",
+          "author": "Hearle",
+          "year": "1970"
+        },
+        {
+          "key": "10.1016/S0196-8904(03)00014-1_BIB13",
+          "series-title": "Fiber science",
+          "author": "Warner",
+          "year": "1995"
+        },
+        {
+          "issue": "43",
+          "key": "10.1016/S0196-8904(03)00014-1_BIB14",
+          "first-page": "831",
+          "article-title": "Texturierung von PA-Garnen auf Texturier-maschinen mit Hochtemperaturheizer",
+          "author": "Dupeuble",
+          "year": "1993",
+          "journal-title": "Chemiefasern/Textilindustrie"
+        },
+        {
+          "issue": "45",
+          "key": "10.1016/S0196-8904(03)00014-1_BIB15",
+          "first-page": "418",
+          "article-title": "Influence of texturing parameters on structural properties of microfiber polyester yarns",
+          "author": "Pal",
+          "year": "1995",
+          "journal-title": "Chemical Fibers International"
+        }
+      ],
+      "container-title": [
+        "Energy Conversion and Management"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0196890403000141?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0196890403000141?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            24
+          ]
+        ],
+        "date-time": "2019-03-24T12:57:17Z",
+        "timestamp": 1553432237000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0196890403000141"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2003,
+            9
+          ]
+        ]
+      },
+      "references-count": 15,
+      "journal-issue": {
+        "issue": "16",
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0196890403000141"
+      ],
+      "URL": "https://doi.org/10.1016/s0196-8904(03)00014-1",
+      "relation": {},
+      "ISSN": [
+        "0196-8904"
+      ],
+      "issn-type": [
+        {
+          "value": "0196-8904",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2003,
+            9
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/004051759106100508",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T14:26:22Z",
+        "timestamp": 1777904782328,
+        "version": "3.51.4"
+      },
+      "reference-count": 16,
+      "publisher": "SAGE Publications",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1991,
+                5,
+                1
+              ]
+            ],
+            "date-time": "1991-05-01T00:00:00Z",
+            "timestamp": 673056000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1991,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:p>A universal analysis of the behavior of a yam passing over a friction disc in false- twist texturing is given, and a numerical method to determine yam path, tension, and torque over the disc surface is developed. The analysis should be directly applicable to the earlier discs in a stack, where yam twist can be taken as constant, but a mod ification is required for the exit disc.</jats:p>",
+      "DOI": "10.1177/004051759106100508",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2007,
+            3,
+            4
+          ]
+        ],
+        "date-time": "2007-03-04T21:03:03Z",
+        "timestamp": 1173042183000
+      },
+      "page": "289-297",
+      "source": "Crossref",
+      "is-referenced-by-count": 7,
+      "title": [
+        "Mechanics of Friction Twisting"
+      ],
+      "prefix": "10.1177",
+      "volume": "61",
+      "author": [
+        {
+          "given": "Guangwu",
+          "family": "Du",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Textiles, University of Manchester Institute of Science and Technology, Manchester M60 IQD, England"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "John W.S.",
+          "family": "Hearle",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Textiles, University of Manchester Institute of Science and Technology, Manchester M60 IQD, England"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1991,
+            5,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "atypb1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630079"
+        },
+        {
+          "key": "atypb2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630512"
+        },
+        {
+          "key": "atypb3",
+          "author": "Du, G.W.",
+          "journal-title": "Textile Res. J."
+        },
+        {
+          "key": "atypb4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630537"
+        },
+        {
+          "key": "atypb5",
+          "volume-title": "Papers of the 60th Annual Conference of the Textile Institute",
+          "author": "Greenwood, K."
+        },
+        {
+          "key": "atypb6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007908658853"
+        },
+        {
+          "key": "atypb7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008008631559"
+        },
+        {
+          "key": "atypb8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051758305300101"
+        },
+        {
+          "key": "atypb9",
+          "first-page": "16",
+          "volume": "100",
+          "author": "Klein, W.",
+          "year": "1973",
+          "journal-title": "Textile Manuf."
+        },
+        {
+          "key": "atypb10",
+          "unstructured": "Morton, W.E., and Hearle, J.W.S. \"Physical Properties of Textile Fibres,\" The Textile Institute, Manchester, 1986, pp. 618-633."
+        },
+        {
+          "key": "atypb11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630078"
+        },
+        {
+          "key": "atypb12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007008660025"
+        },
+        {
+          "key": "atypb13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007608630564"
+        },
+        {
+          "key": "atypb14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008408631704"
+        },
+        {
+          "key": "atypb15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008508658498"
+        },
+        {
+          "key": "atypb16",
+          "first-page": "237",
+          "volume": "2",
+          "author": "Weigert, H.",
+          "year": "1977",
+          "journal-title": "Textile Bull. Spinning"
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051759106100508",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051759106100508",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T12:29:53Z",
+        "timestamp": 1777638593000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051759106100508"
+        }
+      },
+      "subtitle": [
+        "Part I: Yarn Path, Tension, and Torque Generation in a Single Disc"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1991,
+            5
+          ]
+        ]
+      },
+      "references-count": 16,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              1991,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051759106100508"
+      ],
+      "URL": "https://doi.org/10.1177/004051759106100508",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1991,
+            5
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/004051750307300208",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T13:39:03Z",
+        "timestamp": 1777901943111,
+        "version": "3.51.4"
+      },
+      "reference-count": 8,
+      "publisher": "SAGE Publications",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2003,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2003-02-01T00:00:00Z",
+            "timestamp": 1044057600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:p>False twisting by means of a friction disk unit is an efficient technology used worldwide to manufacture synthetic fiber yarns that are textured. This paper proposes a new theory to analyze the yam path and the friction force exerted on the running yarn over a single friction disk. We do not apply discrete methods, but treat the system in a continuous manner using three-dimensional vector analysis and differential geometry.</jats:p>",
+      "DOI": "10.1177/004051750307300208",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            3,
+            31
+          ]
+        ],
+        "date-time": "2008-03-31T16:14:57Z",
+        "timestamp": 1206980097000
+      },
+      "page": "139-146",
+      "source": "Crossref",
+      "is-referenced-by-count": 5,
+      "title": [
+        "Mechanics of Disk-Type False Twisting"
+      ],
+      "prefix": "10.1177",
+      "volume": "73",
+      "author": [
+        {
+          "given": "Tetsuhiko",
+          "family": "Endo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Kanazawa University, Kanazawa 920-8667, Japan"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Sukf-Nori",
+          "family": "Shintaku",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Kanazawa University, Kanazawa 920-8667, Japan"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Toshiyasu",
+          "family": "Kinari",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Engineering, Kanazawa University, Kanazawa 920-8667, Japan"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2003,
+            2,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "atypb1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051759106100508"
+        },
+        {
+          "key": "atypb2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051759106100606"
+        },
+        {
+          "key": "atypb3",
+          "unstructured": "Ernest Scragg & Sons Ltd., JP Publication No. S48-99431, Dec. 15, 1973."
+        },
+        {
+          "key": "atypb4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630078"
+        },
+        {
+          "key": "atypb5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007508630078"
+        },
+        {
+          "key": "atypb6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4188/transjtmsj.52.10_T217"
+        },
+        {
+          "key": "atypb7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008408631704"
+        },
+        {
+          "key": "atypb8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008508658498"
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051750307300208",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051750307300208",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T11:12:50Z",
+        "timestamp": 1777633970000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051750307300208"
+        }
+      },
+      "subtitle": [
+        "Part I: Yarn Path and Friction Force on a Single Disk"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2003,
+            2
+          ]
+        ]
+      },
+      "references-count": 8,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2003,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051750307300208"
+      ],
+      "URL": "https://doi.org/10.1177/004051750307300208",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2003,
+            2
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/004051750207200702",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T13:38:33Z",
+        "timestamp": 1777901913156,
+        "version": "3.51.4"
+      },
+      "reference-count": 6,
+      "publisher": "SAGE Publications",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2002,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2002-07-01T00:00:00Z",
+            "timestamp": 1025481600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2002,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:p>In false twist texturing, yarns are bulked by the sequential operations of twisting, heating, and cooling. The current speed for false twist texturing is limited by the early onset of threadline instability. It is well known that there is a potential to increase speeds by reducing the length of each element of the process. This paper describes the develop ment of a short-length water cooler that operates by direct contact between water and yarn. The important design parameters are identified and optimized, and the predicted perfor mance is in agreement with simple transient heat transfer theory. Trials have shown that commercially acceptable 167 decitex yarns can be produced with continuous running at 1000 m/min and with a potential speed of 1700 m/min or more.</jats:p>",
+      "DOI": "10.1177/004051750207200702",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            3,
+            31
+          ]
+        ],
+        "date-time": "2008-03-31T16:14:57Z",
+        "timestamp": 1206980097000
+      },
+      "page": "567-572",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "A New Concept in Cooler Design for False-Twist Texturing Systems"
+      ],
+      "prefix": "10.1177",
+      "volume": "72",
+      "author": [
+        {
+          "given": "P.W.",
+          "family": "Foster",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "UMIST, Department of Textiles, Manchester, M60 IQD United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "R.J.",
+          "family": "Aggarwal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UMIST, Department of Textiles, Manchester, M60 IQD United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "B.I.",
+          "family": "Lu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UMIST, Department of Textiles, Manchester, M60 IQD United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "U.S.W.",
+          "family": "Gunasekera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UMIST, Department of Textiles, Manchester, M60 IQD United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "C.R.",
+          "family": "Cork",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "UMIST, Department of Textiles, Manchester, M60 IQD United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2002,
+            7,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "atypb1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405008008631572"
+        },
+        {
+          "issue": "10",
+          "key": "atypb2",
+          "first-page": "803",
+          "volume": "44",
+          "author": "Egambaram, T.",
+          "year": "1974",
+          "journal-title": "J. Textile Inst."
+        },
+        {
+          "key": "atypb3",
+          "unstructured": "Foster, P. W., and Aggarwal, R. J., US patent 5,931,972 {W09532325}, 1999."
+        },
+        {
+          "key": "atypb4",
+          "volume-title": "Introduction to Heat Transfer",
+          "author": "Incropera, F.P.",
+          "year": "1996",
+          "edition": "3"
+        },
+        {
+          "key": "atypb5",
+          "volume-title": "High Speed Constant Bulk Texturing, Doctoral thesis",
+          "author": "Lu, B.I.",
+          "year": "1994"
+        },
+        {
+          "key": "atypb6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00405007808631455"
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051750207200702",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051750207200702",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T11:12:27Z",
+        "timestamp": 1777633947000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051750207200702"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2002,
+            7
+          ]
+        ]
+      },
+      "references-count": 6,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2002,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051750207200702"
+      ],
+      "URL": "https://doi.org/10.1177/004051750207200702",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2002,
+            7
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/155892501100600307",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            3
+          ]
+        ],
+        "date-time": "2026-05-03T13:31:08Z",
+        "timestamp": 1777815068626,
+        "version": "3.51.4"
+      },
+      "reference-count": 12,
+      "publisher": "SAGE Publications",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2011-09-01T00:00:00Z",
+            "timestamp": 1314835200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Engineered Fibers and Fabrics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:p>In this study, color coordinates variation of spun-dyed polyester filament yarns subjected to the false twist texturing process was investigated. Furthermore, the effect of different processing parameters including D/Y ratio, twist, heater temperature, texturing speed, overfeed, the draw ratio and intermingling process on the color coordinates variation of textured yarns was studied. Finally, the magnitude of color variation was analyzed by studying the structure, crimp and tensile properties of the yarns. The results show that the nature of texturing and intermingling process had a significant effect on the color variation of yarns but different processing parameters had no significant effect. The level of these variations can be expressed by observing the fiber geometry change along the texturing process.</jats:p>",
+      "DOI": "10.1177/155892501100600307",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            15
+          ]
+        ],
+        "date-time": "2018-11-15T14:34:42Z",
+        "timestamp": 1542292482000
+      },
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Investigating the Effect of False Twist Texturing Process on the Color Coordinates Variation of Spun-dyed Polyester Filament Yarns"
+      ],
+      "prefix": "10.1177",
+      "volume": "6",
+      "author": [
+        {
+          "given": "Mohammad Amani",
+          "family": "Tehran",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Textile Engineering, Amirkabir University of Technology, Tehran, IRAN"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Bahareh",
+          "family": "Azimi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Textile Engineering, Amirkabir University of Technology, Tehran, IRAN"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mohammad Reza Mohades",
+          "family": "Mojtahedi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Textile Engineering, Amirkabir University of Technology, Tehran, IRAN"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2011,
+            9,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-155892501100600307",
+          "first-page": "142",
+          "volume": "18",
+          "author": "Srivastava J. K",
+          "year": "1987",
+          "journal-title": "Textile Asia"
+        },
+        {
+          "key": "bibr2-155892501100600307",
+          "first-page": "427",
+          "volume": "45",
+          "author": "Butterworth E",
+          "year": "1954",
+          "journal-title": "J. Tex. Inst."
+        },
+        {
+          "key": "bibr3-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1528083705049053"
+        },
+        {
+          "key": "bibr4-155892501100600307",
+          "first-page": "327",
+          "volume": "53",
+          "author": "Jorgensen P. E",
+          "year": "2003",
+          "journal-title": "Chem. Fibers Int"
+        },
+        {
+          "key": "bibr5-155892501100600307",
+          "doi-asserted-by": "crossref",
+          "first-page": "462",
+          "DOI": "10.1080/19447027.1954.10807251",
+          "volume": "45",
+          "author": "Beevers H",
+          "year": "1954",
+          "journal-title": "J Text. Inst."
+        },
+        {
+          "key": "bibr6-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0040517506063640"
+        },
+        {
+          "key": "bibr7-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500504"
+        },
+        {
+          "key": "bibr8-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500604"
+        },
+        {
+          "key": "bibr9-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757604601110"
+        },
+        {
+          "key": "bibr10-155892501100600307",
+          "first-page": "23",
+          "volume": "12",
+          "author": "Canbaz Karakaş H",
+          "year": "2004",
+          "journal-title": "Fibers & Textiles in Eastern Europe"
+        },
+        {
+          "key": "bibr11-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/155892500900400205"
+        },
+        {
+          "key": "bibr12-155892501100600307",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/col.5080090406"
+        }
+      ],
+      "container-title": [
+        "Journal of Engineered Fibers and Fabrics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/155892501100600307",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/155892501100600307",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            29
+          ]
+        ],
+        "date-time": "2026-04-29T21:15:03Z",
+        "timestamp": 1777497303000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/155892501100600307"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            9
+          ]
+        ]
+      },
+      "references-count": 12,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/155892501100600307"
+      ],
+      "URL": "https://doi.org/10.1177/155892501100600307",
+      "relation": {},
+      "ISSN": [
+        "1558-9250",
+        "1558-9250"
+      ],
+      "issn-type": [
+        {
+          "value": "1558-9250",
+          "type": "print"
+        },
+        {
+          "value": "1558-9250",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            9
+          ]
+        ]
+      },
+      "article-number": "155892501100600307"
+    }
+  },
+  {
+    "doi": "10.1177/004051757504500504",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            18
+          ]
+        ],
+        "date-time": "2026-08-18T02:03:38Z",
+        "timestamp": 1787018618915,
+        "version": "build-2736575974"
+      },
+      "reference-count": 10,
+      "publisher": "SAGE Publications",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1975,
+                5,
+                1
+              ]
+            ],
+            "date-time": "1975-05-01T00:00:00Z",
+            "timestamp": 168134400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1975,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:p>The changes in the structure of commercial polyethylene terephthalate yam, when it is textured on a spindle false- twist machine, have been studied over a range of heater temperatures and heater contact times. Compared to the un textured yarn, crystalline content increases on texturing, but crystallite orientation, birefringence, and amorphous orien tation decrease. The changes in these structural parameters with temperature and time of texturing are discussed.</jats:p>",
+      "DOI": "10.1177/004051757504500504",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            3,
+            31
+          ]
+        ],
+        "date-time": "2008-03-31T16:14:57Z",
+        "timestamp": 1206980097000
+      },
+      "page": "382-388",
+      "source": "Crossref",
+      "is-referenced-by-count": 17,
+      "title": [
+        "Changes in the Structure of Polyethylene Terephthalate Yarn on Texturing"
+      ],
+      "prefix": "10.1177",
+      "volume": "45",
+      "author": [
+        {
+          "given": "V.B.",
+          "family": "Gupta",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Textile Technology, Indian Institute of Technology, Haus Khas, New Delhi-29, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Kumar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Textile Technology, Indian Institute of Technology, Haus Khas, New Delhi-29, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1975,
+            5,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "atypb1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1122/1.549264"
+        },
+        {
+          "key": "atypb2",
+          "volume-title": "The Mechanical Properties of Textured Polyethylene Terephthalate Yarn",
+          "author": "Gupta, V.B."
+        },
+        {
+          "key": "atypb3",
+          "author": "Gupta, V.B.",
+          "journal-title": "Textile Res. J"
+        },
+        {
+          "key": "atypb4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1088/0508-3443/11/8/310"
+        },
+        {
+          "key": "atypb5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.1735481"
+        },
+        {
+          "key": "atypb6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pol.1956.120219903"
+        },
+        {
+          "key": "atypb7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051756203200709"
+        },
+        {
+          "key": "atypb8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pol.1968.160060414"
+        },
+        {
+          "key": "atypb9",
+          "volume-title": "\"Introduction to Polymer Crystallisation",
+          "author": "Sharples, A.",
+          "year": "1968"
+        },
+        {
+          "key": "atypb10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pol.1972.160100502"
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051757504500504",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051757504500504",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T12:11:53Z",
+        "timestamp": 1777637513000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051757504500504"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1975,
+            5
+          ]
+        ]
+      },
+      "references-count": 10,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              1975,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051757504500504"
+      ],
+      "URL": "https://doi.org/10.1177/004051757504500504",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1975,
+            5
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "doi": "10.1177/004051757604601102",
+    "status": "ok",
+    "record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T14:14:51Z",
+        "timestamp": 1777904091338,
+        "version": "3.51.4"
+      },
+      "reference-count": 10,
+      "publisher": "SAGE Publications",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1976,
+                11,
+                1
+              ]
+            ],
+            "date-time": "1976-11-01T00:00:00Z",
+            "timestamp": 215654400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Textile Research Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1976,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:p>The changes in structure and dyeability characteristics of: a) polyethylene terephthalate (PET) yarn, textured at different tensions and various twist levels; and b) the textured samples after being relaxed in water at 80°C for 2 hours, are reported. The crystallinity of all textured samples was found to be higher than that of the untextured yarn, but in general, crystallite orientation, birefringence, and amorphous orientation decreased on texturing. The effect of tension and twist on these structural parameters is discussed in this paper. The textured samples, after being relaxed, show decrease in crystallinity, crystallite orientation, birefringence, and amorphous orientation. The dye uptake of the textured samples is considerably affected by tension in the crimping zone, and water treatment increases the dye uptake of the textured yarn. The structural dependence of dye-uptake data is analyzed.</jats:p>",
+      "DOI": "10.1177/004051757604601102",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            11
+          ]
+        ],
+        "date-time": "2017-01-11T15:30:28Z",
+        "timestamp": 1484148628000
+      },
+      "page": "785-790",
+      "source": "Crossref",
+      "is-referenced-by-count": 14,
+      "title": [
+        "The Effect of Tension and Twist on the Structure and Dyeability of Textured Polyethylene Terephthalate Yarn"
+      ],
+      "prefix": "10.1177",
+      "volume": "46",
+      "author": [
+        {
+          "given": "V. B.",
+          "family": "Gupta",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Textile Technology Department, Indian Institute of Technology, New Delhi-110029, India"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "John",
+          "family": "Amirtharaj",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Textile Technology Department, Indian Institute of Technology, New Delhi-110029, India"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1976,
+            11,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-004051757604601102",
+          "unstructured": "Cook J. G. “Handbook of Textile Fibres,” 4th Edition, Vol. II, Merrow Publishing Co. Ltd., Watford, England, 1968, p. 367."
+        },
+        {
+          "key": "bibr2-004051757604601102",
+          "first-page": "T 589",
+          "volume": "57",
+          "author": "Denton M. J.",
+          "year": "1966",
+          "journal-title": "JTI Trans."
+        },
+        {
+          "key": "bibr3-004051757604601102",
+          "first-page": "T-372",
+          "volume": "57",
+          "author": "Denton M. J.",
+          "year": "1966",
+          "journal-title": "JTI Trans."
+        },
+        {
+          "key": "bibr4-004051757604601102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500504"
+        },
+        {
+          "key": "bibr5-004051757604601102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/004051757504500604"
+        },
+        {
+          "key": "bibr6-004051757604601102",
+          "unstructured": "Gupta V. B., Sharma O. P., Changes in the Structure and Properties of Polyethylene Terephthalate Yarn on Heat-Setting, To be submitted for publication."
+        },
+        {
+          "key": "bibr7-004051757604601102",
+          "unstructured": "Hathorne B. L. “Woven Stretch and Textured Fabrics,” John Wiley & Sons, Inc., New York, 1964, pp. 51–52."
+        },
+        {
+          "key": "bibr8-004051757604601102",
+          "unstructured": "Hearle J. W. S. in “The Setting of Fibres and Fabrics,” Ed. Hearle J. W. S., Miles L. W. C., Merrow Publishing Co. Ltd., Watford, England, 1971, p. 3 and p. 118."
+        },
+        {
+          "key": "bibr9-004051757604601102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1122/1.549264"
+        },
+        {
+          "key": "bibr10-004051757604601102",
+          "first-page": "219",
+          "volume": "32",
+          "author": "Statton W. O.",
+          "year": "1971",
+          "journal-title": "Polym. Sci. Syrnp."
+        }
+      ],
+      "container-title": [
+        "Textile Research Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051757604601102",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/004051757604601102",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T12:13:36Z",
+        "timestamp": 1777637616000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/004051757604601102"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1976,
+            11
+          ]
+        ]
+      },
+      "references-count": 10,
+      "journal-issue": {
+        "issue": "11",
+        "published-print": {
+          "date-parts": [
+            [
+              1976,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/004051757604601102"
+      ],
+      "URL": "https://doi.org/10.1177/004051757604601102",
+      "relation": {},
+      "ISSN": [
+        "0040-5175",
+        "1746-7748"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-5175",
+          "type": "print"
+        },
+        {
+          "value": "1746-7748",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1976,
+            11
+          ]
+        ]
+      }
+    }
+  }
+]

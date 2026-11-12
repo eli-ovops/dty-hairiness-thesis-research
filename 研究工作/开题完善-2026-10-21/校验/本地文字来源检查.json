@@ -1,0 +1,65 @@
+{
+  "kind": "bounded literal source-overlap screening; not plagiarism rate or AIGC detection",
+  "document": "03-开题报告-提交准备稿-v0.2-2026-10-21.docx",
+  "scope": "first four form sections; bibliography excluded; six locally obtained journal PDFs",
+  "threshold": "18 consecutive Chinese characters after removing non-Chinese characters",
+  "sources": [
+    {
+      "source": "E-new-Maity-2024.pdf",
+      "source_sha256": "6b5b0fe8805e136218a2c1d59a55cfc7fc2241342832ab081ebf53d1e3c7066e",
+      "common_chinese_18grams": [],
+      "source_reading_limit": "machine-extracted text; scanned/garbled or untranslated text may be missed",
+      "source_text_sha256": "603d575a3459838932847b8a863d0f508c711d9c061df74f0c9cdbdb8db5c324",
+      "extracted_chinese_character_count": 0
+    },
+    {
+      "source": "E05-Karakas-2005.pdf",
+      "source_sha256": "6fed42394aa4a5af2efa661ce7c65cc2042e51fccc09129b920c0b7877afb3db",
+      "common_chinese_18grams": [],
+      "source_reading_limit": "machine-extracted text; scanned/garbled or untranslated text may be missed",
+      "source_text_sha256": "079ec142b6953521555e385b891fbed5975b96c935a50f3df1548f13b2b77ace",
+      "extracted_chinese_character_count": 0
+    },
+    {
+      "source": "E-new-Fidan-2023.pdf",
+      "source_sha256": "656b5d5996f78b2140c7eb9d4f575636a4d23ae907dfcb04b9a2c1c149e70fd3",
+      "common_chinese_18grams": [],
+      "source_reading_limit": "machine-extracted text; scanned/garbled or untranslated text may be missed",
+      "source_text_sha256": "5b8fd135a9078a2102c8a31238a4e8af8df80c8ea4f92bda5676e7f69cb41101",
+      "extracted_chinese_character_count": 0
+    },
+    {
+      "source": "C01-李谷成-2011.pdf",
+      "source_sha256": "9a97f97e73116e26b244d3731fcd4485d552db4fc6f43a69f593980eab907db1",
+      "common_chinese_18grams": [],
+      "source_reading_limit": "machine-extracted text; scanned/garbled or untranslated text may be missed",
+      "source_text_sha256": "b08864774f545ea66db0f1476260c1e6d69d14a5bf1c0e1360ba122e261e0fc4",
+      "extracted_chinese_character_count": 4842
+    },
+    {
+      "source": "E-new-Stepanovic-2022.pdf",
+      "source_sha256": "b62340a6923c2e88babc23e3992878697b125e9b80d386453322eb0078006643",
+      "common_chinese_18grams": [],
+      "source_reading_limit": "machine-extracted text; scanned/garbled or untranslated text may be missed",
+      "source_text_sha256": "7643fe5db6058f8ba5088cf489ad8e473e72c30a1419626c38f7a3937b7c9301",
+      "extracted_chinese_character_count": 0
+    },
+    {
+      "source": "E04-Yildirim-2009-temperature.pdf",
+      "source_sha256": "a12699b57c2e5f02f313221486df75bb11d3df2b1019ac1fccd1a1666a839a2b",
+      "common_chinese_18grams": [],
+      "source_reading_limit": "machine-extracted text; scanned/garbled or untranslated text may be missed",
+      "source_text_sha256": "2b85c08ea56b8ca66dacd0192cedf4f42a152ae9a01709b73be215b65bacd09a",
+      "extracted_chinese_character_count": 0
+    }
+  ],
+  "limitations": [
+    "no VIP full database",
+    "no semantic similarity detection",
+    "no AIGC model or score",
+    "no guarantee of formal school detection result",
+    "English passages and cross-language reuse are not assessed by Chinese character matching"
+  ],
+  "document_sha256": "f492cf64db18ccf4645be501eb7dc0cf3b1d8b08d2b58fb719042b77c931d319",
+  "checked_at": "2026-10-21T07:53:17.039790+00:00"
+}

@@ -1,0 +1,190 @@
+{
+  "file": "\u7814\u7a76\u5de5\u4f5c/\u5f00\u9898\u5b8c\u5584-2026-10-21/\u53c2\u8003\u6587\u732e-\u6700\u7ec8\u6392\u5e8f.bib",
+  "checked_at": "2026-10-21T07:33:57Z",
+  "mode": "online",
+  "verdict": "PASS",
+  "verdict_line": "PASS: 10/16 verified, 0 errors, 0 warnings (0 checks skipped)",
+  "skipped_checks": [],
+  "entries": [
+    {
+      "key": "source1",
+      "type": "article",
+      "line": 1,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source14",
+      "type": "article",
+      "line": 11,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source2",
+      "type": "article",
+      "line": 23,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.1177/004051759606601205",
+        "doi": "10.1177/004051759606601205"
+      },
+      "flags": []
+    },
+    {
+      "key": "source3",
+      "type": "article",
+      "line": 35,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.1177/155892500900400205",
+        "doi": "10.1177/155892500900400205"
+      },
+      "flags": []
+    },
+    {
+      "key": "source4",
+      "type": "article",
+      "line": 47,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source5",
+      "type": "article",
+      "line": 58,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source6",
+      "type": "article",
+      "line": 69,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.3390/fib12040036",
+        "doi": "10.3390/fib12040036"
+      },
+      "flags": []
+    },
+    {
+      "key": "source7",
+      "type": "article",
+      "line": 81,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    },
+    {
+      "key": "source8",
+      "type": "article",
+      "line": 93,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.35530/it.073.04.202167",
+        "doi": "10.35530/it.073.04.202167"
+      },
+      "flags": []
+    },
+    {
+      "key": "source9",
+      "type": "article",
+      "line": 105,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.1080/00405000.2023.2200301",
+        "doi": "10.1080/00405000.2023.2200301"
+      },
+      "flags": []
+    },
+    {
+      "key": "source10",
+      "type": "article",
+      "line": 117,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.14502/tekstilec.67.2024005",
+        "doi": "10.14502/tekstilec.67.2024005"
+      },
+      "flags": []
+    },
+    {
+      "key": "source11",
+      "type": "article",
+      "line": 129,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.1080/00405000.2024.2370547",
+        "doi": "10.1080/00405000.2024.2370547"
+      },
+      "flags": []
+    },
+    {
+      "key": "source12",
+      "type": "article",
+      "line": 141,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.1177/0040517520925859",
+        "doi": "10.1177/0040517520925859"
+      },
+      "flags": []
+    },
+    {
+      "key": "source15",
+      "type": "article",
+      "line": 153,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.1177/15280837221130516",
+        "doi": "10.1177/15280837221130516"
+      },
+      "flags": []
+    },
+    {
+      "key": "source13",
+      "type": "article",
+      "line": 164,
+      "status": "VERIFIED",
+      "resolved": {
+        "source": "Crossref",
+        "url": "https://doi.org/10.5505/pajes.2023.03271",
+        "doi": "10.5505/pajes.2023.03271"
+      },
+      "flags": []
+    },
+    {
+      "key": "source16",
+      "type": "techreport",
+      "line": 176,
+      "status": "PARSED_ONLY",
+      "resolved": null,
+      "flags": []
+    }
+  ],
+  "summary": {
+    "total": 16,
+    "verified": 10,
+    "errors": 0,
+    "warnings_only": 0,
+    "warnings_by_flag": {},
+    "unresolved": 0,
+    "retracted": 0,
+    "canonical_instance": 0,
+    "low_relevance": 0,
+    "checks_skipped": 0
+  }
+}

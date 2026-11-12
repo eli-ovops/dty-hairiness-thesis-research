@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-11-05T11:37:28.952384+08:00",
+  "source_url": "https://gitlab.com/crossref/retraction-watch-data/-/raw/main/retraction_watch.csv?ref_type=heads&inline=false",
+  "sha256": "2d92c4a05eb1faca0862db3dafa1f9679b8214c1d5c4dd6a86b729838dacdc0e",
+  "bytes": 67900410,
+  "rows": 73627,
+  "search_titles": {
+    "ref01": "Reason analysis of broken filament and process optimization of 111 dtex / 144 f polyester DTY",
+    "ref02": "Influence of Equilibration Time on the Properties of 111 dtex/144 f Cationic Dyeable Polyester DTY",
+    "ref04": "Influence of Polyester DTY Quality On Weaving and its Solutions",
+    "ref05": "Research and application progress of localization of polyester filament oil agents",
+    "ref13": "Study on the effect of draw texturing process on the mechanical and dyeing performance of polyester DTY"
+  },
+  "matches": {
+    "ref01": [],
+    "ref02": [],
+    "ref04": [],
+    "ref05": [],
+    "ref13": []
+  },
+  "note": "Exact normalized English title or target contained in record title only; missing results are not proof of no retraction; English title for ref05 derived from source file name, verify if relevant."
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE fontconfig SYSTEM "urn:fontconfig:fonts.dtd">
+<fontconfig>
+  <dir>/System/Library/Fonts</dir>
+  <dir>/Library/Fonts</dir>
+  <dir>/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/Resources/fonts/truetype</dir>
+  <cachedir>/Volumes/EXTERNAL/论文/研究工作/完整论文初稿-v0.1-2026-11-05/字体缓存</cachedir>
+  <alias><family>sans-serif</family><prefer><family>Arial Unicode MS</family></prefer></alias>
+</fontconfig>

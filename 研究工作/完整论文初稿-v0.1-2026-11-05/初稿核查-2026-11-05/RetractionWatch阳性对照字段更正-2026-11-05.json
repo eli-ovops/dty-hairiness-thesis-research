@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-11-05T11:39:51.481749+08:00",
+  "source": "RetractionWatch控制样本定位-2026-11-05.json",
+  "sha256": "2d92c4a05eb1faca0862db3dafa1f9679b8214c1d5c4dd6a86b729838dacdc0e",
+  "control_original_doi": "10.2147/cmar.s324920",
+  "control_notice_doi": "10.2147/cmar.s358886",
+  "explanation": "The first control incorrectly used the notice DOI as OriginalPaperDOI, causing zero matches. The source scan found the notice, identified the original DOI, and the same normalization matches it. This tests identifier-field mapping, not completeness.",
+  "matched": true,
+  "record": {
+    "Record ID": "35093",
+    "Title": "LncRNA FOXD3-AS1 Promotes Tumorigenesis of Glioma via Targeting miR-128-3p/SZRD1 Axis",
+    "OriginalPaperDOI": "10.2147/CMAR.S324920",
+    "RetractionDOI": "10.2147/CMAR.S358886",
+    "RetractionNature": "Retraction"
+  }
+}

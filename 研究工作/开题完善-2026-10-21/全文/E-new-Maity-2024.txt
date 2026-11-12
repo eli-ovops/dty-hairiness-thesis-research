@@ -1,0 +1,796 @@
+=== PDF PAGE 1 ===
+56
+Tekstilec, 2024, Vol. 67(1), 56-67   |   DOI: 10.14502/tekstilec.67.2024005
+Content from this work may be used under the terms of the Creative Commons Attribution CC BY 4.0 licence (https://creativecommons.org/licenses/by/4.0/). 
+Authors retain ownership of the copyright for their content, but allow anyone to download, reuse, reprint, modify, distribute and/or copy the content as long as 
+the original authors and source are cited. No permission is required from the authors or the publisher. This journal does not charge APCs or submission charges.
+Subhankar Maity, 1 Bibekananda Basu, 2 Abhishek Mishra 3
+1 Uttar Pradesh Textile Technology Institute, Kanpur, India
+2 Reliance Industries Limited, Silvassa, India
+3 Himson Engineering, Surat, India
+Comparative Performance of  Textured Yarn Drawn 
+through Apron and Godet in Draw Texturing Machine
+Primerjava kakovosti prej, izdelanih na razteznoteksturirnih 
+strojih z jermeni in strojih z galetami
+Original Scientific Article/Izvirni znanstveni članek
+Received/Prispelo 6-2023 • Accepted/Sprejeto 3-2024
+Corresponding author/Korespondenčni avtor:
+Subhankar Maity 
+E-mail: [REDACTED_EMAIL] 
+ORCID: 0000-0002-7314-6241
+Abstract
+Over the past 20 years, in filament draw texturing, very few developments and innovations have been intro -
+duced into production machineries. The growing demand for energy efficiency, faster production rates and 
+greater production flexibility have prompted our investigation into non-traditional approaches to improve 
+yarn control during the texturing. Instead of aprons, small individually driven godets are a solution for high-
+speed manufacturing, yarn control and energy saving. The drawing godets, where the yarn can be consid -
+ered an elastic coupling element between two consecutive godets, pose a new challenge for consistency in 
+velocity control. Though some machinery manufacturers have introduced the godet system, the yarn quality 
+produced by the godet system is not systematically evaluated and compared vis-à-vis the apron system. 
+The current study prepared textured yarns in both apron and godet systems while maintaining the same 
+texturing parameters. Differences in the yarn’s bulk, modulus, breaking elongation, tenacity and boiling water 
+shrinkage were assessed and compared. Woven and knitted fabrics were prepared from textured yarns, and a 
+comparative analysis of fabric properties was performed with respect to their tearing strength, air permeabil-
+ity, drape and dyeability. Better quality of yarn and fabrics can be prepared in the godet system, which is en-
+ergy saving, of higher speed and requires low maintenance technology in comparison to the apron system.
+Keywords: draw texturing, godet, apron, texturing, bulk, false twist texturing, yarn control
+Izvleček
+V zadnjih dvajsetih letih je bila strojna oprema za raztezno teksturiranje filamentnih prej zelo malo posodobljena 
+ali inovirana. Naraščajoče zahteve  po energetski učinkovitosti, višji produktivnosti in proizvodni prilagodljivosti so 
+spodbudile našo raziskavo o netradicionalnih pristopih k izboljšanju kontrole preje med teksturiranjem. Majhne, in-
+dividualno gnane galete namesto jermenov so rešitev za visokohitrostno proizvodnjo, kontrolo preje in varčevanje 
+z energijo. Raztezne galete, kjer je prejo mogoče obravnavati kot elastični spojni element med dvema zaporednima 
+
+=== PDF PAGE 2 ===
+Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine
+57
+galetama, so nov izziv doslednega nadzora hitrosti. Čeprav so nekateri izdelovalci strojev že uvedli sistem galet, 
+kakovost te preje ni bila sistematično ovrednotena in primerjana s kakovostjo preje, izdelane z jermenskim siste -
+mom. V tej raziskavi je bila izvedena primerjava teksturiranih prej, izdelanih s pomočjo obeh sistemov pri enakih 
+parametrih teksturiranja, in sicer razlike v voluminoznosti, modulu elastičnosti, pretržnem raztezku, trdnosti in 
+krčenju prej v vreli vodi. Lastnosti tkanin in pletiv, izdelanih iz primerjanih teksturiranih prej,  so bile ocenjene glede 
+trdnosti, zračne prepustnosti, možnosti drapiranja (pada) in obarvljivosti. Ugotovljena je bila boljša kakovost preje, 
+tkanin in pletiv iz preje, izdelane na stroju z galetami, ki je energijsko varčnejši, omogoča višje proizvodne hitrosti in 
+manj vzdrževanja kot stroj z jermeni.
+Ključne besede: raztezno teksturiranje, galeta, jermen, teksturiranje, voluminoznost, teksturiranje z lažnim vitjem, 
+kakovost preje
+1 Introduction
+In the field of texturing, false-twist technology is 
+the most popular and dominant technology for 
+providing bulk and/or stretch to synthetic yarns. 
+False twist texturing is a process in which a bundle 
+of continuous filament yarn is subjected to drawing 
+and twisting while being heated simultaneously and 
+then twisting in the reverse direction as the strand 
+of filaments is gradually cooled. The process is also 
+called simultaneous draw texturing. The resulting 
+yarn develops stretch and bulk, known as textured 
+yarn. Partially oriented yarn (POY) is the standard 
+feed material for texturing machines [1].
+Over the past 20 years, very few developments and 
+innovations have been introduced into production 
+machines in filament draw texturing. The increasing 
+need for energy saving, higher production speed 
+and low maintenance has brought us to think about 
+unconventional solutions for yarn control during the 
+whole texturing process sequence. Though there are 
+several studies available in the literature on the effects 
+of various process parameters of texturing on yarn 
+properties, limited information is available on the 
+effect of the drawing system itself on yarn properties 
+[2–7]. There are four T’s, i.e. Twist, Time, Tempera-
+ture and Tension, which are found to be important 
+parameters affecting textured yarn properties and 
+are widely studied by various researchers [3, 8–10]. 
+Each of these parameters is important to get a perfect 
+textured yarn with the desired physical properties.
+Figure 1: Line diagram of conventional draw texturing 
+machine with nip roller attachment
+Legend: 1 – creel, 2 – POY package, 3 – guide rod, 4 – cutter, 5 – in-
+put roller, 6 – telephone guide, 7 – twist stopper, 8 – primary heater, 
+9 – cooling plate, 10 – positorque unit, 11 – thread guide, 12 – inter-
+mediate roller, 13 – secondary heater, 14 – output roller, 15 – sensor, 
+16 – anti-static roll, 17 – drum, 18 – package, 19 – thread guide
+The draw ratio is one of the essential parameters 
+that decide the desired textured yarn denier from 
+the supply of POY . The draw ratio is altered by 
+adjusting the speed of the input and intermediate 
+roller [9]. The intermediate roller speed is generally 
+kept constant and the input roller speed is altered to 
+attain the desired draw ratio. Figure 1 presents the 
+line diagram of a conventional texturing machine. 
+
+=== PDF PAGE 3 ===
+58
+Tekstilec, 2024, Vol. 67(1), 56-67 
+All the feed, intermediate and output roller systems 
+(also called shafts) have two rollers, a steel roller and 
+a rubber-coated nip roller. The rubber-coated nip 
+roller is used to grip the yarn better during the tex -
+turing and control the yarn tension. The POY from 
+the spool enters the input roller. It is drawn between 
+the input and intermediate roller, where drawing, 
+heating, cooling and simultaneous false twisting are 
+done to get the desired yarn with bulk and texture. 
+After the intermediate roller, the yarn is passed 
+through the secondary heater to set the yarn, then 
+passed through the output roller, and finally onto the 
+winding drum to form the package via oil roll [10].
+The input, intermediate and output rollers con -
+trol the yarn tension during the texturing process. 
+The yarn tension must be uniform at every location 
+at all positions. Any tension variation can create 
+yarn defects like tight spots, bulk variation and low 
+strength characteristics. Such tension variation can 
+happen due to the poor grip of the outgoing yarn 
+from one pair of rollers to the next. The improper grip 
+can be due to the less spring load of the roller holder, 
+bad condition of the nip roller, groove formed in the 
+nip roller, improper roller hardness, the created gap 
+between the steel and nip roller, roller vibrations etc. 
+Cases become severe at higher texturing speeds and 
+for finer denier yarns [10, 11].
+There have been further developments in the roll-
+er systems (shafts). In the intermediate roller section, 
+two wrappings are applied on the nip rollers for a 
+better grip, as shown in Figure 2 [12]. However, many 
+accessories are involved in maintaining the wrappings 
+and attracting many other drawbacks. Roller gaps, 
+vibrations and groove formations disturb the yarn 
+path and the tensions causing defective yarn forma-
+tion. Frequent buffing is another drawback that causes 
+additional cost hikes. Cases become severe at higher 
+texturing speeds and for finer denier yarns [12, 13].
+To get rid of all of these, industries initially 
+opted for the apron system in the intermediate zone; 
+however, later, the aprons were put in the input and 
+output zones. Figure 3 shows the apron assembly in 
+the texturing machine. Each assembly consists of a 
+rubber belt mounted on the main steel roller with 
+the help of two crowned rollers at both sides of the 
+belt. A spring-loaded apron holder pressures the belt. 
+The apron rollers are crowned for uniform pressure 
+distribution by accurate alignments and prevent any 
+deflection. The crowned rollers are small tom-tom-
+shaped rollers designed especially for better grip not 
+to allow the belt to come out from the steel roller.
+Figure 3: Apron assembly in draw texturing machine
+With further development, the concept of godet 
+in draw texturing machine was first brought in the 
+year 2003 for better drawing among the input and 
+intermediate zones where the slippage is just elim -
+inated with stress-free yarn feeding with uniform 
+and consistent yarn evenness of the textured yarn 
+[14]. The godets are individually motor-driven and 
+steel-made chrome-plated rollers and are a one-time 
+investment only. Here, the godet replaces conven -
+tional rollers to transport the yarn upstream and 
+downstream to the texturing zone. Figure 4 shows 
+the godet system in the texturing machine. It is 
+claimed that the godet system provides better yarn 
+quality and process stability, and guarantees reduced 
+energy and spare part consumption.
+Figure 2: Double wrappings in intermediate rollers
+
+=== PDF PAGE 4 ===
+Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine
+59
+Figure 4: Godet system in draw texturing machine 
+[14]
+Figure 5 shows a line diagram of the entire draw 
+texturing machine with a godet attachment. At the 
+output zone, the apron is used, which is considered a 
+secondary zone to the drawing zone. Here, the apron 
+can serve the purpose of setting the yarn well by 
+stabilising overfeed.
+Figure 5: Line diagram of draw texturing machine 
+with motorised godet attachments
+Legend: 1 – creel, 2 – POY package, 3 – guide rod, 3 – cutter, 3 
+– godet, 4 – yarn guide, 5 – twist stopper, 6 – primary heater, 7 
+– cooling plate, 8 – friction texturing unit, 9 – thread guide, 10 – 
+godet intermediate zone, 11 – intermingling zone, 12 – additional 
+godet for better intermingling, 13 – secondary heater, 14 – output 
+roller, 15 – sensor, 16 – antistatic roll, 17 – drum, 18 – package, 
+19 – thread guide
+From the descriptions above, it is understood 
+that the machinery manufacturers have made efforts 
+to improve the textured yarn quality, increase the 
+life of spares and minimise costs. The conception 
+of godet technology has arrived in the industry for 
+the betterment of product quality, performance 
+of the machinery and cost reduction. However, 
+the yarn quality produced by the godet system is 
+not systematically evaluated and compared to the 
+vis-à-vis apron system. In this study, textured yarns 
+were prepared both in an apron and godet system, 
+keeping the same texturing parameters, and yarn 
+qualities like bulk, liner density, tenacity, breaking 
+elongation, modulus and boiling water shrinkage 
+were evaluated and compared. Woven and knitted 
+fabrics were prepared from textured yarns and prop-
+erties like tearing strength, air permeability, drape 
+and dyeability were evaluated and compared.
+2 Materials and methods
+Polyester POY (dtex 161.1/34 semi-dull) was used 
+as feed yarn. Trial 1 was made on a texturing pilot 
+machine with an apron system. Trial 2 and Trial 3 
+were made on a texturing machine equipped with 
+a godet system but with different draw ratio levels. 
+Detailed machine parameters are shown in Table 1.
+The yarn samples prepared from Trial 1 (apron 
+system), Trial 2 (godet system) and Trial 3 (godet 
+system) were used as weft in a waterjet loom to 
+prepare plain woven fabrics. The speed of manufac-
+turing (550 rpm), reed (72/3), picks/meter (3150), 
+ends/meter (4252) and warp yarn linear density 
+(88.89 dtex, 72 intermingling filaments) was kept 
+similar for the preparation of woven fabric samples.
+The yarn samples prepared in Trial 1 (apron 
+system), Trial 2 (godet system) and Trial 3 (godet 
+system) were used in a circular knitting machine to 
+prepare single jersey fabrics using the same machine 
+parameters.
+
+=== PDF PAGE 5 ===
+60
+Tekstilec, 2024, Vol. 67(1), 56-67 
+2.1 Measurement of birefringence and 
+molecular orientation
+In line with Ehringhaus, the compensation method 
+was used for filament birefringence determination 
+using an advanced polarising microscope (Radical 
+RXLr-5 POL). The diameter of the filament was 
+measured microscopically using an eye-piece 
+micrometre. The measurements were performed 
+at a wavelength of 546.1 nm (white light), and the 
+birefringence ( n = Δ/d ) was calculated using the 
+measured retardation (Δ)  and fibre thickness (d)
+2.2 Measurement of yarn bulk
+The yarn bulk after the texturing was characterised 
+by bulking factor ( θ), which is defined as the ratio 
+of the specific volume of the textured yarn to the 
+specific volume of the parent filament yarn before 
+the texturing, as shown in Equation 1:
+(1)
+The specific volume of yarn ( v) is given by 
+Equation 2:
+(2)
+Table 1: Machine and process parameters of texturing machine for sample preparation
+Parameters Trial 1 Trial 2 Trial 3
+Process parameter apron system godet System I godet System II
+Speed (m/min) 700 700 700
+Draw ratio 1.85 1.85 1.78
+Ratio of disk surface speed to yarn speed (D/Y) 1.55 1.55 1.55
+Primary heater temperature (°C) 205 205 205
+Secondary heater temperature (°C) 170 170 170
+Stabilising overfeeds (%) 5.5 5.5 5.5
+Take up (%) 4.5 4.5 4.5
+Primary heater length (m)/Tube diameter (mm) 1.75/7 2/7 2/7
+Secondary heater length (m)/Tube diameter (mm) 1.40/4 1.40/4 1.40/4
+Cooling plate length (m) 1.65 1.75 1.75
+PU disc configuration 1-4-1 1-4-1 1-4-1
+Disc diameter (mm)/Thickness (mm) 54.5/9 54.5/9 54.5/9
+Input tension (T1) (cN) 27 40 30
+Output tension (T2) (cN) 15 38 22
+Ratio of output tension to input tension (T2/T1) 0.55 0.95 0.73
+where d is the mean yarn diameter in meter, l is the 
+length of the sample in meter, m is the mass in gram, 
+and Tt is the linear density of the yarn in tex. The 
+mean diameter of yarn samples was measured by us-
+ing a Leica optical microscope (DM 2500P) with 40× 
+magnification. The yarn diameter was measured by 
+using annotation in the image processing software.
+2.3 Measurement of linear density
+To measure linear density, 100 m length of yarns was 
+wound on a wrap reel with 1 m circumference and 
+weighed on an electronic analytical balance with a 
+sensitivity of 0.1 mg. Linear density in dtex was cal -
+culated. The average linear density was taken from 
+five samples.
+2.4 Measurement of tensile properties
+The tensile properties of textured yarns were 
+measured with an Instron 3356 Tensile Tester. The 
+instrument operates at a constant rate of extension 
+principle. Following ASTM D 2256  with a gauge 
+length of 50 cm, the cross-head moving speed was 
+adjusted to give a yarn failure time of 20 s ± 3 s [15]. 
+Thirty tests were conducted for each yarn package, 
+and the average tenacity, elongation and modulus 
+results were obtained.
+
+=== PDF PAGE 6 ===
+Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine
+61
+2.5 Measurement of boiling water shrinkage
+The boiling water shrinkage test was performed 
+according to the DIN 53866 standard [16]. Six speci-
+mens were tested. Tensioning weight of 0.125  cN/tex 
+was applied to the yarn, which was 1 m in length, and 
+a hank was formed. The first length in this condition 
+was recorded as l1 and then the load was removed. 
+The yarn was wetted in a soap solution (1 g of soap/1 
+L water) and left in the solution at 100 °C for 15 min 
+and then dried for one hour at 60  °C, after which 
+the yarn was hung for 1 h on the device. Afterwards, 
+the same weight was applied to the yarn, and the 
+length was recorded as l2. Boiling water shrinkage 
+was calculated with Equation 3:
+(3)
+2.6 Measurement of woven fabric properties
+A universal tensile tester was used to measure the 
+fabrics’ tearing strength using the tongue (single 
+rip) tearing strength approach in accordance with 
+the ASTM D2261 standard [17]. Samples measuring 
+20.3 cm (8 inches) long by 7.6 cm (3 inches) wide 
+were cut from both warp and weft directions, with 
+an additional 7.6 cm (3 inches) cut made for tear 
+propagation. The jaws were 7.6 cm (three inches) 
+apart from one another. A 5.1 cm/min (2-inch per 
+minute) test speed was used. The average tearing 
+strength was computed after five samples were 
+examined in both warp and weft directions. The 
+ASTM D737 test standard, which measures the 
+airflow rate under constant air pressure drop, was 
+used to measure the air permeability of all fabrics 
+using an air permeability tester FX3300 [18]. For each 
+fabric, five samples were measured in order to get an 
+average value. The Cusick drape tester measured the 
+three-dimensional fabric drape due to gravity. The ex-
+perimental method involved hanging a 15 cm radius 
+fabric specimen over, a 9 cm radius supporting disc. 
+A parallel light source inside the drape tester formed 
+a shadow from the draping specimen onto a piece of 
+paper; the shadow pattern on the paper was traced out 
+and drape coefficient was then calculated [14].
+2.7 Dyeing and colour measurements
+Dyeing was performed in a sample jet dyeing ma -
+chine (ATAC, Turkey) with the following dyeing pa-
+rameters. Dye (CI Disperse Blue 56) concentration: 
+2% on the weight of fabric, dispersing agent (Disper-
+ol PE, Unichem): 2 g/L, acetic acid: 1 g/L to maintain 
+pH between 5 and 5.5, M : L 1 : 10, temperature: 120 
+°C, pressure: 2 N/m2, fabric speed: 30 m/min, time 1 
+h. After the dying, samples were thoroughly rinsed 
+and treated with a solution containing 2 g/L NaOH 
+and 2 g/L Na2S to remove loose dye molecules from 
+the fabric surface. Finally, the fabrics were rinsed 
+again and dried for further testing.
+The colour strength of dyed fabrics was measured 
+with a Datacolour SPECTRUM 650 TM spectrome-
+ter. The K/S values of the dyed fabrics were measured 
+over the visible wavelength range 400–700 nm. This 
+K/S ratio is related to the reflectance R of an opaque 
+colourant layer and is expressed with Equation 4:
+(4),
+where K is the absorption coefficient, S is the 
+scattering coefficient and R  is the reflectance value 
+at maximum absorbance wavelength. The surface 
+colour strength, i.e. K/S value , is directly propor -
+tional to the concentration of dye molecules on dyed 
+textile samples as well as attributed to higher light 
+absorption.
+3 Results and discussion
+In all three trials conducted, no package fault was 
+found. The resultant yarn linear density, tenacity, 
+breaking elongation, modulus and boiling water 
+shrinkage of control yarn and three textured yarns 
+are shown in Table 2.
+
+=== PDF PAGE 7 ===
+62
+Tekstilec, 2024, Vol. 67(1), 56-67 
+Table 2: Yarn properties before and after texturing trials
+Sl. 
+no.
+Yarn 
+samples
+Properties
+BirefringenceLinear 
+density 
+(den)
+Tenacity 
+(g/den)
+Breaking 
+elongation (%)
+Initial 
+modulus 
+(g/den)
+Boiling water 
+shrinkage (%)
+Bulk factor 
+(θ)
+1 Control yarn 
+(POY)
+149.21 
+(4.32) 1.79 (0.09) 327.00 (9.12) 8.07 (0.10) 33.33 (1.12) 0 0.09
+2
+Trial 1 
+(apron 
+system)
+91.78 (2.01) 3.78 (0.12) 64.51 (1.88) 13.17 
+(0.19) 23.33 (0.98) 16.4 (1.01) 0.12
+3
+Trial 2 
+(godet 
+system I)
+85.46 (1.22) 3.88 (0.11) 46.02 (1.11) 12.10 
+(0.14) 20.00 (0.98) 14.4 (0.95) 0.13
+4
+Trial 3 
+(godet 
+system II)
+88.33
+(1.23) 3.78 (0.12) 52.99 (1.21) 11.00 
+(0.11) 16.67 (0.88) 18.7 (1.12) 0.12
+(Standard deviation is shown in brackets.)
+3.1 Linear density of yarns prepared from 
+apron and godet system
+It can be seen from Table 2 that the linear density 
+of the control POY decreased significantly (p-value 
+< 0.05) after the texturing. Among the three trials 
+of texturing, the linear density of Trial 1 was found 
+to be the highest. This indicates that the linear 
+density of the yarns in the apron system is higher 
+than that of the godet system. This is due to the 
+godet system’s higher yarn tension (T 1) compared 
+to the apron system despite the draw ratio being 
+maintained constant.
+3.2 Linear density of yarns prepared from 
+godet system with different draw ratio
+It was observed that the linear density of yarn from 
+Trial 3 was significantly higher (p-value < 0.05) than 
+from Trial 2. This is due to the decrease in yarn ten-
+sion (T1) from 40 to 30 cN as a result of the decrease 
+in draw ratio from 1.85 to 1.78. The linear density of 
+the yarn increases with decreasing yarn tension.
+3.3 Tenacity of yarns prepared from apron 
+and godet system
+Table 2 shows that after the texturing, the tenacity of 
+the control POY increased by more than twice. The 
+godet system (Trial 2) produced yarn that is stronger 
+than that of the apron system (Trial 1). The godet 
+has a wrapping system which provides a better yarn 
+tension control with no slippage, resulting in higher 
+and uniform tension and thus in better molecular 
+orientation and good mechanical strength. However, 
+in the apron system, there is no such yarn tension 
+control system. As a result, there is the development 
+of low yarn tension with inconsistency causing 
+poor molecular orientation and inferior mechanical 
+strength. Moreover, the life of apron is shorter in 
+comparison to godet.
+The improvement in the tenacity of yarns after 
+the texturing is due to a higher level of yarn tension 
+resulting in the improvement in molecular orienta -
+tion along with filament axis, which is evident from 
+the data of birefringence, as shown in Table 2. The 
+higher the value of birefringence the better will be 
+molecular orientation. The birefringence of control 
+POY was 0.09 and rose to 0.12 after Trial 1 (apron 
+system) and to 0.13 after Trial 2 (godet system). 
+Therefore, at higher levels of yarn tension, the 
+molecular orientation of textured yarns improved, 
+resulting in better tenacity, which happened with 
+the textured yarn prepared from the godet system. 
+In the case of the godet system itself, if the draw 
+ratio decreased, yarn tenacity decreased. This can be 
+verified with the tenacity results of Trial 3 and Trial 
+2, where the tenacity of yarn from Trial 3 was lower 
+than that of Trial 2.
+
+=== PDF PAGE 8 ===
+Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine
+63
+3.4 Breaking elongation of yarns prepared 
+from apron and godet system
+It can be observed that the yarn breaking elongation 
+decreased significantly after the texturing. The reduc-
+tion of the breaking strain was due to the formation 
+of a more crystalline structure of the filament yarns 
+caused by better heat treatment in the secondary 
+heater zone [3]. At a higher level of crystallinity, the 
+scope for molecular movement is smaller, which 
+gives a stiffer mechanism in the filament structure, 
+attributing to low tensile strain.
+In comparison to the apron system, there was a 
+more significant reduction of breaking elongation in 
+the case of the godet system. On the other hand, in 
+the godet system, yarn breaking elongation increased 
+if the draw ratio decreased and D/Y increased. The 
+decrease in breaking elongation is attributed to the 
+higher crystallinity of the yarn structure.
+3.5 Initial modulus of yarns prepared from 
+apron and godet system
+The initial modulus of the yarn increased significant-
+ly after the texturing, which is due to a remarkable 
+reduction of breaking elongation and increment of 
+tenacity. The modulus of the yarn textured in the 
+apron system was found to be higher than that of the 
+godet system. Therefore, it is evident that the yarns 
+textured from the godet system are more flexible 
+than that of the apron system. In the godet system, if 
+the draw ratio decreased or D/Y increased, the yarn 
+modulus decreased.
+3.6 Boiling water shrinkage of yarns prepared 
+from apron and godet system
+The boiling water shrinkage significantly reduced 
+after the texturing. Compared to the apron system, 
+shrinkage was found greater in the godet system. 
+Even in the godet system, if the draw ratio decreased 
+and D/Y increased, yarn shrinkage was found to be 
+more prominent.
+The chain folding of macromolecules in the 
+amorphous phase to form a crystalline structure as 
+a result of increasing chain mobility caused boiling 
+water shrinkage. The entropic relaxation of excited 
+stretched chains resulting from macromolecule 
+rearrangements caused by internal stress during 
+orientation is the mechanism responsible for the 
+shrinkage of the oriented polymer structure above 
+the glass transition temperature. In contrast to 
+amorphous polymers, semi-crystalline polymers 
+exhibit crystallisation during these rearrangements 
+[3, 15].
+Figure 6: Optical microscopy images of textured samples (40× magnification)
+
+=== PDF PAGE 9 ===
+64
+Tekstilec, 2024, Vol. 67(1), 56-67 
+3.7 Optical microscopic images of textured 
+yarn samples
+The mean yarn diameters of all yarn samples were 
+measured in the microscopic images by using image 
+processing software. The microscopic images of all 
+yarn samples are shown in Figure 6. It can be seen 
+that the control yarn has straight monofilaments 
+without any crimp in the yarn body. After the 
+texturing, the straight configuration of the filament 
+changes to a curly configuration, generating crimps 
+in the yarn structure. The yarns are thus becoming 
+bulkier in structure. The bulk factor ( θ) of all yarn 
+samples was calculated with Equation 1. The results 
+are shown in Table 2. The bulk factor of textured 
+yarn from Trial 1 (apron system) is higher than that 
+of Trial 2 (godet system). However, in Trial 3, the 
+bulk factor improved and rose to 18.7, the highest 
+among all. This was due to low draw ratio and yarn 
+tension in Trial 3.
+3.8 Properties of woven fabrics prepared 
+from textured yarns
+The yarn samples prepared from Trial 1 (apron 
+system), Trial 2 (godet system) and Trial 3 (godet 
+system) were used as weft in a waterjet loom to 
+prepare plain woven fabrics. The speed of manufac-
+turing (550 rpm), reed (72/3), picks/meter (3150), 
+ends/meter (4252) and warp yarn linear density (80 
+den, 72 intermingling filaments) was kept similar 
+for the preparation of fabric samples. Areal density 
+(g/m2), air permeability, drape and tearing strength 
+were measured and compared for all three fabric 
+samples. The results are shown in Table 3. It can be 
+seen that there is no significant variation in the areal 
+density and tearing strength of the woven fabrics 
+prepared with yarns from three different trials. 
+However, the air permeability and drape coefficient 
+of the fabrics differ significantly. The air permeability 
+of the fabrics prepared from yarn textured in the 
+Table 3: Comparison of fabric properties
+Sl. 
+no. Fabric property Trial 1
+(apron system)
+Trial 2
+(godet system I)
+Trial 3
+(godet system II)
+1 Areal density (g/m 2) 73.4 (2.3) 71.6 (2.5) 72.8 (2.8)
+2 Air permeability (cm3cm–2s–1) 19.13 (1.23) 14.32 (1.11) 16.67 (1.25)
+3 Drape coefficient 56.43 (2.14) 71.45 (3.57) 72.37 (3.98)
+4 Tearing strength warp × weft (N) 17.502 × 17.061 (1.23, 1.56) 17.112 × 17.121 (1.45, 1.68) 17.282 × 17.8 (1.41, 1.61)
+(Standard deviation is shown in brackets.)
+apron system (Trial 1) was higher than that of the 
+godet systems, which may be due to the differences 
+in fabric porosity. The drape coefficient of the fabric 
+from Trial I is lower than that of the godet systems 
+due to comparatively loose or open fabric structure.
+3.9 Dyeability of knitted fabrics prepared 
+from textured yarns
+The yarn samples prepared from Trial 1 (apron 
+system), Trial 2 (godet system) and Trial 3 (godet 
+system) were used in a circular knitting machine 
+to prepare single jersey fabrics using the same 
+machine parameters. The knitted fabrics were pre -
+pared continuously and later dyed with a disperse 
+blue dye, keeping the same dyeing conditions in an 
+HTHP dyeing machine. The appearance of the fabric 
+samples is shown in Figure 7. The darkest shade was 
+found in the case of Trial 1, followed by Trial 3 and 
+Trial 2. The K/S values obtained from the computer 
+colour-matching instrument for all these samples 
+are shown in Table 4. The dye sorption of the yarn 
+can deeply affect the end-product quality and can 
+show the texturing process parameter variations. 
+A small alteration in orientation and crystallinity 
+may change dye diffusion. Dye sorption increases 
+with increasing mobility of the amorphous chains, 
+and dye diffusion depends on the orientation of 
+the amorphous chain segments [9]. The decrease in 
+the colour strength (K/S) in the godet system (Trial 
+2 and Trial 3) in comparison to the apron system 
+(Trial 1) can be attributed to the higher amorphous 
+orientation due to increased yarn tension during the 
+
+=== PDF PAGE 10 ===
+Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine
+65
+texturing in the godet systems. Between Trial 2 and 
+Trial 3, colour strength is lower in the case of Trial 2 
+sample, which is due to the increased drawing ratio, 
+resulting in better amorphous orientation. Oriented 
+amorphous material inhibits dye molecule diffusion, 
+thus lowering the dye uptake [3].
+Figure 7: Dyed knitted fabrics prepared from textured yarns
+Trial 1 (Apron system) Trial 2 (Godet system I) Trial 3 (Godet system II)
+Table 4: K/S values of knitted fabrics
+Sl. no. Fabric name K/S value
+1 Trial 1 (apron system) 3.232
+2 Trial 2 (godet system I) 1.218
+3 Trial 3 (godet system II) 2.132
+4 Conclusion
+The linear density of the yarn decreased significantly 
+after the texturing of the control POY . The decrement 
+of linear density was found to be higher in the case 
+of the apron system than that of the godet system of 
+drawing. If the draw ratio decreased, the linear den-
+sity of yarns increased. The tenacity of yarn produced 
+in the godet system was better than that of the apron 
+system. If the draw ratio decreased, the tenacity of 
+yarn decreased. The breaking elongation of yarn 
+after texturing drastically reduced. In the case of the 
+godet system, the reduction was even greater than 
+that of the apron system. The initial modulus of the 
+yarn increased significantly after the texturing. The 
+initial modulus in the apron system was found to be 
+higher than that of the godet system. The boiling wa-
+ter shrinkage was greater in the godet system than in 
+the apron system. Y arn bulk was found to be higher 
+in the apron system than that of the godet system. 
+No significant variations in areal density and tearing 
+strength of the woven fabrics prepared with yarns 
+from three different Trials were found. However, the 
+air permeability and drape coefficient of the fabrics 
+differed significantly. The air permeability of fabrics 
+prepared with yarn textured in the apron system was 
+significantly higher, and the drape coefficient was 
+significantly lower than that of the godet systems. 
+The dyeability of the knitted fabric prepared with 
+yarns from the apron system was significantly better 
+than that of the godet system.
+Therefore, it can be concluded that the tensile 
+strength and flexibility of textured yarn prepared 
+with the godet system is better than the one prepared 
+with the apron system. Though the bulk of the yarn 
+in the godet system is inferior to the apron system, 
+it can be improved by altering texturing parameters 
+such as the draw ratio, D/Y ratio, heater temperature 
+etc. Overall, better quality of yarn and fabrics can be 
+prepared in the godet system, which is energy sav -
+ing, of higher speed and requires low maintenance 
+technology in comparison to the apron system.
+
+=== PDF PAGE 11 ===
+66
+Tekstilec, 2024, Vol. 67(1), 56-67 
+Acknowledgements
+We would like to thank Reliance Industries Ltd., Surat, 
+India for providing the POY sample and Mr Darshan 
+Bhai Bachkaniwala, (Managing Director, Himson 
+Engineering, Surat, India) for providing the facility 
+for yarn texturing to conduct the trials. Moreover, 
+we are grateful to Mr Jariwala, Patel Fabrics, Surat, 
+India for allowing us the use of the facility of a water 
+jet loom to prepare woven fabrics and to Beekaylon 
+Industries, Silvassa for helping us to prepare knitted 
+fabric samples.
+Statements and Declarations
+No funding was received to conduct this study. The 
+authors have no competing interests to declare that 
+are relevant to the content of this article. There is no 
+conflict of interest.
+References
+1. ATKINSON, C. False twist textured yarns: prin-
+ciples, processing and applications. Cambridge : 
+Woodhead Publishing, 2012.
+2. CANOGLU, S., BASTURK, F ., SUV ARI, F . 
+Investigating the effects of draw ratio, hot-pin 
+temperature, and overfeeding on the color values 
+of air-jet textured polyester yarns. The Journal of 
+The Textile Institute, 2014, 105(5), 547–552, doi: 
+10.1080/00405000.2013.827389.
+3. BASU, B., MAITY , S. Effects of stabilising 
+overfeed on the properties of draw tex -
+tured polyester yarns. The Journal of The 
+Textile Institute , 2024, 115(2), 278-283, doi: 
+10.1080/00405000.2023.2200301.
+4. FASHOLA, K.O., GIW A, A., ILIYA, E.B., 
+ONEMANO, J.G. Studies on the properties 
+of some selected polyester textured yarns. 
+Middle-East Journal of Scientific Research, 2012, 
+11(4), 498-502.
+5. MILLER, R.W ., MURAYAMA, T. Dynamic 
+mechanical properties of partially oriented 
+polyester (POY) and draw‐textured polyester 
+(PTY) yarns. Journal of Applied Polymer 
+Science, 1984, 29(3), 933–939, doi: 10.1002/
+app.1984.070290321.
+6. SENGUPTA, A.K., GULRAJANI, M.L., SETTY , 
+S. Influence of draw ratio and drawing tempera-
+ture on false twist textured nylon 6 multifilament 
+yarns. Indian Journal of Fibre & Textile Research 
+(IJFTR), 1979, 4(3), 95–98.
+7. BALDUA, R.K., RENGASAMY , R.S., 
+KOTHARI, V .K. Effect of linear density of feed 
+yarn filaments and air-jet texturing process 
+variables on compressional properties of fabrics. 
+Indian Journal of Fibre & Textile Research (IJF-
+TR), 2017, 42(1), 9–16.
+8. W ARWICKER, J.O. Structural and performance 
+changes in polyester yarn brought about by si -
+multaneous draw texturing processes. Journal of 
+Applied Polymer Science, 1978, 22(1), 187–202, 
+doi: 10.1002/app.1978.070220113.
+9. YILDIRIM, K., ALTUN, S., ULCAY , Y . Rela -
+tionship between yarn properties and process 
+parameters in false-twist textured yarn. Journal 
+of Engineered Fibers and Fabrics, 2009, 4(2), 1–7, 
+doi: 10.1177/155892500900400205.
+10. HEARLE, J.W .S., HOLLICK, L., WILSON, D.K. 
+Yarn texturing technology. Cambridge : Wood -
+head Publishing, 2001.
+11. SHAMEY , R., SHIM, W .S. Assessment of key 
+issues in the coloration of polyester material. 
+Textile Progress , 2011, 43(2), 97–153, doi: 
+10.1080/00405167.2011.565151.
+12. THW AITES, J.J., HOOPER, C.W . 21 – The 
+dynamics of the false twist process part III: Ex -
+periments with fully drawn yarn. The Journal of 
+The Textile Institute, 1981, 72(6), 239–248, doi: 
+10.1080/00405008108631658.
+13. 13. CANNON, C.G. 21 – Filament defor -
+mations in simultaneous drawtexturing by 
+the false-twist method. The Journal of The 
+Textile Institute , 1979, 70(6), 243–252, doi: 
+10.1080/00405007908658803.
+14. Polymer processing [online]. Oerlikon [accessed 
+1. 1. 2023]. Available on World Wide Web: 
+
+=== PDF PAGE 12 ===
+Comparative Performance of Textured Yarn Drawn through Apron and Godet in Draw Texturing Machine
+67
+<https://www.oerlikon.com/polymer-process -
+ing/en/solutions-technologies/polymer-pro -
+cessing/>.
+15. ASTM D2256-02. Standard test method for 
+tensile properties of yarns by the single-strand 
+method. West Conshohocken : ASTM Interna -
+tional, 2008, 1–12, doi: 10.1520/D2256-02R08.
+16. DIN 53866-12. Testing of textiles; shrinkage be-
+haviour of yarns; determination of the shrinkage 
+force in gaseous and fluid media; short length 
+method. Beuth Publishing, 1987, 1–7.
+17. ASTM D2261-13. Standard test method for 
+tearing strength of fabrics by the tongue (single 
+rip) procedure (constant-rate-of-extension 
+tensile testing machine). West Conshohocken 
+: ASTM International, 2024, 1–6, doi: 10.1520/
+D2261-13R24.
+18. ASTM D737-18. Standard test method for air 
+permeability of textile fabrics. West Consho -
+hocken : ASTM International, 2023, 1–5, doi: 
+10.1520/D0737-18.
+19. SAVILLE, B.P . Physical testing of textiles . Cam-
+bridge : Woodhead Publishing, 1999, 256–295.
+20. YILDIRIM, K., ULCAY , Y . An experimental 
+study and model development of poly(ethylene 
+terephthalate) yarn morphology. E-Polymers, 
+2014, 14(2), 121–131, doi: 10.1515/epo -
+ly-2013-0068.
